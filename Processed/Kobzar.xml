@@ -1,0 +1,885 @@
+<TEI.2 lang="en" xml:lang="en"><teiHeader type="text" status="new"><fileDesc><titleStmt><title nfc="4">The Kobzar of the Ukraine</title><author key="Shevchenko, Taras" ref="https://viaf.org/viaf/71436235/">Taras Shevchenko (1814&#8211;1861)</author><respStmt><resp>Translation</resp><name key="Hunter, Alexander Jardine" ref="https://viaf.org/viaf/300238084/">Alexander Jardine Hunter (1868&#8211;1940)</name></respStmt><respStmt><resp>Transcription</resp><name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt></titleStmt><publicationStmt><publisher>Project Gutenberg</publisher><pubPlace>Urbana, Illinois, USA.</pubPlace><idno type="LCCN">#####</idno><idno type="OLN">#####</idno><idno type="OLW">#####</idno><idno type="OCLC">#####</idno><idno type="LibThing">#####</idno><idno type="PGclearance">20220312090223shevchenko</idno><idno type="PGDPProjectId">projectID622e6ad9808a7</idno><idno type="PGSrc">68486-Shevchenko-The-Kobzar-of-the-Ukraine</idno><idno type="epub-id">urn:uuid:d2a69eb5-2f31-4267-9347-b8ccb6fe98bc</idno><idno type="PGnum">68486</idno><date>2022-07-09</date><availability><p>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at <xref url='https://www.gutenberg.org/'>www.gutenberg.org</xref>.
+
+ </p><p>This eBook is produced by the Online Distributed Proofreading Team at <xref url="https://www.pgdp.net/">www.pgdp.net</xref>.
+
+ </p><p>Scans of this book are available from the Internet Archive (copy <xref url="https://archive.org/details/kobzarofukraineb00shev">1</xref>, used for the covers and a few illustrations; <xref url="https://archive.org/details/kobzarofukraineb00shev_0">2</xref>, used for the text and most illustrations.)
+
+ </p></availability></publicationStmt><notesStmt><note type="Description">#####</note><note type="Credits">Produced by Jeroen Hellingman and the Online Distributed Proofreading Team at https://www.pgdp.net/ for Project Gutenberg.</note></notesStmt><sourceDesc><bibl> <author>Taras Shevchenko</author> <title>The Kobzar of the Ukraine</title> <date>1922</date> </bibl></sourceDesc></fileDesc><encodingDesc><p/><tagsDecl lang="xx" xml:lang="xx"><rendition selector=".small">font-size: small;</rendition><rendition selector=".large">font-size: large;</rendition><rendition selector=".xl">font-size: x-large;</rendition><rendition selector=".xxl">font-size: xx-large;</rendition><rendition selector=".center">text-align: center;</rendition><rendition selector="div.advertisement img">mix-blend-mode: darken;</rendition><rendition selector=".in2">text-indent: 2ex;</rendition><rendition selector=".in4">text-indent: 4ex;</rendition><rendition selector=".in6">text-indent: 6ex;</rendition><rendition selector=".in8">text-indent: 8ex;</rendition><rendition selector=".in10">text-indent: 10ex;</rendition><rendition selector=".in12">text-indent: 12ex;</rendition><rendition selector=".in14">text-indent: 14ex;</rendition><rendition selector=".in16">text-indent: 16ex;</rendition></tagsDecl></encodingDesc><profileDesc><langUsage><language id="en">English</language><language id="uk">Ukrainian</language><language id="xx">No linguistic content</language></langUsage><textClass><keywords><list><item>#####</item></list></keywords></textClass></profileDesc><revisionDesc><list><item>2022-07-02 Started.     </item></list></revisionDesc></teiHeader><text rend="stylesheet(style/classic.css)"><front id="frontmatter"><div1 id="cover" type="Cover"><p><figure id="cover-image" rend="image(images/front.jpg)"><figDesc>Original Front Cover.</figDesc></figure>
+
+
+
+
+
+ </p></div1><div1 id="frontis1" type="Frontispiece"><p><figure id="frontispiece"><figDesc>Geometric design.</figDesc></figure>
+
+
+
+ <pb id="pb1" facs="f:001"/> </p></div1><div1 id="french" type="FrenchTitle"><p rend="center large">THE KOBZAR <lb/>OF THE UKRAINE
+
+
+
+
+
+
+
+ <pb id="pb2" facs="f:002"/> </p></div1><div1 id="frontis2" type="Frontispiece"><p><figure id="portrait"><figDesc>Self-portrait of Taras Shevchenko.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb3" facs="f:003"/> </p></div1><div1 id="titlepage" type="TitlePage"><p><figure id="titlepage-image" rend="image(images/titlepage.png)"><figDesc>Original Title Page.</figDesc></figure>
+
+
+
+
+
+ </p></div1><titlePage><docTitle><titlePart type="main">The Kobzar of the Ukraine</titlePart></docTitle><byline>Being Select Poems of <lb/><docAuthor>TARAS SHEVCHENKO</docAuthor>
+
+ 
+
+ <lb/>Done into English Verse with Biographical Fragments by <lb/><docAuthor>ALEXANDER JARDINE HUNTER</docAuthor> </byline><docImprint>Printed in Winnipeg.
+
+ <lb/>Published by Dr. A. J. Hunter, <lb/>Teulon, Man. </docImprint></titlePage><pb id="pb4" facs="f:004"/><div1 id="copyright" type="Copyright"><p rend="center small">Copyright, Canada, 1922 <lb/>by Dr. A. J. Hunter, <lb/>Teulon, Man.
+
+
+
+
+
+
+
+
+
+ <pb id="pb5" n="5" facs="f:005"/> </p></div1><div1 id="toc" type="Contents"><head>Contents</head><p>                                      <ab type="tocPageNum">Page</ab>
+
+ </p><p><ref target="introduction">Introduction</ref>                             <ab type="tocPageNum">9</ab>
+
+
+
+ </p><p rend="center"><hi rend="bold">POEMS.</hi>
+
+
+
+ </p><p>BALLADS:
+
+ <list type="tocList"><item><ref target="monk">The Monk</ref>                                <ab type="tocPageNum">13</ab> </item><item><ref target="hamaleia">Hamaleia</ref>                                <ab type="tocPageNum">21</ab> </item><item><ref target="taras">The Night of Taras</ref>                      <ab type="tocPageNum">30</ab> </item></list>
+
+ </p><p>TALE:
+
+ <list type="tocList"><item><ref target="naimechka">Naimechka; or The Servant</ref>               <ab type="tocPageNum">39</ab> </item></list>
+
+
+
+ </p><p>SOCIAL AND POLITICAL POETRY:
+
+ <list type="tocList"><item><ref target="caucasus">Caucasus</ref>                                <ab type="tocPageNum">68</ab> </item><item><ref target="dead">To the Dead</ref>                             <ab type="tocPageNum">81</ab> </item><item><ref target="dream">A Dream</ref>                                 <ab type="tocPageNum">96</ab> </item><item><ref target="bondwoman">The Bondwoman&#8217;s Dream</ref>                  <ab type="tocPageNum">106</ab> </item><item><ref target="sentimental">To the Makers of Sentimental Idyls</ref>     <ab type="tocPageNum">109</ab> </item></list>
+
+
+
+ </p><p>POEMS OF EXILE:
+
+ <list type="tocList"><item><ref target="exile">A Poem of Exile</ref>                        <ab type="tocPageNum">114</ab> </item><item><ref target="memories">Memories of Freedom</ref>                    <ab type="tocPageNum">120</ab> </item><item><ref target="memories2">Memories of <corr>an </corr>Exile</ref>                      <ab type="tocPageNum">123</ab> </item><item><ref target="death">Death of the Soul</ref>                      <ab type="tocPageNum">124</ab> </item><item><ref target="hymn">Hymn of Exile</ref>                          <ab type="tocPageNum">126</ab> </item></list>
+
+
+
+ </p><p>RELIGIOUS POEMS:
+
+ <list type="tocList"><item><ref target="eleventh">On the 11th Psalm</ref>                      <ab type="tocPageNum">130</ab> </item><item><ref target="prayer1">Prayers</ref>                                <ab type="tocPageNum">132</ab> </item></list>
+
+
+
+ </p><p>EARLY POEMS:
+
+ <list type="tocList"><item><ref target="mighty">Mighty Wind</ref>                            <ab type="tocPageNum">136</ab> </item><item><ref target="fairy">The Water Fairy</ref>                        <ab type="tocPageNum">138</ab> </item></list>
+
+
+
+ </p><p>HUMOROUS AND SATIRICAL:
+
+ <list type="tocList"><item><ref target="nuns">Hymn of the Nuns</ref>                       <ab type="tocPageNum">140</ab> </item><item><ref target="goddess">To the Goddess of Fame</ref>                 <ab type="tocPageNum">141</ab> </item></list>
+
+
+
+ <pb id="pb6" n="6" facs="f:006"/>
+
+ </p><p>PREDICTION AND FAREWELL:
+
+ <list type="tocList"><item><ref target="iconoclasm">Iconoclasm</ref>                             <ab type="tocPageNum">143</ab> </item><item><ref target="testament">My Testament</ref>                           <ab type="tocPageNum">144</ab> </item></list>
+
+
+
+ </p><p rend="center"><hi rend="bold">BIOGRAPHICAL FRAGMENTS.</hi>
+
+ <list type="tocList"><item><ref target="who">Who Was Taras Shevchenko</ref>                <ab type="tocPageNum">11</ab> </item><item><ref target="cossacks">The Cossacks</ref>                            <ab type="tocPageNum">19</ab> </item><item><ref target="kobzars">Kobzars</ref>                                 <ab type="tocPageNum">29</ab> </item><item><ref target="forming">The Forming of a Life</ref>                   <ab type="tocPageNum">36</ab> </item><item><ref target="legacy">A Father&#8217;s Legacy</ref>                       <ab type="tocPageNum">67</ab> </item><item><ref target="serfdom">The Meaning of Serfdom</ref>                  <ab type="tocPageNum">79</ab> </item><item><ref target="freedom">Freedom and Friends</ref>                     <ab type="tocPageNum">94</ab> </item><item><ref target="triumphal">A Triumphal March</ref>                      <ab type="tocPageNum">103</ab> </item><item><ref target="autocrat">Autocrat Versus Poet</ref>                   <ab type="tocPageNum">112</ab> </item><item><ref target="siberian">Siberian Exile</ref>                         <ab type="tocPageNum">118</ab> </item><item><ref target="returning">Returning Home</ref>                         <ab type="tocPageNum">127</ab> </item></list>
+
+
+
+
+
+ </p><p><figure id="p006" rend="image(images/p006.png)"><figDesc>House with melon and sunflower in garden.</figDesc></figure>
+
+
+
+
+
+
+
+
+
+ <pb id="pb7" n="7" facs="f:007"/> </p></div1><div1 id="illustrations" type="Note"><head>Illustrations</head><p><figure id="o007-1" rend="image(images/o007-1.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+ </p><p><hi>The decorations and illustrations in this book are meant to show something of Ukrainian art.</hi>
+
+ </p><p><hi>The artistic instincts of the peasant women find satisfaction largely in the working of embroidery, each district having its own characteristic types of design.</hi>
+
+ </p><p><hi>One of Shevchenko&#8217;s favorite fancies was to compare his versification to the work of the girls and women embroidering their designs on their garments. He frequently speaks of himself as &#8220;embroidering verses.&#8221;</hi>
+
+ </p><p><hi>It is a favorite device of Ukrainian book-makers to decorate their pages with miniature landscapes and little figures.</hi>
+
+ </p><p><hi>The frontispiece of the present work is a picture of Shevchenko in youth from an original painted by himself. On page 129 we see him as he looked after his return from exile.</hi>
+
+ </p><p><figure id="o007-2" rend="image(images/o142.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+
+
+
+
+
+
+
+
+ <pb id="pb8" n="8" facs="f:008"/> </p></div1><div1 id="life" rend="large" type="Biography"><head>LIFE</head><p><figure id="o008" rend="image(images/o008.png)"><figDesc>Ornament: dotted cross.</figDesc></figure>
+
+
+
+ </p><p>Born 1811, February 26.
+
+ <list><item>24 years a serf,     </item><item>9 years a freeman,     </item><item>10 years a prisoner in Siberia,     </item><item>3 1&#8211;2 years under police supervision. </item></list>
+
+ </p><p>Died 1861, February 26.
+
+ </p><p><figure id="p008" rend="image(images/p008.png)"><figDesc>Ornament: cither.</figDesc></figure>
+
+
+
+
+
+
+
+
+
+
+
+ <pb id="pb9" n="9" facs="f:009"/> </p></div1><div1 id="introduction" type="Introduction"><head rend="image(images/o009.jpg)">INTRODUCTION.</head><p><hi>Nearly twenty years ago the translator of these poems was sent by the Presbyterian church as a medical missionary to a newly settled district in Manitoba. A very large proportion of the incoming settlers in this district were Ukrainians, indeed it was largely owing to the interest taken in these newcomers that the writer was sent there.</hi>
+
+ </p><p><hi>It was Mr. John Bodrug who first, introduced him to the study of the poems of Shevchenko and with his help translations of three or four of the poems were made a dozen years ago. Press of other work prevented the following up of this study till last summer when with the help of Mr. Sigmund Bychinsky translations were made of the other poems here given, and considerable time spent in arriving at an understanding of the spirit of the poems and the nature of the situations described. Then the more formidable task was approached of trying to carry over not only the thought but something  <pb id="pb10" n="10" facs="f:010"/>of the style, spirit and music of the original into the English tongue.</hi>
+
+ </p><p><hi>The spirit of Shevchenko was too independent to suffer him to be much bound by narrow rules of metre and rhyme. The translator has found the same attitude convenient, for when the versification may be varied as desired it is much easier to preserve the original thoughts intact.</hi>
+
+ </p><p><hi>The writer&#8217;s thanks are due for help and advice to Messrs. Arsenych, Woicenko, Rudachek, Ferley, Sluzar and Stechyshyn and especially to Mrs. Bychinsky and for help with the manuscript to Miss Sara Livingstone.</hi>
+
+
+
+ </p><p rend="signed"><hi>A. J. H.</hi>
+
+
+
+ </p><p><figure id="p010" rend="image(images/p010.png)"><figDesc>Rural landscape.</figDesc></figure>
+
+
+
+
+
+
+
+ <pb id="pb11" n="11" facs="f:011"/> </p></div1><div1 id="who" type="Introduction"><head>Who was Taras Shevchenko?</head><p><figure id="o011" rend="image(images/o011.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+ </p><p><hi>How many English-speaking people have heard of Taras Shevchenko?</hi>
+
+ </p><p><hi>What &#8220;Uncle Tom&#8217;s Cabin&#8221; did for the negroes of the United States of America the poems of Shevchenko did for the serfs of Russia. They aroused the conscience of the Russian people, and the persecutions suffered by the poet at the hands of the autocracy awakened their sympathy.</hi>
+
+ </p><p><hi>It was two days after the death of Shevchenko that the czar&#8217;s ukase appeared granting freedom to the serfs. Possibly the dying poet knew it was coming and died the happier on that account.</hi>
+
+ </p><p><hi>But in still another way does this man&#8217;s figure stand out. In the country called the Ukraine is a nation of between thirty and forty millions of people, having a language of their own&#8212;the language in which these poems were composed.</hi>
+
+ </p><p><hi>This has been, as it were, a nation lost, buried alive one might say, beneath the power of surrounding empires.</hi>
+
+ </p><p><hi>They have a terrible history of oppression, alternating with desperate revolts <pb id="pb12" n="12" facs="f:012"/>against Polish and Muscovite tyranny.</hi>
+
+ </p><p><hi>In these poems speaks the struggling soul of a downtrodden people. To our western folk, reared in happier surroundings there is a bitter tang about some of them, somewhat like the taste of olives, to which one must grow accustomed. The Slavonic temperament, too, is given to melancholy and seems to dwell congenially in an atmosphere misty with tears. But he gravely misreads their literature who fails to perceive the grim resolve beneath the sorrow.</hi>
+
+ </p><p><hi>In the struggle of the Ukrainians for freedom the spirit of this poet, who was born a serf, remains ever their guiding star.</hi>
+
+
+
+ </p><p><figure id="p012" rend="image(images/p012.png)"><figDesc>Well with bucket.</figDesc></figure>
+
+
+
+
+
+
+
+
+
+
+
+ <pb id="pb13" n="13" facs="f:013"/> </p></div1></front><body><div1 id="monk" type="Chapter"><head>The Monk</head><p><figure id="o013" rend="image(images/o013.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+ </p><p><hi>It happened sometimes, when a cossack warrior found his energies failing and his joints growing stiff from much campaigning, he would bethink him of his sins and deeds of blood.</hi>
+
+ </p><p><hi>These things weighing on his mind, he would decide to spend the remainder of his life in a monastery, but before taking this irrevocable step, he would hold a time of high revel with his old comrades. This poem pictures such an event.</hi>
+
+
+
+ </p><p><figure id="p013" rend="image(images/p013.png)"><figDesc>Orthodox church with trees.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb14" n="14" facs="f:014"/></p><lg type="Poem"><lg type="Poem"><l>At Kiev, in the low countrie,     </l><l>Things happened once that you&#8217;ll never see.     </l><l>For evermore, &#8217;twas done;     </l><l>Nevermore, &#8217;twill come.     </l><l>Yet I, my brother,     </l><l>Will with hope foregather,     </l><l>That this again I&#8217;ll see,     </l><l>Though grief it brings to me. </l></lg><lg type="Poem"><l>To Kiev in the low countrie     </l><l>Came our brotherhood so free.     </l><l>Nor slave nor lord have they,     </l><l>But all in noble garb so gay     </l><l>Came splashing forth in mood full glad     </l><l>With velvet coats the streets are clad.     </l><l>They swagger in silken garments pride     </l><l>And they for no one turn aside. </l></lg><lg type="Poem"><l>In Kiev, in the low countrie,     </l><l>All the cossacks dance in glee,     </l><l>Just like water in pails and tubs     </l><l>Wine pours out &#8217;mid great hubbubs.     </l><l>Wine cellars and bars             </l><l rend="in8">with all the barmaids     </l><l>The cossacks have bought             </l><l rend="in8">with their wines and meads.     </l><l>With their heels they stamp         </l><l rend="in4">And dancing tramp,     </l><l>While the music roars         </l><l rend="in4">And joyously soars. </l></lg><pb id="pb15" n="15" facs="f:015"/><lg type="Poem"><l>The people gaze             </l><l rend="in8">with gladsome eyes,     </l><l>While scholars of the cloister schools     </l><l>All in silence bred by rules,     </l><l>Look on with wondering surprise.     </l><l>Unhappy scholars! Were they free,     </l><l>They would cossacks dancing be.     </l><l>Who is this by musicians surrounded     </l><l>To whom the people give fame unbounded?     </l><l>In trousers of velvet red,     </l><l>With a coat that sweeps the road     </l><l>A cossack comes. Let&#8217;s weep o&#8217;er his years     </l><l>For what they&#8217;ve done is cause for tears.     </l><l>But there&#8217;s life in the old man yet I trust,     </l><l>For with dancing kicks             </l><l rend="in8">he spurns the dust.     </l><l>In his short time left with men to mingle     </l><l>The cossack sings,             </l><l rend="in8">this tipsy jingle. </l></lg><lg type="Poem"><l rend="in4">&#8220;On the road is a crab, crab, crab.         </l><l rend="in4">Let us catch it grab, grab, grab.         </l><l rend="in4">Girls are sewing jab, jab, jab.         </l><l rend="in4">Let&#8217;s dance on trouble,         </l><l rend="in4">Dance on it double         </l><l rend="in4">Then on we&#8217;ll bubble         </l><l rend="in4">Already this trouble         </l><l rend="in4"><corr sic="We-ve">We&#8217;ve</corr> danced on double         </l><l rend="in4">So let&#8217;s dance on trouble.         </l><l rend="in4">Dance on it double,         </l><l rend="in4">Then on we&#8217;ll bubble.&#8221; </l></lg><pb id="pb16" n="16" facs="f:016"/><lg type="Poem"><l>To the Cloister of our Saviour     </l><l>Old gray-hair dancing goes.     </l><l>After him his joyous crowd     </l><l>And all the folk of Kiev so proud.     </l><l>Dances he up to the doors&#8212;     </l><l>&#8220;Hoo-hoo! Hoo-hoo!&#8221; he roars.     </l><l>Ye holy monks give greeting     </l><l>A comrade from the prairie meeting. </l></lg><lg type="Poem"><l rend="in4">Opens the sacred door,         </l><l rend="in4">The Cossack enters in.         </l><l rend="in4">Again the portal closes         </l><l rend="in4">To open no more for him.         </l><l rend="in4">What a man was there                 </l><l rend="in12">this old gray-hair,         </l><l rend="in4">Who said to the world farewell?         </l><l rend="in4">&#8217;Twas Semon Palee,                 </l><l rend="in12">a cossack free         </l><l rend="in4">Whom trouble could not quell. </l></lg><lg type="Poem"><l>Oh in the East the sun climbs high     </l><l>And sets again in the western sky.     </l><l>In narrow cell in monkish gown     </l><l>Tramps an old man up and down,     </l><l>Then climbs the highest turret there     </l><l>To feast his eyes on Kiev so fair.     </l><l>And sitting on the parapet     </l><l>He yields a while to fond regret.     </l><l>Anon he goes to the woodland spring,     </l><l>The belfry near, where sweet bells ring.     </l><l>The cooling draught to his mind recalls <pb id="pb17" n="17" facs="f:017"/>    </l><l>How hard was life without the walls.     </l><l>Again the monk his cell floor paces     </l><l>&#8217;Mid the silent walls his life retraces.     </l><l>The sacred book he holds in hand     </l><l>And loudly reads,     </l><l>The old man&#8217;s mind to Cossack land     </l><l>Swiftly speeds.     </l><l>Now holy words do fade away,     </l><l>The monkish cell turns Cossack den,     </l><l>The glorious brotherhood lives again.     </l><l>The gray old captain, like an owl     </l><l>Peers beneath the monkish cowl.     </l><l>Music, dances, the city&#8217;s calls,     </l><l>Rattling fetters, Moscow&#8217;s walls,     </l><l>O&#8217;er woods and snows             </l><l rend="in8">his eyes can see     </l><l>The banks of distant Yenisee.     </l><l>Upon his soul deep gloom has crept     </l><l>And thus the monk in sadness wept. </l></lg><lg type="Poem"><l rend="in4">Down, Down! Bow thy head;         </l><l rend="in4">On thy fleshly cravings tread.         </l><l rend="in4">In the sacred writings read         </l><l rend="in4">Read, read, to the bell give heed,         </l><l rend="in4">Thy heart too long has ruled thee,         </l><l rend="in4">All thy life it&#8217;s fooled thee.         </l><l rend="in4">Thy heart to exile led thee,         </l><l rend="in4">Now let it silent be.         </l><l rend="in4">As all things pass away,         </l><l rend="in4">So thou shalt pass away.     <pb id="pb18" n="18" facs="f:018"/>    </l><l rend="in4">Thus may&#8217;st thou know thy lot,         </l><l rend="in4">Mankind remembers not. </l></lg><lg type="Poem"><l>Though groans the old man&#8217;s sadness tell.     </l><l>Upon his book he quickly fell,     </l><l>And tramped and tramped about his cell.     </l><l>He sits again in mood forlorn     </l><l>Wonders why he e&#8217;er was born.     </l><l>One thing alone he fain would tell.     </l><l>He loves his Ukraina well.             </l><l rend="in8">For Matins now                   </l><l rend="in14">the great bell booms.             </l><l rend="in8">The aged monk                   </l><l rend="in14">his cowl resumes.             </l><l rend="in8">For Ukraina now to pray             </l><l rend="in8">My good old Palee limps away. </l></lg></lg><p><figure id="p018" rend="image(images/p018.png)"><figDesc>Standing Cossack with long rifle.</figDesc></figure>
+
+
+
+
+
+
+
+ <pb id="pb19" n="19" facs="f:019"/> </p></div1><div1 id="cossacks" type="Chapter"><head>The Cossacks</head><p><figure id="o019" rend="image(images/o013.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+ </p><p><hi>Back somewhere in the middle distance of European history&#8212;when the Ukraine was under Polish rule, though ever harrassed by the devastating raids of Turks and Tartars&#8212;there developed bands of guerilla fighters in the wild border-land beyond the rapids of the Dnieper.</hi>
+
+ </p><p><hi>Sometimes fighting against the Tartars, sometimes in alliance with them, they became known by the name &#8216;Kazak,&#8217; a word of uncertain origin.</hi>
+
+ </p><p><hi>Fierce banditti they were, many of them serfs who had run away from their Polish masters. But they often developed great military power. At times the Poles succeeded in securing numbers of them as fighters in their army, but when the tyranny of the Polish landlords became intolerable the so-called &#8220;Registered Cossacks&#8221; would sometimes join with the &#8220;Free Cossacks&#8221; of the &#8220;border land&#8221;&#8212;which is the meaning of the word &#8220;Ukraine,&#8221; and exact terrible vengeance on the Poles.</hi>
+
+ </p><p><hi>The story of these warlike deeds of the Cossacks has the same significance to the Ukrainian people that the tales of Wallace and Bruce have for Scotchmen.</hi>
+
+
+
+
+
+ <pb id="pb20" n="20" facs="f:020"/>
+
+ <figure id="p020"><head>Cossacks Dictating a Saucy Letter to the Turkish Sultan.</head></figure>
+
+
+
+
+
+
+
+
+
+
+
+ <pb id="pb21" n="21" facs="f:021"/> </p></div1><div1 id="hamaleia" type="Chapter"><head>Hamaleia</head><p><hi>Hamaleia is an historical romance. The poet represents one of the excursions of the Zaparoggian Cossacks under the <corr sic="leader-">leadership</corr> of Hamaleia on Skutari, the Turkish city on the <corr sic="Bosphorns">Bosphorus</corr>. The Cossacks saved western Europe from the Tartar and Turkish invasions, by fighting the invaders in the land of the barbarian. The poem describes one of these excursions where the Cossacks animated by the desire of revenging themselves on the Turks and freeing their brothers who were lying as captives in Turkish prisons, undertake a perilous trip in small wooden boats over the stormy Black Sea to Skutari, open the prisons, burn the city, and return home with rich spoils and their freed brethren.</hi>
+
+
+
+ </p><p><figure id="p021" rend="image(images/p021.png)"><figDesc>Farmer&#8217;s couple at fence.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb22" n="22" facs="f:022"/></p><lg type="Poem"><lg type="Poem"><l rend="in2">&#8220;Oh breeze there is none,       </l><l rend="in2">Nor do the waters run       </l><l rend="in2">From our Ukraina&#8217;s land.       </l><l rend="in2">Perhaps, in council there they stand,       </l><l rend="in2">To march against the Turk demand.       </l><l rend="in2">We hear not in this foreign land.       </l><l rend="in2">Blow winds, blow across the sea,       </l><l rend="in2">Bring tidings of our land so free,       </l><l rend="in2">Come from Dnieper&#8217;s Delta low,       </l><l rend="in2">Dry our tears and chase away our woe. </l></lg><lg type="Poem"><l rend="in2">Roar in play thou sea so blue.       </l><l rend="in2">In yon boats are Cossacks true,       </l><l rend="in2">Their caps above are dimly seen.       </l><l rend="in2">Rescue for us this may mean.       </l><l rend="in2">Once more we&#8217;ll hear Ukraina&#8217;s story.       </l><l rend="in2">Once more the ancient Cossack glory       </l><l rend="in2">We&#8217;ll hear before we die.&#8221; </l></lg><lg type="Poem"><l>So in Skutari the Cossacks sang,     </l><l>Their tears rolled down, their wailing rang     </l><l>Bosphorus groaned at the Cossack cry.     </l><l>And then he raised his waves on high.     </l><l>And shivering like a great grey bull,     </l><l>His waters roaring far and full     </l><l>Into the Black Sea&#8217;s ribs were hurled.     </l><l>The sea sent on great Bosphorus&#8217; cry,     </l><l>To where the sands of the Delta lie,     </l><l>And then the waters of Dnieper pale     </l><l>In turn took up the mournful tale. </l></lg><pb id="pb23" n="23" facs="f:023"/><lg type="Poem"><l>The father Dnieper rears his crest,     </l><l>Shakes the foam from off his breast.     </l><l>With laughter now aloud he calls     </l><l>To spirits of the forest walls.     </l><l>&#8220;Hortessa sister river, deep,     </l><l>Time it is to wake from sleep.     </l><l>Brother forest, sister river,     </l><l>Come our children to deliver.&#8221;     </l><l>And now the Dnieper is clad with boats,     </l><l>The Cossack song o&#8217;er the water floats. </l></lg><lg type="Poem"><l rend="in6">&#8220;In Turkey over there,           </l><l rend="in6">Are wealth and riches rare.           </l><l rend="in6">Hey, hey, blue sea play.           </l><l rend="in6">Then roar upon the shore,           </l><l rend="in6">Bringing with you guests so gay. </l></lg><lg type="Poem"><l rend="in6">&#8220;This Turkey has in her pockets           </l><l rend="in6">Dollars and ducats.           </l><l rend="in6">We don&#8217;t come pockets to pick,           </l><l rend="in6">Fire and sword will do the trick.           </l><l rend="in6">We mean to free our brothers. </l></lg><lg type="Poem"><l rend="in6">&#8220;There the janissary crouches,           </l><l rend="in6">There are pashas on soft couches.           </l><l rend="in6">Hey-ho, foemen ware,           </l><l rend="in6">For nothing do we care,           </l><l rend="in6">Ours are liberty and glory.&#8221; </l></lg><lg type="Poem"><l rend="in4">On they sail a-singing         </l><l rend="in4">The sea to the wind gives heed,     <pb id="pb24" n="24" facs="f:024"/>    </l><l rend="in4">In foremost boat the helm a-guiding,         </l><l rend="in4">Brave Hamaleia takes the lead. </l></lg><lg type="Poem"><l rend="in4">&#8220;Oh, Hamaleia, our hearts are fainting,         </l><l rend="in4">Behold the sea in madness raving.&#8221;         </l><l rend="in4">&#8220;Don&#8217;t fear,&#8221; he says, &#8220;these spurting fountains,         </l><l rend="in4">We&#8217;ll hide behind the water mountains.&#8221; </l></lg><lg type="Poem"><l>All slumber in the harem,     </l><l>Byzantium&#8217;s paradise.     </l><l>Skutari sleeps, but Bosphorus     </l><l>In madness shouts, &#8220;Arise!     </l><l>Awake Byzantium!&#8221; it roars and groans.     </l><l>&#8220;Awake them not, Oh Bosphorus.&#8221;     </l><l>Replies the sea in thunder tones.     </l><l>&#8220;If thou dost I&#8217;ll fill thy ribs with sand,     </l><l>Bury thee in mud, change thee to solid land.     </l><l>Perhaps thou knowest not the guest     </l><l>I bring to break the sultan&#8217;s rest.&#8221; </l></lg><lg type="Poem"><l>So the sea insisted,     </l><l>For he loved the brave Slavonic band;     </l><l>And Bosphorus desisted,     </l><l>While in slumber lay the Turkish land.     </l><l>The lazy Sultan in his harem slept,     </l><l>But only in Skutari the weary pris&#8217;ners wept.     </l><l>For something are they waiting,     </l><l>To God from dungeon praying,     </l><l>While the waves go roaring by. </l></lg><lg type="Poem"><l>&#8220;Oh, loved God of Ukraine&#8217;s land,     </l><l>To us in prison stretch thy hand; <pb id="pb25" n="25" facs="f:025"/>    </l><l>Slaves are we a Cossack band.     </l><l>Shame it is now in truth to say,     </l><l>Shame it will be at <corr sic="judgement">judgment</corr> day     </l><l>For us from foreign tomb to rise,     </l><l>And at thy court, to the world&#8217;s surprise     </l><l>Show Cossack hands in chains.&#8221;                   </l><l rend="in14">&#8220;Strike and kill,     </l><l>Now the infidels will get their fill     </l><l>Death to the unbelievers all.&#8221;     </l><l>How they scream beyond the wall! </l></lg><lg type="Poem"><l>They&#8217;ve heard of Hamaleia&#8217;s fame,     </l><l>Skutari maddens at his name. </l></lg><lg type="Poem"><l>&#8220;Strike on,&#8221; he shouts, &#8220;kill and slay     </l><l>To the castle break your way.&#8221;     </l><l>All the guns of Skutari roar     </l><l>The foes in frenzy onward pour,     </l><l>The cossacks rush with panting breath     </l><l>The janissaries fall in death. </l></lg><lg type="Poem"><l rend="in4">Hamaleia in Skutari         </l><l rend="in4">Dances through the flames in glee.         </l><l rend="in4">To the jail his way he makes,         </l><l rend="in4">Through the prison doors he breaks.         </l><l rend="in4">Off the feet the fetters takes. </l></lg><lg type="Poem"><l rend="in4">&#8220;Fly away my birds so gray,         </l><l rend="in4">In the town to share the prey.&#8221;         </l><l rend="in4">But the falcons trembled         </l><l rend="in4">Nor their fears dessembled     <pb id="pb26" n="26" facs="f:026"/>    </l><l rend="in4">So long they had not heard         </l><l rend="in4">A single christian word. </l></lg><lg type="Poem"><l rend="in4">Night herself was frightened.         </l><l rend="in4">No flames her darkness lightened.         </l><l rend="in4">The old mother could not see         </l><l rend="in4">How the Cossacks pay their fee. </l></lg><lg type="Poem"><l rend="in4">&#8220;Fear not! Look ahead,         </l><l rend="in4">To the Cossack banquet spread.         </l><l rend="in4">Dark over all, like a common day,         </l><l rend="in4">And this no little holiday.&#8221; </l></lg><lg type="Poem"><l rend="in4">&#8220;No sneak thieves with Hamaleia,         </l><l rend="in4">To eat their bacon silently         </l><l rend="in4">Without a frying pan.&#8221; </l></lg><lg type="Poem"><l rend="in4">&#8220;Let&#8217;s have a light,&#8221;         </l><l rend="in4">Now burning bright         </l><l rend="in4">To heaven flames Skutari,         </l><l rend="in4">With all its ruined navy. </l></lg><lg type="Poem"><l>Byzantium awakes, its eyes it opens wide     </l><l>With grinding teeth hastes to its             </l><l rend="in8">comrade&#8217;s side,     </l><l>Byzantium roars and rages,     </l><l>With hands to the shore it reaches,     </l><l>From waters gasping strives to rise,     </l><l>And then with sword in heart it dies. </l></lg><lg type="Poem"><l>With fires of hell Skutari&#8217;s burning,     </l><l>Bazaars with streams of blood are churning <pb id="pb27" n="27" facs="f:027"/>    </l><l>Broad Bosphorus pours in its waves.     </l><l>Like blackbirds in a bush     </l><l>The Cossacks fiercely rush.     </l><l>No living soul escapes.     </l><l>Untouched by fire,     </l><l>They the walls down tear,     </l><l>Silver and gold in their caps they bear,     </l><l>And load their boats with riches rare. </l></lg><lg type="Poem"><l>Burns Skutari, ends the fray,     </l><l>The warriors gather and come away,     </l><l>Their pipes with burning cinders light,     </l><l>And row their boats through waves flame             </l><l rend="in8">bright. </l></lg></lg><p><figure id="p027" rend="image(images/p027.png)"><figDesc>Three persons resting in field.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb28" n="28" facs="f:028"/>
+
+
+
+
+
+ </p><p><figure id="p028"><figDesc>A kobzar sitting in a field while playing cither.</figDesc></figure>
+
+
+
+
+
+
+
+
+
+ <pb id="pb29" n="29" facs="f:029"/> </p></div1><div1 id="kobzars" type="Chapter"><head>Kobzars</head><p><hi>These are the wandering minstrels of the Ukraine.</hi>
+
+ </p><p><hi>They play on an instrument called the Kobza which somewhat resembles a mandolin. Often in former days they were old prisoners of war&#8212;too old to work&#8212;so their Turkish captors first blinded them and then set them at liberty.</hi>
+
+ </p><p><hi>Wandering among the villages, guided by some little boy, they earned their bread by singing folk-songs and hero-tales to the accompaniment of the Kobza.</hi>
+
+ </p><p><hi>Shevchenko published his book of poems with the title &#8220;Kobzar.&#8221;</hi>
+
+
+
+ </p><p><figure id="p029" rend="image(images/p029.png)"><figDesc>Blind man guided by a boy.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb30" n="30" facs="f:030"/> </p></div1><div1 id="taras" type="Chapter"><head rend="image(images/o030.png)">The Night of Taras</head><lg type="Poem"><lg type="Poem"><l>By the road the Kobzar sat     </l><l>And on his kobza played.     </l><l>Around him youths and maidens     </l><l>Like poppy flowers arrayed. </l></lg><lg type="Poem"><l>So the Kobzar played and sang     </l><l>Of many an old old story;     </l><l>Of wars with Russian, Pole and Tartar     </l><l>And the ancient Cossack glory. </l></lg><lg type="Poem"><l>He sang of the wars of Taras brave,     </l><l>Of battle fought in the morning early,     </l><l>Of the fallen Cossack&#8217;s grass-grown grave     </l><l>Till smiles and tears did mingle fairly. </l></lg><milestone unit="tb"/><lg type="Poem"><l>&#8220;Once on a time the Hetmans ruled,         </l><l rend="in4">It comes not back again;     </l><l>In olden days we masters were         </l><l rend="in4">This never comes again.     </l><l>These glories of old Cossack lore     </l><l>Shall be forgotten nevermore. </l></lg><lg type="Poem"><l rend="in4">Ukraine, Ukraine!         </l><l rend="in4">Mother mine. Mother mine!     <pb id="pb31" n="31" facs="f:031"/>    </l><l rend="in4">When I remember thee         </l><l rend="in4">How mournful should I be. </l></lg><lg type="Poem"><l>What has come of our Cossacks bold         </l><l rend="in4">With coats of velvet red?     </l><l>What of freedom by fate foretold,         </l><l rend="in4">And banners the Hetmans led? </l></lg><lg type="Poem"><l rend="in4">Whither is it gone?         </l><l rend="in4">In flames it went:     </l><l>O&#8217;er hills and tombs,         </l><l rend="in4">The floods were sent.     </l><l>The hills are wrapt           </l><l rend="in6">in silence grim,     </l><l>On boundless sea           </l><l rend="in6">waves ever play;     </l><l>The tombs gleam forth           </l><l rend="in6">with sadness dim;     </l><l>O&#8217;er all the land           </l><l rend="in6">the foe holds sway. </l></lg><lg type="Poem"><l>Play on, oh sea,         </l><l rend="in4">Hills silent be:     </l><l>Dance, mighty wind,         </l><l rend="in4">O&#8217;er all the land.     </l><l>Weep, Cossack youth,         </l><l rend="in4">Your fate withstand. </l></lg><lg type="Poem"><l>Now who shall our adviser be?     </l><l>Then out spake Naleweiko,     </l><l>A Cossack bold was he,     </l><l>After him Paulioha     </l><l>Like falcon swift did flee<corr>.</corr> </l></lg><pb id="pb32" n="32" facs="f:032"/><lg type="Poem"><l>Out spake Taras Traselo     </l><l>With bitter words and true,     </l><l>&#8220;That they trampled on Ukraina     </l><l>For sure the Poles shall rue.&#8221;     </l><l>Out spake Taras Traselo,     </l><l>Out spake the eagle grey.     </l><l>Rescue for the faith he wrought,     </l><l>Well indeed the Poles he taught.     </l><l>&#8220;Let&#8217;s make an end of our woe.     </l><l>An end come now to your woe,     </l><l>Arise, my gentle comrades, all     </l><l>Upon the Poles with blows we&#8217;ll fall.&#8221; </l></lg><lg type="Poem"><l>Three days of war             </l><l rend="in8">did the land deliver.     </l><l>From the Delta&#8217;s shore             </l><l rend="in8">to Trubail&#8217;s river.     </l><l>The fields are covered             </l><l rend="in8">with dead, in course,     </l><l>But weary now             </l><l rend="in8">is the Cossack force. </l></lg><lg type="Poem"><l>Now the dirty Polish ruler     </l><l>Was feeling very jolly,     </l><l>Gathered all his lords together,     </l><l>For a time of feast and folly.     </l><l>Taras did his Cossacks gather     </l><l>To have a little talk together. </l></lg><lg type="Poem"><l rend="in4">&#8220;Captains and comrades,     </l><l>My children and brothers, <pb id="pb33" n="33" facs="f:033"/>    </l><l>What are we now to do?     </l><l>Our hated foes are feasting,     </l><l>I want advice from you.&#8221; </l></lg><lg type="Poem"><l>&#8220;Let them feast away,         </l><l rend="in4">It&#8217;s fine for their health. </l></lg><lg type="Poem"><l>When the sun descends,     </l><l>Old night her counsel lends;     </l><l>The Cossacks&#8217;ll catch them,           </l><l rend="in6">and all of their wealth.&#8221; </l></lg><lg type="Poem"><l>The sun reclined beyond the hill     </l><l>The stars shone out in silence still,     </l><l>Around the Poles the Cossack host     </l><l>Was gathering like a cloud;     </l><l>So soon the moon stood in the sky     </l><l>When roared the cannon loud. </l></lg><lg type="Poem"><l>Woke up the Polish lordlings,     </l><l>To run they found no place.     </l><l>Woke up the Polish lordlings,     </l><l>The foe they could not face.     </l><l>The sun beheld the Polish lordlings,     </l><l>In heaps all o&#8217;er the place.     </l><l>With red serpent on the water,     </l><l>River Alta brings the word&#8212;     </l><l>That black vultures after slaughter     </l><l>May feast on many a Polish lord. </l></lg><lg type="Poem"><l>And now the vultures hasten     </l><l>The mighty dead to waken<corr>.</corr> <pb id="pb34" n="34" facs="f:034"/>    </l><l>Together the Cossacks gather     </l><l>Praise to God to offer. </l></lg><lg type="Poem"><l>While black vultures scream,     </l><l>O&#8217;er the corpses fight.     </l><l>Then the Cossacks sing     </l><l>A hymn to the night;     </l><l>That night of famous story     </l><l>Full of blood and glory.     </l><l>That night that put the Poles to sleep     </l><l>The while on them their foes did creep. </l></lg><lg type="Poem"><l>Beyond the stream             </l><l rend="in8">in open field     </l><l>A burial mound             </l><l rend="in8">gleams darkly:     </l><l>Where the Cossack blood was shed     </l><l>There grows the grass full greenly. </l></lg><lg type="Poem"><l>On the tomb a raven sits:     </l><l>With hunger sore he&#8217;s screaming.     </l><l>Waiting near a Cossack weeps:     </l><l>Of days of old he&#8217;s dreaming.&#8221; </l></lg><lg type="Poem"><l>The Kobzar ceased in sadness     </l><l>His hands would no longer play:     </l><l>Around him youths and maidens     </l><l>Were wiping the tears away.     </l><l>By the path the Kobzar makes his way,     </l><l>To get rid of his grief he starts to play.     </l><l>And now the youngsters are dancing gay,     </l><l>And then he <sic corr="opens">opes</sic> his lips to say: </l></lg><pb id="pb35" n="35" facs="f:035"/><lg type="Poem"><l>&#8220;Skip off, my children,     </l><l>To some nice warm corner,     </l><l>Of griefs enough;     </l><l>I&#8217;ll no longer be mourner. </l></lg><lg type="Poem"><l>To the bar I&#8217;ll go             </l><l rend="in8">and find my good wife     </l><l>And there we&#8217;ll have             </l><l rend="in8">the time of our life.     </l><l>For so we&#8217;ll drink away our woes     </l><l>And make no end of fun of our foes.&#8221; </l></lg></lg><p><figure id="p035" rend="image(images/p035.png)"><figDesc>Magpie.</figDesc></figure>
+
+
+
+
+
+
+
+ <pb id="pb36" n="36" facs="f:036"/> </p></div1><div1 id="forming" type="Chapter"><head rend="image(images/o103.png)">The Forming of a Life</head><p><hi>The little Taras was born a serf. His first memories are of a mother&#8217;s love, of the kindness of an elder sister, and like a musical undertone to all his life&#8212;the consciousness of the wonderful beauty of Nature.</hi>
+
+ </p><p><hi>But soon another power of hideous aspect laid its grasp on the childish soul. It was the knowledge of slavery, a grim and horrible thing that was slowly but surely grinding out the lives of his parents, and that would surely, later, reach out for his own.</hi>
+
+ </p><p><hi>Yet even the system of serfdom may allow a little happiness to a child, still too young to work.</hi>
+
+ </p><p><hi>The little boy had been told that beyond the distant hills were iron pillars holding up the sky. At five years of age he set out to find these pillars. Some teamsters found him wandering on the steppe and brought him back to his home. But this incident marked the character of the boy as an idealist and a dreamer.</hi>
+
+ <pb id="pb37" n="37" facs="f:037"/></p><p><hi>Then there was Grandfather John, the brave old man who, half a century before, had fought in the ranks of the Haidemaki who so nearly broke the Polish power. On a Sunday the wondering family would listen to the mighty voice ringing out in the little home&#8212;telling of ancient battles for freedom.</hi>
+
+ </p><p><hi>When Taras was seven years of age he lost his mother. His father was left with six children, and thought to improve matters by marrying a widow with three. Thereafter the miseries increased for little Taras who was hated by his stepmother.</hi>
+
+ </p><p><hi>The father lived a few years longer, and to him Taras owed the knowledge of reading, for though they were serfs and lived in a wretched hovel, the Shevchenko&#8217;s prided themselves on having retained some elements of culture.</hi>
+
+ </p><p><hi>Our little hero, however, had a strange passion for drawing and painting and also for singing, and found some employment among the drunken painters, and church-singers of the village.</hi>
+
+ </p><p><hi>Later his master tried to make him work, but found the lad hopeless for anything but his beloved painting. Finally, he reached Petrograd in the suite of his master&#8217;s son, where he was apprenticed to a decorator.</hi>
+
+ <pb id="pb38" n="38" facs="f:038"/></p><p><hi>A famous man came upon a ragged boy sitting on a pail, in the Royal Gardens, in the moonlight, drawing a picture of a statue there. This was the beginning of a period of good fortune. The lad was introduced to some of the great men of the capital. His genius was recognized. A famous painter painted a picture that was raffled off for sufficient money to purchase the boy&#8217;s freedom, and he was entered as a student in the Academy.</hi>
+
+
+
+ </p><p><figure id="p038" rend="image(images/p038.png)"><figDesc>Old man and boy sitting.</figDesc></figure>
+
+
+
+
+
+
+
+ <pb id="pb39" n="39" facs="f:039"/> </p></div1><div1 id="naimechka" type="Chapter"><head rend="image(images/o079.png)">Naimechka or The Servant</head><lg type="Poem"><head>Prologue.</head><lg type="Poem"><l>On a Sunday, very early,     </l><l>When fields were clad with mist     </l><l>A woman&#8217;s form was bending     </l><l>&#8217;Mid graves by cloud wreaths kissed.     </l><l>Something to her heart she pressed,     </l><l>In accents low the clouds addressed. </l></lg><lg type="Poem"><l>&#8220;Oh, you mist and raindrops fine,     </l><l>Pity this ragged luck of mine.     </l><l>Hide me here in grassy meadows,     </l><l>Bury me beneath thy shadows.     </l><l>Why must I &#8217;mid sorrows stray?     </l><l>Pray take them with my life away.     </l><l>In gloomy death would be relief,     </l><l>Where none might know or see my grief.     </l><l>Yet not alone my life was spent,     </l><l>A father and mother my sin lament.     </l><l>Nor yet alone is my course to run     </l><l>For in my arms is my little son.     </l><l>Shall I, then, give to him christian name,     </l><l>To poverty bind, with his mother&#8217;s shame? <pb id="pb40" n="40" facs="f:040"/>    </l><l>This, brother mist, I shall not do.     </l><l>I alone my fault must rue.     </l><l>Thee, sweet son, shall strangers christen,     </l><l>Thy mother&#8217;s eyes with teardrops glisten.     </l><l>Thy very name I may not know     </l><l>As on through life I lonely go.     </l><l>I, by my sin, rich fortune lost,     </l><l>With thee, my son, to ill fate, was tossed.     </l><l>Yet curse me not,             </l><l rend="in8">for evils past.     </l><l>My prayers to heaven             </l><l rend="in8">shall reach at last.     </l><l>The skies above             </l><l rend="in8">to my tears shall bend,     </l><l>Another fortune to thee I&#8217;ll send.&#8221;     </l><l>Through the fields she sobbing went.     </l><l>The gentle mist             </l><l rend="in8">its shelter lent.     </l><l>Her tears were falling             </l><l rend="in8">the path along,     </l><l>As she softly sang             </l><l rend="in8">the widows song: </l></lg><lg type="Poem"><l>&#8220;Oh, in the field there is a grave     </l><l>Where the shining grasses wave;     </l><l>There the widow walked apart,     </l><l>Bitter sorrow in her heart.     </l><l>Poison herbs in vain she sought,     </l><l>Whereby evil spells are wrought.     </l><l>Two little sons             </l><l rend="in8">in arms she bore <pb id="pb41" n="41" facs="f:041"/>    </l><l>Wrapped around in             </l><l rend="in8">dress she wore;     </l><l>Her children to the river carried,     </l><l>In converse with the water tarried;     </l><l>&#8216;Oh, river Dunai, gentle river,     </l><l>I my sons to thee deliver,     </l><l>Thou&#8217;lt swaddle them             </l><l rend="in8">and wrap them,     </l><l>Thy little waves             </l><l rend="in8">will lap them,     </l><l>Thy yellow sands             </l><l rend="in8">will cherish them,     </l><l>Thy flowing waters             </l><l rend="in8">nourish them.&#8217; </l></lg></lg><p><figure id="o041" rend="image(images/o041.png)"><figDesc>Ornament.</figDesc></figure>
+
+ <pb id="pb42" n="42" facs="f:042"/>
+
+ </p><lg type="Poem"><head>I.</head><lg type="Poem"><l>All by themselves lived                 </l><l rend="in12">an old couple fond     </l><l>In a nice little grove             </l><l rend="in8">just by a millpond.     </l><l>Like birds of a feather     </l><l>Just always together,     </l><l>From childhood the two of them             </l><l rend="in8">fed sheep together,     </l><l>Got married, got wealthy,             </l><l rend="in8">got houses and lands,     </l><l>Got a beautiful garden             </l><l rend="in8">just where the mill stands,     </l><l>An apiary full             </l><l rend="in8">of <corr sic="behives">beehives</corr> like boulders.     </l><l>Yet no children were theirs,             </l><l rend="in8">and death at their shoulders.     </l><l>Who will cheer their passing years?     </l><l>Who will soothe their mortal fears?     </l><l>Who will guard their gathered treasure.     </l><l>In loyal service find his pleasure?     </l><l>Who will be their faithful son     </l><l>When low their sands of life do run? </l></lg><lg type="Poem"><l>Hard it is a child to rear,     </l><l>In roofless house &#8217;mid want and fear.     </l><l>Yet just as hard &#8217;mid gathered wealth,     </l><l>When death creeps on with crafty stealth,     </l><l>And one&#8217;s treasures good           </l><l rend="in6">At end of life&#8217;s wandering,     </l><l>Are for strangers rude           </l><l rend="in6">For mocking and squandering. </l></lg></lg><pb id="pb44" n="44" facs="f:044"/><p><figure id="p044"><figDesc>Rustic house with pond in front.</figDesc></figure>
+
+ <pb id="pb43" n="43" facs="f:043"/>
+
+ </p><lg type="Poem"><head>II.</head><lg type="Poem"><l>One fine Sunday,             </l><l rend="in8">in the bright sunlight,     </l><l>All dressed up             </l><l rend="in8">in blouses white,     </l><l>The old folks sat             </l><l rend="in8">on the bench by the door;     </l><l>No cloud in sky,             </l><l rend="in8">What could they ask more?     </l><l>All peace and love             </l><l rend="in8">it seemed like Eden.     </l><l>Yet angels above             </l><l rend="in8">their hearts might read in,     </l><l>A hidden sorrow,             </l><l rend="in8">a gloomy mood     </l><l>Like lurking beast             </l><l rend="in8">in darksome wood.     </l><l>In such a heaven             </l><l rend="in8">Oh, do you see     </l><l>Whatever could             </l><l rend="in8">the trouble be?     </l><l>I wonder now             </l><l rend="in8">what ancient sorrow     </l><l>Suddenly sprang             </l><l rend="in8">into their morrow.     </l><l>Was it quarrel             </l><l rend="in8">of yesterday     </l><l>Choked off, then             </l><l rend="in8">revived today,     </l><l>Or yet some newly sprouted ire     </l><l>Arisen to set their heaven on fire? </l></lg><pb id="pb45" n="45" facs="f:045"/><lg type="Poem"><l>Perchance they&#8217;re called to go to God,     </l><l>Nor longer dwell on earth&#8217;s green sod.     </l><l>Then who for them on that far way     </l><l>Horses and chariot shall array? </l></lg><lg type="Poem"><l>&#8220;Anastasia, wife of mine,     </l><l>Soon will come our fatal day,     </l><l>Who will lay our bones away?&#8221; </l></lg><lg type="Poem"><l rend="in8">&#8220;God only knows.     </l><l>With me always was that thought     </l><l>Which gloom into my heart has brought.     </l><l>Together in years and failing health,     </l><l>For what have we gathered             </l><l rend="in8">all this wealth?&#8221; </l></lg><lg type="Poem"><l rend="in8">&#8220;Hold a minute,     </l><l>Hearest thou? Something cries     </l><l>Beyond the gate&#8212;&#8217;tis like a child.     </l><l>Let&#8217;s run! See&#8217;st ought?     </l><l>I thought something was there.&#8221;     </l><l>Together they sprang     </l><l>And to the gate running;     </l><l>Then stopped in silence wondering. </l></lg><lg type="Poem"><l>Before the stile                 </l><l rend="in12">a swaddled child,     </l><l>Not bound tightly,                 </l><l rend="in12">just wrapped lightly,     </l><l>For it was                 </l><l rend="in12">in summer mild, <pb id="pb46" n="46" facs="f:046"/>    </l><l>And the mother                 </l><l rend="in12">with fond caress     </l><l>Had covered it                 </l><l rend="in12">with her own last dress<corr>.</corr>     </l><l>In wondering prayer                 </l><l rend="in12">stood our fond old pair.     </l><l>The little thing                 </l><l rend="in12">just seemed to plead.     </l><l>In little arms                 </l><l rend="in12">stretched out you&#8217;ld read     </l><l>Its prayer,&#8212;                 </l><l rend="in12">in silence all.     </l><l>No crying&#8212;just a little breath its call.             </l><l rend="in8">&#8220;See, &#8217;Stasia!     </l><l>What did I tell thee?     </l><l>Here is fortune and fate for us;     </l><l>No longer dwell we in loneliness.     </l><l>Take it                 </l><l rend="in12">and dress it.     </l><l>Look at it!                 </l><l rend="in12">Bless it!     </l><l>Quick, bear it inside,     </l><l>To the village I&#8217;ll ride.     </l><l>Its ours to baptize,     </l><l>God-parents we need for our prize.&#8221;         </l><l rend="in4">In this world                     </l><l rend="in16">things strangely run.         </l><l rend="in4">There&#8217;s a fellow                     </l><l rend="in16">that curses his son,         </l><l rend="in4">Chases him away from home,         </l><l rend="in4">Into lonely lands to roam, <pb id="pb47" n="47" facs="f:047"/>    </l><l>While other poor creatures,     </l><l>With sorrowful features,     </l><l>With sweat of their toiling     </l><l>Must much money earn;     </l><l>The wage of their moiling     </l><l>Candles to burn.     </l><l>Prayers to repeat,     </l><l>The saints to entreat;     </l><l>For children are none.     </l><l>This world is no fun     </l><l>The way things run. </l></lg></lg><p><figure id="p047"><figDesc>Tree and leaves.</figDesc></figure>
+
+
+
+ <pb id="pb48" n="48" facs="f:048"/>
+
+
+
+ </p><lg type="Poem"><lg type="Poem"><head>III.</head><l>Their joys do now such numbers reach     </l><l>God fathers and mothers     </l><l>&#8217;Mid lots of others     </l><l>Behold they have gathered     </l><l>Three pairs of each.     </l><l>At even they christen him,     </l><l>And Mark is the name of him. </l></lg><lg type="Poem"><l rend="in4">So Mark grows,         </l><l rend="in4">And so it goes. </l></lg><lg type="Poem"><l>For the dear old folk it is no joke,     </l><l>For they don&#8217;t know where to go,     </l><l>Where to set him, when to pet him.     </l><l>But the year goes and still Mark grows.     </l><l>Yet they care for him, you&#8217;d scarce tell how,     </l><l>Just as he were a good milk-cow. </l></lg><lg type="Poem"><l>And now a woman young and bright,     </l><l>With eyebrows dark and skin so white,     </l><l>Comes into this blessed place,     </l><l>For servant&#8217;s task she asks with grace. </l></lg><lg type="Poem"><l>&#8220;What, what&#8212;             </l><l rend="in8">say we&#8217;ll take her &#8217;Stasia.&#8221; </l></lg><lg type="Poem"><l>&#8220;We&#8217;ll take her, Trophimus.     </l><l>We are old and little wearies us; <pb id="pb49" n="49" facs="f:049"/>    </l><l>He&#8217;s almost grown within a year,     </l><l>But yet he&#8217;ll need more care, I fear.&#8221; </l></lg><lg type="Poem"><l>&#8220;Truly he&#8217;ll need care,     </l><l>And now, praise God, I&#8217;ve done my share.     </l><l>My knees are failing, so now     </l><l>You poor thing, tell us your wage,     </l><l>It is by the year or how?&#8221; </l></lg><lg type="Poem"><l>&#8220;What ever you like to give.&#8221; </l></lg><lg type="Poem"><l>&#8220;No, no, it&#8217;s needful to know,     </l><l>It&#8217;s needful, my daughter,               </l><l rend="in10">to count one&#8217;s wage.     </l><l>This you must learn, count what you earn.     </l><l>This is the proverb&#8212;     </l><l>Who counts not his money     </l><l>Hasn&#8217;t got any.     </l><l>But, child, how will this do?     </l><l>You don&#8217;t know us,               </l><l rend="in10">We don&#8217;t know you.     </l><l>You&#8217;ll stay with us a few days,     </l><l>Get acquainted with our ways;     </l><l>We&#8217;ll see you day by day,     </l><l>Bye and bye we&#8217;ll talk of pay.     </l><l>Is it so, daughter?&#8221; </l></lg><lg type="Poem"><l>&#8220;Very good, uncle.&#8221; </l></lg><lg type="Poem"><l>&#8220;We invite you into the house.&#8221; </l></lg><lg type="Poem"><l>And so they to agreement came.     </l><l>The young woman seemed always the same, <pb id="pb50" n="50" facs="f:050"/>    </l><l>Cheerful and happy as she&#8217;d married a lord     </l><l>Who&#8217;d buy up villages just at her word.     </l><l>She in the house and out doth work     </l><l>From morning light to evening&#8217;s mirk. </l></lg><lg type="Poem"><l>And yet the child is her special care;     </l><l>Whatever befalls, she&#8217;s the mother there.     </l><l>Nor Monday nor Sunday this mother misses     </l><l>To give its bath and its white dresses.     </l><l>She plays and sings, makes <corr sic="waggons">wagons</corr> and things,     </l><l>And on a holiday, plays with it all the day. </l></lg><lg type="Poem"><l>Wondering, the old folks gaze,     </l><l>But to God they give the praise. </l></lg><lg type="Poem"><l>So the servant never rests,     </l><l>But the night her spirit tests.     </l><l>In her chamber then, I ween,     </l><l>Many a tear she sheds unseen.     </l><l>Yet none knows nor sees it all     </l><l>But the little Mark so small. </l></lg><lg type="Poem"><l>Nor knows he why in hours of night     </l><l>His tossings break her slumbers light.     </l><l>So from her couch she quickly leaps,     </l><l>The coverings o&#8217;er his limbs she keeps.     </l><l>With sign of cross the child she blesses,     </l><l>Her gentle care her love confesses. </l></lg><pb id="pb51" n="51" facs="f:051"/><lg type="Poem"><l>Each morning Mark spreads out his hands     </l><l>To the Servant as she stands;     </l><l>Accepts, unknowing, a mother&#8217;s care.     </l><l>Only to grow is his affair. </l></lg></lg><p><figure id="o051" rend="image(images/o051.png)"><figDesc>Ornament.</figDesc></figure>
+
+ </p><p><figure id="p051"><figDesc>Gate flanked by two small towers.</figDesc></figure>
+
+
+
+ <pb id="pb52" n="52" facs="f:052"/>
+
+
+
+ </p><lg type="Poem"><lg type="Poem"><head>IV.</head><l>Meantime many a year has rolled,     </l><l>Many waters to the sea have flowed,     </l><l>Trouble to the home has come,     </l><l>Many a tear down the cheek has run.     </l><l>Poor old &#8217;Stasia in earth they laid.     </l><l>Hardly old Trophim&#8217; from death they saved.     </l><l>The cursed trouble roared so loud,     </l><l>And then it went to sleep, I trow.     </l><l>From the dark woods where she frightened lay     </l><l>Peace came back in the home to stay. </l></lg><lg type="Poem"><l rend="in4">The little Mark is farmer now.         </l><l rend="in4">With ox-teams great in the fall must go         </l><l rend="in4">To far Crimea to barter there         </l><l rend="in4">Skins for salt and goods more rare. </l></lg><lg type="Poem"><l rend="in4">The Servant and Trophimus                 </l><l rend="in12">in counsel wise         </l><l rend="in4">Plans for his marriage                 </l><l rend="in12">now devise. </l></lg><lg type="Poem"><l rend="in4">Dared she her thoughts utter         </l><l rend="in4">For the Czar&#8217;s daughter         </l><l rend="in4">She&#8217;d send in a trice.         </l><l rend="in4">But the most she could say         </l><l rend="in4">While thinking this way         </l><l rend="in4">Was, &#8220;Ask Mark&#8217;s advice.&#8221; </l></lg><lg type="Poem"><l rend="in4">&#8220;My daughter, we&#8217;ll ask him,         </l><l rend="in4">And then we&#8217;ll affiance him.&#8221;     <pb id="pb53" n="53" facs="f:053"/>    </l><l rend="in4">So they gave him sage advice,         </l><l rend="in4">And they made decision nice. </l></lg><lg type="Poem"><l>Soon his grave friends about him stand.     </l><l>He sends them to woo, a stately band.     </l><l>Back they come with towels on shoulder     </l><l>Ere the day is many hours older.     </l><l>The sacred bread they have exchanged,     </l><l>The bargain now is all arranged.     </l><l>They&#8217;ve found a maiden in noble dress,     </l><l>A princess true, you well may guess.     </l><l>Such a queen is in this affiance     </l><l>As with a general might make alliance.     </l><l>&#8220;Hail, and well done,&#8221; the old man says,     </l><l>And now let&#8217;s have no more delays.     </l><l>When the marriage, where the priest,     </l><l>What about the wedding feast?     </l><l>Who shall take the mother&#8217;s place?     </l><l>How we&#8217;ll miss my &#8217;Stasia&#8217;s face.&#8221;     </l><l>The tears along his cheeks do fall,     </l><l>Yet a word does the Servant&#8217;s heart appall<corr>.</corr> </l></lg><lg type="Poem"><l>Hastily rushing from the room,     </l><l>In chamber near she falls in swoon.     </l><l>The house is silent, the light is dim,     </l><l>The sorrowing Servant thinks of him     </l><l>And whispers: &#8220;Mother, mother, mother.&#8221; </l></lg></lg><p><figure id="p053" rend="image(images/p008.png)"><figDesc>Cither</figDesc></figure>
+
+
+
+
+
+ <pb id="pb54" n="54" facs="f:054"/>
+
+ </p><lg type="Poem"><lg type="Poem"><head>V.</head><l>All the week at the wedding cake     </l><l>Young women in crowds both mix and bake.     </l><l>The old man is in wondrous glee,     </l><l>With all the young women dances he.     </l><l>At sweeping the yard     </l><l>He labors hard.     </l><l>All passers-by on foot and horseback     </l><l>He hales to the court where is no lack     </l><l>Of good home-brew.     </l><l>All comers he asks to the marriage     </l><l>And yet &#8217;tis true     </l><l>He runs around so     </l><l>You&#8217;d not guess from his carriage     </l><l>Though his joy is such a wonderful gift,     </l><l>His old legs are &#8217;most too heavy to lift. </l></lg><lg type="Poem"><l>Everywhere is disorder and laughter     </l><l>Within the house and in the yard.     </l><l>From store-room keg upon keg follows after,     </l><l>Workers&#8217; voices everywhere heard.     </l><l>They bake, they boil,     </l><l>At sweeping toil,     </l><l>Tables and floors they wash them all. </l></lg><lg type="Poem"><l>And where is the Servant             </l><l rend="in8">who cares not for wage?     </l><l>To Kiev she is gone             </l><l rend="in8">on pilgrimage. </l></lg><pb id="pb55" n="55" facs="f:055"/><lg type="Poem"><l>Yes, Anna went. The old man pled,     </l><l>Mark almost wept for her to stay,     </l><l>As mother sit, to see him wed.     </l><l>Her call of duty elsewhere lay. </l></lg><lg type="Poem"><l>&#8220;No, Mark, such honor must I not take     </l><l>To sit while you your homage make     </l><l>To parents dear.     </l><l>My mind is clear.     </l><l>A servant must not thy mother be     </l><l>Lest wealthy guests may laugh at thee.     </l><l>Now may God&#8217;s mercy with thee stay,     </l><l>To the saints at Kiev I go to pray.     </l><l>But yet again shall I return     </l><l>Unto your house, if you do not spurn     </l><l>My strength and toil.&#8221; </l></lg><lg type="Poem"><l>With pure heart             </l><l rend="in8">she blessed her Mark     </l><l>And weeping, passed             </l><l rend="in8">beyond the gate. </l></lg><lg type="Poem"><l>Then the wedding blossomed out;     </l><l>Work for musicians and the joyous rout     </l><l>Of dancing feet;     </l><l>While mead so sweet     </l><l>Of fermented honey with spices dashed     </l><l>Over the benches and tables splashed,     </l><l>Meanwhile the Servant limps along     </l><l>Hastening on the weary road to Kiev.     </l><l>To the city come, she does not rest, <pb id="pb56" n="56" facs="f:056"/>    </l><l>Hires to a woman of the town;     </l><l>For wages carries water.     </l><l>You see she money, money needs     </l><l>For prayers to Holy Barbara.     </l><l>She water carries, never tarries,     </l><l>And mighty store of pennies saves,     </l><l>Then in the Lavra&#8217;s awesome caves     </l><l>She seeks the blessed wealth she craves. </l></lg><lg type="Poem"><l>From St. John she buys a magic cap,     </l><l>For Mark she bears it;     </l><l>And when he wears it,     </l><l>For never a headache need he give e&#8217;er a rap.     </l><l>And then St. Barbara gives her a ring,     </l><l>To her new daughter back to bring. </l></lg><lg type="Poem"><l>&#8217;Fore all the saints               </l><l rend="in10">she makes prostrations,     </l><l>Then home returns               </l><l rend="in10">having paid her oblations. </l></lg><lg type="Poem"><l>She has come back.     </l><l>Fair Kate with Mark makes haste to meet her,     </l><l>Far beyond the gate they greet her,     </l><l>Then into the house they bring her,     </l><l>Draw her to the table there     </l><l>Quickly spread with choicest fare.     </l><l>Her news of Kiev they now request,     </l><l>While Kate arranges her couch for rest. </l></lg><pb id="pb57" n="57" facs="f:057"/><lg type="Poem"><l rend="in8">&#8220;Why do they love me,         </l><l rend="in4">Why this respect?             </l><l rend="in8">Dear God above me,         </l><l rend="in4">Do they suspect?             </l><l rend="in8">Nay, that&#8217;s not so,             </l><l rend="in8">&#8217;Tis just goodness, I know.&#8221; </l></lg><lg type="Poem"><l>And still the Servant her secret kept,     </l><l>Yet from the hurt of her penance wept. </l></lg></lg><p><figure id="p057"><figDesc>Three men with large rakes.</figDesc></figure>
+
+
+
+ <pb id="pb58" n="58" facs="f:058"/>
+
+
+
+ </p><lg type="Poem"><lg type="Poem"><head>VI.</head><l>Three times have the waters frozen     </l><l>Thrice thawed at the touch of spring     </l><l>Three times did the Servant     </l><l>From Kiev her store of blessings bring.     </l><l>And each time gentle Katherine,     </l><l>As daughter, set her on her way,     </l><l>A fourth time led her by the mounds     </l><l>Where many dear departed lay.     </l><l>Then prayed to God for her safe return<corr>,</corr>     </l><l>For whom in absence her heart would yearn. </l></lg><lg type="Poem"><l>It was the Sunday of the Virgin,     </l><l>Old Trophimus sat in garments white,     </l><l>On the bench, in wide straw hat,     </l><l>All amid the sunshine bright.     </l><l>Before him with a little dog     </l><l>His frolicsome grandson played,     </l><l>The while his little granddaughter     </l><l>Was in her mother&#8217;s garb arrayed.     </l><l>Smiling he welcomed her as matron;     </l><l>For so at &#8220;visitors&#8221; they played. </l></lg><lg type="Poem"><l>&#8220;But what did you do with the visitor&#8217;s cake?     </l><l>Did somebody steal it in the wood,     </l><l>Or perhaps you&#8217;ve simply forgotten to bake?&#8221;     </l><l>For so they talked in lightsome mood. </l></lg><pb id="pb59" n="59" facs="f:059"/><lg type="Poem"><l>But see,&#8212;Who comes?     </l><l>&#8217;Tis their Anna at the door!     </l><l>Run old and young! Who&#8217;ll come before?     </l><l>But Anna waits not their welcome wordy. </l></lg><lg type="Poem"><l>&#8220;Is Mark at home, or still on journey?&#8221; </l></lg><lg type="Poem"><l>&#8220;He&#8217;s off on journey long enough,&#8221;     </l><l>Says the old man in accents gruff. </l></lg><lg type="Poem"><l>With pain the Servant sadly saith,     </l><l>&#8220;Home have I come with failing breath;     </l><l>Nor &#8217;mid strangers would I wait for death<corr sic=",">.</corr>     </l><l>May I but live my Mark to see,     </l><l>For something grievously weighs on me.&#8221; </l></lg><lg type="Poem"><l>From little bag the children&#8217;s gifts     </l><l>She takes. There&#8217;s crosses and amulets.     </l><l>For Irene is of beads a string,     </l><l>And pictures too, and for Karpon     </l><l>A nightingale to sweetly sing,     </l><l>Toy horses and a wagon.     </l><l>A fourth time she brings a ring     </l><l>From St. Barbara to Katherine.     </l><l>Next the old man&#8217;s gift she handles,     </l><l>It&#8217;s just three holy waxen candles. </l></lg><lg type="Poem"><l>For Mark and herself             </l><l rend="in8">she nothing brought;     </l><l>For want of money             </l><l rend="in8">she nothing bought. </l></lg><pb id="pb60" n="60" facs="f:060"/><lg type="Poem"><l>For want of strength             </l><l rend="in8">more funds to earn,     </l><l>Half a bun was her wealth             </l><l rend="in8">on her return.     </l><l>As to how to divide it     </l><l>Let the babes decide it. </l></lg></lg><p><figure id="p060" rend="image(images/p060.png)"><figDesc>Children playing.</figDesc></figure>
+
+
+
+ <pb id="pb61" n="61" facs="f:061"/>
+
+ </p><lg type="Poem"><lg type="Poem"><head>VII.</head><l>She enters now the house so sweet,     </l><l>And daughter Katherine bathes her feet<corr>.</corr>     </l><l>Then sets her down to dine in state,     </l><l>But my Anna nor drank nor ate. </l></lg><lg type="Poem"><l rend="in8">&#8220;Katherine!     </l><l>When is our Sunday?&#8221; </l></lg><lg type="Poem"><l rend="in8">&#8220;After tomorrow&#8217;s the day.&#8221;     </l><l>&#8220;Prayers for the dead soon will we need     </l><l>Such as St. Nicholas may heed.     </l><l>Then we must an offering pay,     </l><l>For Mark tarries on the way.     </l><l>Perchance somewhere,             </l><l rend="in8">from our vision hid,     </l><l>Sickness has ta&#8217;en him             </l><l rend="in8">which God forbid.&#8221;     </l><l>The tears dropped down             </l><l rend="in8">from the sad old eyes,     </l><l>So wearily did she             </l><l rend="in8">from the table rise. </l></lg><lg type="Poem"><l rend="in8">&#8220;<corr sic="Katherina">Katherine</corr>,     </l><l>My race is run,     </l><l>All my earthly tasks are done.     </l><l>My powers no longer I command     </l><l>Nor on my feet have strength to stand.     </l><l>And yet, my Kate, how can I die     </l><l>While in this dear warm home I lie?&#8221; </l></lg><pb id="pb62" n="62" facs="f:062"/><lg type="Poem"><l>The sickness harder grows amain,     </l><l>For her the sacred host&#8217;s appointed,     </l><l>She&#8217;s been with holy oils anointed,     </l><l>Yet nought relieves her pain.     </l><l>Old Trophim&#8217; in courtyard walks a-ring     </l><l>Moving like a stricken thing.     </l><l>Katherine, for the suff&#8217;rers sake     </l><l>Doth never rest for her eyelids take.     </l><l>And even the owls upon the roof     </l><l>Of coming evil tell the proof. </l></lg><lg type="Poem"><l>The suff&#8217;rer now, each day, each hour,     </l><l>Whispers the question, with waning power     </l><l>&#8220;Daughter Katherine, is Mark yet here?     </l><l>So struggle I with doubt and fear,     </l><l>Did I but know I&#8217;d see him for sure     </l><l>Through all my pain I might endure.&#8221; </l></lg></lg><p><figure id="p062" rend="image(images/p062.png)"><figDesc>Cossacks dancing in village.</figDesc></figure>
+
+
+
+ <pb id="pb63" n="63" facs="f:063"/> </p><lg type="Poem"><lg type="Poem"><head>VIII.</head><l>Now Mark comes on with the caravan     </l><l>Singing blithely as he can.     </l><l>To the inns he makes no speed,     </l><l>Quietly lets the oxen feed.     </l><l>Mark brings home for Katherine     </l><l>Precious cloth of substance rich;     </l><l>For father dear, a girdle sewn     </l><l>Of silk so red.     </l><l>For Servant Anne             </l><l rend="in8">a gold cloth bonnet     </l><l>To deck her head,             </l><l rend="in8">And kerchief, too             </l><l rend="in8">with white lace on it.     </l><l>For the children are shoes             </l><l rend="in8">with figs and grapes.     </l><l>There&#8217;s gifts for all,             </l><l rend="in8">there&#8217;s none escapes.     </l><l>For all he brings             </l><l rend="in8">red wine, so fine,     </l><l>From great old city             </l><l rend="in8">of Constantine.     </l><l>There&#8217;s buckets three             </l><l rend="in8">in each barrel put on.     </l><l>And caviar             </l><l rend="in8">from the river Don.     </l><l>Such gifts he has             </l><l rend="in8">in his wagon there,     </l><l>Nor knows the sorrow             </l><l rend="in8">his loved ones bear.     <pb id="pb64" n="64" facs="f:064"/></l><l>On comes Mark,             </l><l rend="in8">knows not of worry;     </l><l>But he&#8217;s come             </l><l rend="in8">Give God the glory!     </l><l>The gate he opens,             </l><l rend="in8">Praising God. </l></lg><lg type="Poem"><l>&#8220;Hear&#8217;st thou, Katherine?     </l><l>Run to meet him!     </l><l>Already he&#8217;s come,     </l><l>Haste to greet him!     </l><l>Quickly bring him in to me.     </l><l>Glory to Thee, my Saviour dear,     </l><l>All the strength has come from Thee.&#8221; </l></lg><lg type="Poem"><l>And she &#8220;Our Father&#8221; softly said     </l><l>Just as if in dream she read.     </l><l>The old man the team unyokes,     </l><l>Lays away the carven yokes.     </l><l>Kate at her husband strangely looks. </l></lg><lg type="Poem"><l>&#8220;Where&#8217;s Anna, Katherine?     </l><l>I&#8217;ve been careless!     </l><l>She&#8217;s not dead?&#8221; </l></lg><lg type="Poem"><l rend="in8">&#8220;No, not dead,     </l><l>But very sick and calls for thee.&#8221; </l></lg><lg type="Poem"><l>On the threshold Mark appears,     </l><l>Standing there as torn by fears.     </l><l>But Anna whispers, &#8220;Be not afraid,     </l><l>Glory to God, Who my fears allayed. </l></lg><pb id="pb65" n="65" facs="f:065"/><lg type="Poem"><l>Go forth, Katherine,             </l><l rend="in8">though I love you well,     </l><l>I&#8217;ve something to ask him,             </l><l rend="in8">something to tell.&#8221; </l></lg><lg type="Poem"><l>From the place             </l><l rend="in8">fair Katherine went;     </l><l>While Mark his head             </l><l rend="in8">o&#8217;er the Servant bent.     </l><l>&#8220;Mark, look at me,     </l><l>Look at me well!     </l><l>A secret now I have to tell.     </l><l>On this faded form             </l><l rend="in8">set no longer store,     </l><l>No servant, I, nor Anna more,     </l><l>I am&#8212;&#8212;&#8221;             </l><l rend="in8">Came silence dumb,     </l><l>Nor yet guessed Mark             </l><l rend="in8">What was to come. </l></lg><lg type="Poem"><l>Yet once again her eyelids raised     </l><l>Into his eyes she deeply gazed     </l><l>&#8217;Mid gathering tears. </l></lg><lg type="Poem"><l>&#8220;I from thee forgiveness pray;     </l><l>I&#8217;ve penance offered day by day     </l><l>All my life to serve another.     </l><l>Forgive me, son, of me,     </l><l>For I&#8212;am thy mother.&#8221; </l></lg><pb id="pb66" n="66" facs="f:066"/><lg type="Poem"><l>She ceased to speak.     </l><l>A sudden faintness             </l><l rend="in8">Mark did take:     </l><l>It seemed the earth             </l><l rend="in8">itself did shake.     </l><l>He roused&#8212;             </l><l rend="in8">and to his mother crept,     </l><l>But the mother             </l><l rend="in8">forever slept. </l></lg></lg><p><figure id="p066" rend="image(images/p066.png)"><figDesc>Person kneeling in near bullock cart.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb67" n="67" facs="f:067"/> </p></div1><div1 id="legacy" type="Chapter"><head rend="image(images/o067.png)">A Father&#8217;s Legacy</head><p><hi>When Gregory Shevchenko&#8212;for this was the father&#8217;s name&#8212;was on his deathbed, he called his family around him and gave his parting bequests. A serf might not, indeed, sell any of his household goods without permission of his landlord, but he could give them to his relatives who, of course, were the property of the same landlord. So Gregory Shevchenko distributed his pitiful treasures to the children and to his wife,&#8212;saying finally&#8212;</hi>
+
+ </p><p><hi>&#8220;To my son, Taras, I give nothing. He will be no common man. Either he will be something very good or else a great rascal. For him the patrimony will either mean nothing, or will not help any.&#8221;</hi>
+
+
+
+ </p><p><figure id="p067" rend="image(images/p067.png)"><figDesc>House with well.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb68" n="68" facs="f:068"/> </p></div1><div1 id="caucasus" type="Chapter"><head rend="image(images/o068-1.jpg)">Caucasus</head><p><hi>To Jacques de Balmont&#8212;French friend of the Ukrainians who perished in the Circassian war.</hi>
+
+ </p><p><hi>The Czars used the Ukrainians as tools in their ambitious projects. A hundred thousand of them perished in the marshes, digging the foundations of Petrograd. As many more died in the attempt to subdue the Circassians&#8212;tribes inhabiting the Caucasus mountains&#8212;to the imperial will of the Russian autocrat.</hi>
+
+ </p><p><hi>The memory of these sufferings was the inspiration of this bitter poem.</hi>
+
+ </p><p><hi>The text is taken from the prophecy of Jeremiah, Chapter 9, verse 1.</hi>
+
+ </p><p><hi>&#8220;Oh, that my head were waters, and mine eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people.&#8221;</hi>
+
+
+
+ </p><p><figure id="o068-2"><figDesc>Ornament: decorated egg pointing right.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb69" n="69" facs="f:069"/>
+
+
+
+ </p><lg type="Poem"><lg type="Poem"><l>Beyond the hills are mightier hills,     </l><l>Cloud mountains o&#8217;er them rise,     </l><l>Red, red have flowed their streams and rills,     </l><l>They&#8217;re sown with human woes and sighs. </l></lg><lg type="Poem"><l>There long ago in days of old     </l><l>Olympus&#8217; Czar, the angry Jove,     </l><l>His wrath did pour on a hero bold,     </l><l>On brave Prometheus, he who strove     </l><l>The fire of heaven to seize for men. </l></lg><lg type="Poem"><l>On mountain side, in vulture&#8217;s den     </l><l>He suffered what no mortal pen     </l><l>May well indite. The savage beak     </l><l>Of his hearts&#8217; blood doth daily reek.     </l><l>Yet the torn heart again revives,     </l><l>To triumph o&#8217;er its tortures strives. </l></lg><lg type="Poem"><l>Our souls yield not to grievous ills,     </l><l>To freedom march our stubborn wills.     </l><l>Though waves of trouble o&#8217;er us roll     </l><l>The waves move not the steadfast soul.     </l><l>Our living spirit is not in chains,     </l><l>The word of God in glory reigns. </l></lg><lg type="Poem"><l>&#8217;Tis not for us to challenge Thee,     </l><l>Though life rolls on in toil and tears;     </l><l>Though we Thy purpose cannot see     </l><l>We cling to hope &#8217;mid doubts and fears.     </l><l>Our cause lies sunk in drunken sleep     </l><l>When will it awaken<corr sic=".">,</corr> Lord? <pb id="pb70" n="70" facs="f:070"/>    </l><l>Oppressors gloat and patriots weep,     </l><l>When wilt strength to us afford? </l></lg><lg type="Poem"><l>So weary, then art Thou, Oh God,     </l><l>Can&#8217;st life to us no longer give?     </l><l>Thy Truth we trust beneath the rod,     </l><l>Believing in Thy strength we live.     </l><l>Our cause shall rise,     </l><l>Our freedom rise     </l><l>Though tyrants rage:     </l><l>To Thee alone,     </l><l>All nations bow     </l><l>Through age on age     </l><l>And yet meantime             </l><l rend="in8">the streams do flow     </l><l>And ever tinged with blood             </l><l rend="in8">they go. </l></lg><lg type="Poem"><l>Beyond the hills are mightier hills,     </l><l>Cloud mountains o&#8217;er them rise.     </l><l>Red, red have flowed their streams and rills,     </l><l>They&#8217;re sown with human woes and sighs. </l></lg><lg type="Poem"><l>Look at us in tender heartedness,     </l><l>All in hunger dire and nakedness,     </l><l>Forging freedom in unhappiness,     </l><l>Toiling ever without blessedness. </l></lg><lg type="Poem"><l>The bones of soldiers bleaching lie,     </l><l>In blood and tears must many die. </l></lg><pb id="pb71" n="71" facs="f:071"/><lg type="Poem"><l>In faith, there&#8217;s widows&#8217; tears, I think,     </l><l>To all the Czars to give to drink.     </l><l>Then there&#8217;s tears of many a maiden     </l><l>Falling so soft in the lonely night.     </l><l>Hot tears of mothers, sorrow-laden,     </l><l>Dry tears of fathers, in grievous plight.     </l><l>Not rivers, but a sea has flowed,     </l><l>A burning sea.     </l><l>To all the Czars who in triumph rode,     </l><l>With their hounds and gamekeepers,     </l><l>Their dogs and their beaters,     </l><l>May glory be! </l></lg><lg type="Poem"><l>To you be glory, hills of blue,     </l><l>All clad in monstrous chains of frost.     </l><l>Glory to you, ye heroes true,     </l><l>With God your labors are not lost.     </l><l>Fear not to fight, you&#8217;ll win at length,     </l><l>For you, God&#8217;s ruth,     </l><l>For you is freedom, for you is strength,     </l><l>And Holy Truth. </l></lg></lg><p><figure id="p071" rend="image(images/p071.png)"><figDesc>Woman carrying yoke with two buckets on shoulder.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb72" n="72" facs="f:072"/> </p></div1><div1 id="circassians" type="Chapter"><head>TO THE CIRCASSIANS</head><lg type="Poem"><lg type="Poem"><l>&#8220;Our bread and home,&#8221; in your own tongue,     </l><l>In Tartar words you dare to say.     </l><l>Nobody gave it you, your world is young,     </l><l>So far no one has ta&#8217;en it away.     </l><l>Nobody yet has led you in fetters,     </l><l>But we have wisdom in such matters. </l></lg><lg type="Poem"><l>In God&#8217;s good word we daily read,     </l><l>But from dungeons where the pris&#8217;ners moan,     </l><l>To Caesar&#8217;s high-exalted throne     </l><l>&#8217;Tis gilt without, while the soul&#8217;s in need. </l></lg><lg type="Poem"><l>To us for wisdom should you come,     </l><l>We&#8217;ll teach you all the tricks of trade.     </l><l>Good Christians we, with church and Ikon;     </l><l>All goods, even God, our own we&#8217;ve made. </l></lg><lg type="Poem"><l>But that house of yours             </l><l rend="in8">Still hurts our eyes;     </l><l>If we didn&#8217;t give it,             </l><l rend="in8">Why should you have it?     </l><l>These ways of yours             </l><l rend="in8">cause much surprise.     </l><l>We never granted             </l><l rend="in8">The corn you planted.     </l><l>The sunlight, you             </l><l rend="in8">Should pay for, too.     </l><l>Oh, quite uneducated you! </l></lg><pb id="pb73" n="73" facs="f:073"/><lg type="Poem"><l>Good Christians we, no pagans needy,     </l><l>Sound in the faith, not a bit greedy.     </l><l>If you in peace from us would learn     </l><l>Store of wisdom you would earn. </l></lg><lg type="Poem"><l>With us what great illumination,     </l><l>A cont&#8217;nent &#8217;neath our domination;     </l><l>Siberia great, for illustration.     </l><l>There&#8217;s jails and folks &#8217;yond computation. </l></lg><lg type="Poem"><l>From Moldavia to Finlandia     </l><l>Many tongues but nothing said,     </l><l>Except for blessings on your head. </l></lg><lg type="Poem"><l>A holy monk here reads the Bible,     </l><l>Tells the story, &#8217;tis no libel,     </l><l>Of king who stole his neighbour&#8217;s wife,     </l><l>And then the neighbour he robbed of life.     </l><l>The king now dwells in paradise.     </l><l>Such folks &#8217;mong us to heaven rise. </l></lg><lg type="Poem"><l>Oh, you creatures unenlightened,     </l><l>Be ye not of our dogmas frightened!     </l><l>Our gentle art of &#8220;grab&#8221; we&#8217;ll teach;     </l><l>A coin to the church and heaven you&#8217;ll reach.     </l><l>Whatever is there we can&#8217;t do?     </l><l>The stars we count and crops we sow;     </l><l>The foreigner curse,     </l><l>Then fill our purse,     </l><l>The people selling,     </l><l>&#8217;Tis truth I&#8217;m telling. </l></lg><pb id="pb74" n="74" facs="f:074"/><lg type="Poem"><l>No niggers we sell, I&#8217;m not making jokes,     </l><l>Just common ord&#8217;nary Christian folks.     </l><l>No Spaniards we, may God forbid!     </l><l>Nor Jews that stolen goods have hid.     </l><l>So don&#8217;t you think you&#8217;d like to be     </l><l>Such law-abiding folks as we? </l></lg></lg><p><figure id="p074" rend="image(images/p006.png)"><figDesc>House with melon and sunflower in garden.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb75" n="75" facs="f:075"/> </p></div1><div1 id="rich" type="Chapter"><head>TO THE RICH AND GREAT</head><lg type="Poem"><lg type="Poem"><l>Is it by the apostle&#8217;s law     </l><l>That ye your brother love?     </l><l>Hypocrites and chatterers,     </l><l>Ye&#8217;re cursed of God above. </l></lg><lg type="Poem"><l>Not for your brother&#8217;s soul you care.     </l><l>It&#8217;s only for his skin.     </l><l>The skin from off his back you&#8217;d tear,     </l><l>Some trifling prize to win. </l></lg><lg type="Poem"><l>There&#8217;s furs for your daughter,     </l><l>Slippers for your wife,     </l><l>And things that you don&#8217;t utter     </l><l>About your private life. </l></lg></lg><p><figure id="p075" rend="image(images/p075.png)"><figDesc>Farmer&#8217;s house.</figDesc></figure>
+
+
+
+ <pb id="pb76" n="76" facs="f:076"/> </p></div1><div1 id="master" type="Chapter"><head>TO THE MASTER</head><lg type="Poem"><lg type="Poem"><l>Oh, wherefore wert Thou crucified,     </l><l>Thou Christ, the Son of God?     </l><l>That the word of Truth be glorified?     </l><l>Or that we good folks should &#8217;scape the rod     </l><l>Of avenging wrath, by faith confest?     </l><l>Meanwhile of Thee we make a jest,     </l><l>Mocking Thy love in our conduct&#8217;s test. </l></lg><lg type="Poem"><l>Cathedrals and chapels with Icons grand!     </l><l>&#8217;Mid smoke of incense lavers stand.     </l><l>There before Thy pictured Presence     </l><l>Crowds unwearied make obeisance;     </l><l>For spoil, for war, for slaughter seek     </l><l>Their brother&#8217;s blood to shed they pray,     </l><l>And then before Thy form so meek     </l><l>The loot of burning towns they lay. </l></lg></lg><p><figure id="p076" rend="image(images/p076.png)"><figDesc>Farmer&#8217;s house with well.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb77" n="77" facs="f:077"/> </p></div1><div1 id="circassians2" type="Chapter"><head>AGAIN ADDRESSING THE CIRCASSIANS</head><lg type="Poem"><l>The sun on us has shone so bright,     </l><l>We wish to you to give the light.     </l><l>That sun of truth we seek to show     </l><l>To children blind, all in a row.     </l><l>Wonders all to see we&#8217;ll let you     </l><l>If in our hands we only get you.     </l><l>Of building jails we&#8217;ll show the trick,     </l><l>How pris&#8217;ners &#8217;gainst their fetters kick.     </l><l>There&#8217;s knotted whips for stubborn backs,     </l><l>For saucy nations painful racks.     </l><l>In change for your mountains grand and old,     </l><l>With this instruction we you greet.     </l><l>These are the last things, already we hold     </l><l>The plains and seas beneath our feet. </l></lg><p><figure id="p077" rend="image(images/p077.png)"><figDesc>Weeping willow with boat.</figDesc></figure>
+
+
+
+ <pb id="pb78" n="78" facs="f:078"/> </p></div1><div1 id="balmont" type="Chapter"><head>TO JACQUES DE BALMONT</head><lg type="Poem"><lg type="Poem"><l>So they drove thee along, my dearest friend,     </l><l>For Ukraina did&#8217;st thou shed     </l><l>That good heart&#8217;s blood of thine so red.     </l><l>Our country&#8217;s hangman, shame to think,     </l><l>Muscovite poison gave thee to drink.     </l><l>Oh, friend of mine, unforgotten friend,     </l><l>Ukraine to thee doth welcome send.     </l><l>Let thy spirit fly with Cossacks bold.     </l><l>Along the shores of Dnieper old.     </l><l>O&#8217;er ancient tombs hold watch and guard     </l><l>And weep with us in labors hard. </l></lg><lg type="Poem"><l>Till I return to meet thee,     </l><l>My songs I send to greet thee.     </l><l>Such songs they are of bitter woe.     </l><l>Yet ever, always, these I sow. </l></lg><lg type="Poem"><l>Thoughts and songs forever sowing,     </l><l>To the care of winds bestowing.     </l><l>Gentle winds of Ukraine     </l><l>Shall bear them like the dew     </l><l>To that dear land of mine     </l><l>To greet my friends so true<corr>.</corr> </l></lg></lg><p><figure id="p078" rend="image(images/p078.png)"><figDesc>Row of three houses.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb79" n="79" facs="f:079"/> </p></div1><div1 id="serfdom" type="Chapter"><head rend="image(images/o079.png)">The Meaning of Serfdom</head><p><hi>Three or four days of every week the serfs&#8212;men and women alike&#8212;must labor in their master&#8217;s fields for nought. What was left of the week, they were granted to earn subsistence for themselves and their families.</hi>
+
+ </p><p><hi>But that was not the worst. More bitter than labor was the fact that they were not their own, were chattels of their lord, who could sell them at his pleasure or gamble them away at cards.</hi>
+
+ </p><p><hi>He could beat them too, or kill them if he wished, without fear, for what advocate would take up the case of a penniless serf against the all-powerful aristocracy.</hi>
+
+ </p><p><hi>Hideous, too, was the glaring fact that young daughters of the serfs were regarded as the legitimate prey of the landlord and, his sons.</hi>
+
+ </p><p><hi>In these later days the sins of the fathers have been visited in awful fashion on the descendants of these landlords. But can we <pb id="pb80" n="80" facs="f:080"/>wonder that in the writings of a poet whose childhood was poisoned by knowledge of such injustice, we find evidence of the growing avenging fury that later was to bring about such awe-inspiring convulsions in human society.</hi>
+
+ </p><p><hi>Through all of Shevchenko&#8217;s verse there sounds the great theme of that contrast between the beauty of God&#8217;s world, and the horrors of human cruelty.</hi>
+
+ </p><p><hi>&#8220;An earthly heaven we had from Thee; Turned it into hell have we.&#8221;</hi>
+
+
+
+ </p><p><figure id="p080" rend="image(images/p027.png)"><figDesc>Three persons resting in field.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb81" n="81" facs="f:081"/> </p></div1><div1 id="dead" type="Chapter"><head rend="image(images/o081.png)">To the Dead</head><p rend="center">And the Living, and the Unborn, Countrymen <lb/>of mine, in Ukraine, or out of it, <lb/>My Epistle of Friendship.
+
+
+
+ </p><p><hi>This is the national poem of the Ukrainians, recited at all their gatherings. I have given the thought and something of the feeling. The music of the original I could not give. It begins like a Highland dirge with wailing amphibrachs, and there are other measures in it not used in our language. Perhaps some future student may be moved to put this poem in such English form as will give the true impression of the original.</hi>
+
+ </p><p><hi>The motive of the poem is, in part, to awaken the conscience of the young educated Ukrainians who, for the sake of gain were allowing themselves to be used as tools by foreign oppressors.</hi>
+
+
+
+ </p><p><figure id="o081-2" rend="image(images/o081-2.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+ <pb id="pb82" n="82" facs="f:082"/> </p><lg type="Poem"><lg type="Poem"><l>&#8217;Twas dawn, &#8217;tis evening light,     </l><l>So passes Day divine.     </l><l>Again the weary folk     </l><l>And all things earthly             </l><l rend="in8">Take their rest.     </l><l>I alone, remorseful     </l><l>For my country&#8217;s woes,             </l><l rend="in8">Weep day and night,     </l><l>By the thronged cross-roads,     </l><l>Unheeded by all.     </l><l>They see not, they know not;     </l><l>Deaf ears, they hear not.     </l><l>They trade old fetters for new     </l><l>And barter righteousness,     </l><l>Make nothing of their God.     </l><l>They harness the people     </l><l>With heavy yokes.     </l><l>Evil they plough,     </l><l>With evil they sow.     </l><l>What crops will spring?     </l><l>What harvest will you see? </l></lg><lg type="Poem"><l>Arouse ye, unnatural ones.     </l><l>Children of Herod!     </l><l>Look on this calm Eden,     </l><l>Your own Ukraine,     </l><l>Bestow on her tender love,     </l><l>Mighty in her ruins.     </l><l>Break your fetters,     </l><l>Join in brotherhood,     </l><l>Seek not in foreign lands <pb id="pb83" n="83" facs="f:083"/>    </l><l>Things that are not.     </l><l>Nor yet in Heaven,     </l><l>Nor in stranger&#8217;s fields,     </l><l>But in your own house     </l><l>Lies your righteousness,     </l><l>Your strength and your liberty. </l></lg><lg type="Poem"><l>In the world is but one Ukraine,     </l><l>Dnieper&#8212;there is only one.     </l><l>But you must off to foreign lands     </l><l>To look for something grand and good.     </l><l>Wealth of goodness and liberty,     </l><l>Fraternity and so forth, you found.     </l><l>And back you brought to Ukraine     </l><l>From places far away     </l><l>A wondrous force         </l><l rend="in4">of lofty sounding words,     </l><l>And nothing more.     </l><l>Shout aloud         </l><l rend="in4">That God created you for this,     </l><l>To bow the knee to lies,     </l><l>To bend and bend again         </l><l rend="in4">Your spineless backs     </l><l>And skin again         </l><l rend="in4">Your brothers&#8212;     </l><l>These ignorant buckwheat farmers. </l></lg><lg type="Poem"><l>Try again         </l><l rend="in4">to ripen crops of truth and light     </l><l>In Germany         </l><l rend="in4">or some other foreign place.     </l><l>If one should add         <pb id="pb84" n="84" facs="f:084"/></l><l rend="in4">all our present misery     </l><l>To the wealth         </l><l rend="in4">Our fathers stole     </l><l>Orphaned, indeed, would Dnieper be         </l><l rend="in4">with all his holy hills.     </l><l>Faugh! if it should happen         </l><l rend="in4">that you would never come back,     </l><l>Or get snuffed out         </l><l rend="in4">just where you were spawned     </l><l>No children would weep         </l><l rend="in4">nor mothers lament,     </l><l>Nor in God&#8217;s house be heard         </l><l rend="in4">the story of your shame.     </l><l>The sun would not shine         </l><l rend="in4">on the stench of your filth     </l><l>O&#8217;er the clean, broad, free land,     </l><l>Nor would the people know         </l><l rend="in4">what eagles you were     </l><l>Nor turn their heads to gaze. </l></lg><lg type="Poem"><l>Arouse ye, be men!     </l><l>For evil days come.     </l><l>Quickly a people enchained     </l><l>Shall tear off their fetters;     </l><l>Judgment will come,     </l><l>Dnieper and the hills will speak.     </l><l>A hundred rivers         </l><l rend="in4">flow to the sea         </l><l rend="in4">with your children&#8217;s blood,     </l><l>Nor will there be any to help.     <pb id="pb85" n="85" facs="f:085"/></l><l>Smoke clouds hide the sun     </l><l>Through the ages         </l><l rend="in4">Your sons shall curse you. </l></lg><lg type="Poem"><l>Wash yourselves&#8212;         </l><l rend="in4">The divine likeness in you             </l><l rend="in8">defile not with slime.     </l><l>Befool not your children         </l><l rend="in4">that they were born to the world             </l><l rend="in8">to be lordlings.     </l><l>The eyes of men untaught         </l><l rend="in4">see deep, deep             </l><l rend="in8">into your soul.     </l><l>Poor things they may he,         </l><l rend="in4">yet they know the ass             </l><l rend="in8">in the lion&#8217;s skin.     </l><l>And they will judge you,         </l><l rend="in4">the foolish will pronounce the doom             </l><l rend="in8">of the wise. </l></lg><lg type="Poem"><p><figure id="o085" rend="image(images/o081-2.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+ <pb id="pb86" n="86" facs="f:086"/>
+
+
+
+ </p><lg type="Poem"><lg type="Poem"><head>II.</head><l>Did you but study as you should,     </l><l>You would possess your own wisdom;     </l><l>And you might creep up to heaven. </l></lg><lg type="Poem"><l>But it is we&#8212;             </l><l rend="in8">Oh, no, not we;         </l><l rend="in4">It is I&#8212;no, no, not I.     </l><l>I&#8217;ve seen it all, I know it.     </l><l>There&#8217;s neither heaven nor hell,     </l><l>Not even God&#8212;         </l><l rend="in4">Just I and the short, fat German,             </l><l rend="in8">Nothing more. </l></lg><lg type="Poem"><l>Grand, my brother.     </l><l>You ask me something,         </l><l rend="in4">&#8220;I don&#8217;t know,             </l><l rend="in8">Ask the German,             </l><l rend="in8">He&#8217;ll tell you.&#8221;     </l><l>That&#8217;s the way you learn         </l><l rend="in4">in foreign lands.     </l><l>The German says&#8212;         </l><l rend="in4">&#8220;You are Mongols.             </l><l rend="in8">Mongols, Mongols;     </l><l>Naked children         </l><l rend="in4">of the golden Tamerlane.&#8221;     </l><l>The German says&#8212;         </l><l rend="in4">&#8220;You are Slavs,             </l><l rend="in8">Slavs, Slavs; <pb id="pb87" n="87" facs="f:087"/>    </l><l>Ugly offspring         </l><l rend="in4">of famous ancestors.&#8221;     </l><l>You read the writings         </l><l rend="in4">of the great Slavophils,     </l><l>Push in among them,         </l><l rend="in4">Get on so well     </l><l>That you know all the tongues         </l><l rend="in4">of the Slavonic peoples     </l><l>Except your own&#8212;God help it.     </l><l>&#8220;Oh, as for that         </l><l rend="in4">Sometime we&#8217;ll speak             </l><l rend="in8">our own language     </l><l>When the German         </l><l rend="in4">shows us how,     </l><l>Our history too,         </l><l rend="in4">he will explain,     </l><l>Then we&#8217;ll be alright!&#8221;     </l><l>It came about finely         </l><l rend="in4">on the German advice.     </l><l>They learned to speak so well         </l><l rend="in4">That even the mighty German             </l><l rend="in8">could not understand them,     </l><l>Not to speak of common folks.     </l><l>Oh what a noise and racket!     </l><l>&#8220;There&#8217;s Harmony, and Force     </l><l>And Music&#8212;and everything.     </l><l>And as for History     </l><l>The Epic of a free people!     </l><l>What&#8217;s all this about the poor Romans,     </l><l>Brutus, etcetera, and the Devil knows what?     </l><l>Have we not our Brutuses     <pb id="pb88" n="88" facs="f:088"/>    </l><l rend="in4">and our Cocles     </l><l>Glorious and never to be forgotten?     </l><l>Why freedom grew up with us     </l><l>Bathed in the Dnieper     </l><l>Rested her head on our hills,     </l><l>The far-flung Steppes         </l><l rend="in4">are her garments.&#8221;     </l><l>Alas! &#8217;twas in blood she bathed     </l><l>Pillowed her head on burial mounds         </l><l rend="in4">On bodies of Cossack freemen,             </l><l rend="in8">Corpses despoiled.     </l><l>But look ye well         </l><l rend="in4">Read again of that glory!     </l><l>Read it, word by word,     </l><l>Miss not a jot nor tittle,     </l><l>Grasp it all:         </l><l rend="in4">Then ask yourselves&#8212;     </l><l>Who are we? Whose sons?         </l><l rend="in4">Of what fathers?             </l><l rend="in8">By whom and why enchained?     </l><l>Then you shall see         </l><l rend="in4">Who your glorious Brutuses are.     </l><l>Slaves, door-mats!         </l><l rend="in4">mud of Moscow             </l><l rend="in8">scum of Warsaw                 </l><l rend="in12">are your lords;     </l><l>Glorious heroes they are.     </l><l>Why are you so proud     </l><l>Sons of unhappy Ukraine.     </l><l>That you go so well under the yoke?     </l><l>Even better you go     <pb id="pb89" n="89" facs="f:089"/>    </l><l rend="in4">than your fathers went.     </l><l>Don&#8217;t brag so much,         </l><l rend="in4">they just skin you,     </l><l>They rendered out your fathers&#8217; bones     </l><l>Perhaps you are proud         </l><l rend="in4">that your brotherhood             </l><l rend="in8">has defended the faith.     </l><l>You cooked your dough-nuts         </l><l rend="in4">o&#8217;er the fires             </l><l rend="in8">of burning Turkish towns,     </l><l>of Sinope and Trebizond.         </l><l rend="in4">True for you             </l><l rend="in8">And you ate them     </l><l>And now they pain you,     </l><l>And on your own fields         </l><l rend="in4">the wily German             </l><l rend="in8">plants potatoes.     </l><l>You buy them from him,       </l><l rend="in2">eat them for the good of your health         </l><l rend="in4">and praise Cossackery.     </l><l>But with whose blood         </l><l rend="in4">was the land sprinkled             </l><l rend="in8">that grew the potatoes?     </l><l>Oh, that&#8217;s a trifle;         </l><l rend="in4">so long as it&#8217;s good for the garden.     </l><l>Very proud you are         </l><l rend="in4">that we once destroyed Poland.     </l><l>Very true indeed:         </l><l rend="in4">Poland fell,             </l><l rend="in8">but fell on top of us. <pb id="pb90" n="90" facs="f:090"/>    </l><l>So your fathers shed their blood         </l><l rend="in4">for Moscow and for Warsaw,     </l><l>And left to you, their sons         </l><l rend="in4">their fetters and their glory. </l></lg></lg></lg></lg><p><figure id="p090" rend="image(images/p075.png)"><figDesc>Farmer&#8217;s house.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb91" n="91" facs="f:091"/>
+
+
+
+ </p><lg type="Poem"><lg type="Poem"><head>III.</head><l>To the very limit             </l><l rend="in8">has our country come,     </l><l>Her own children         </l><l rend="in4">crucify her         </l><l rend="in4">worse than the Poles.     </l><l>How like beer         </l><l rend="in4">they draw off             </l><l rend="in8">her righteous blood.     </l><l>They would, you see         </l><l rend="in4">enlighten the maternal eyes             </l><l rend="in8">with everlasting fires;     </l><l>Lead on the poor blind cripple         </l><l rend="in4">after the spirit of the age,         </l><l rend="in4">German fashion!     </l><l>Fine, go ahead,         </l><l rend="in4">show us the way!     </l><l>Let the old mother learn         </l><l rend="in4">how to look after such children     </l><l>Show away!         </l><l rend="in4">For this instruction,     </l><l>Don&#8217;t worry&#8212;         </l><l rend="in4">Good motherly reward will be.     </l><l>The illusion fades         </l><l rend="in4">from your greedy eyes     </l><l>Glory shall you see,         </l><l rend="in4">such glory as fits             </l><l rend="in8">the sons of deceitful sires. </l></lg><lg type="Poem"><l>To study then, my brothers,     </l><l>Think and read, <pb id="pb92" n="92" facs="f:092"/>    </l><l>Learn from the foreigner     </l><l>Despise not your own<corr>.</corr>     </l><l>Who forgets his mother     </l><l>Him God will punish.     </l><l>Foreigners will despise him     </l><l>Nor admit him to their homes;     </l><l>His children shall as strangers be     </l><l>Nor shall he find happiness on earth.     </l><l>I weep when I remember         </l><l rend="in4">the deeds of our fathers,             </l><l rend="in8">deeds I can not forget.     </l><l>Heavy on my heart they lie;         </l><l rend="in4">Half my life I&#8217;d give             </l><l rend="in8">could I forget them.     </l><l>Such is our glory         </l><l rend="in4">the glory of Ukraine.     </l><l>So read then         </l><l rend="in4">that ye may see     </l><l>Not in dream         </l><l rend="in4">but in vision         </l><l rend="in4">All the wrongs that lie           </l><l rend="in6">beneath yon mighty tombs.     </l><l>Ask then of the martyrs         </l><l rend="in4">by whom, when and for what             </l><l rend="in8">were they crucified.     </l><l>Embrace then         </l><l rend="in4">brothers mine&#8212;     </l><l>The least of your brethren.     </l><l>That your mother may smile again,     </l><l>Smile through her tears.     <pb id="pb93" n="93" facs="f:093"/></l><l>Give blessings to your children         </l><l rend="in4">with hard toiler&#8217;s hands;     </l><l>With free lips kiss them         </l><l rend="in4">when they are washed and clad.     </l><l>Forget the shameful past     </l><l>And the true glory shall live again,         </l><l rend="in4">the glory of the Ukraine.     </l><l>And clear light of day         </l><l rend="in4">not twilight gloom     </l><l>Shall gently shine.     </l><l>Love one another, my brothers,     </l><l>I pray you&#8212;I plead. </l></lg></lg><p><figure id="p093" rend="image(images/p071.png)"><figDesc>Woman carrying yoke with two buckets on shoulder.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb94" n="94" facs="f:094"/> </p></div1><div1 id="freedom" type="Chapter"><head rend="image(images/o079.png)">Freedom and Friends</head><p><hi>With his new freedom Shevchenko finds himself in a different world. Not only does he meet the most brilliant people of the Russian Capital&#8212;scientists, artists, generals, nobles are his intimates. Count Tolstoi and Prince and Princess Repnin are his patrons.</hi>
+
+ </p><p><hi>He is introduced, too, in Russian or Polish translations to the great authors of other lands and times,&#8212;Greece and Rome, Germany and Britain offer him their treasures.</hi>
+
+ </p><p><hi>To us it is interesting to know that Byron, Walter Scott, and Shakespeare profoundly influenced him.</hi>
+
+ </p><p><hi>But a conflict of spirit now faces him. His worldly interests and his judgment advise him to go on with his painting. But strange music seems to ring in his ears. It is the music of his beautiful and suffering Ukraine. Songs seem to come to him from the wind and he writes them down.</hi>
+
+ <pb id="pb95" n="95" facs="f:095"/></p><p><hi>They are in the peasant language of the Ukraine.</hi>
+
+ </p><p><hi>His &#8216;Kobzar&#8217; appears in its first edition, with eight poems, in 1840. It is like a lightning flash through Russia.</hi>
+
+ </p><p><hi>Great Russian critics sneered at it, saying it was in the <corr sic="longuage">language</corr> of the swineherds. But the whole Ukraine recognized it as the voice of their suppressed nation. The down-trodden masses of all Russia knew that they had found a spokesman.</hi>
+
+ </p><p><hi>Shevchenko was now famous but he had chosen, without knowing it, &#8216;The Way of the Cross.&#8217;</hi>
+
+
+
+ </p><p><figure id="p095" rend="image(images/p067.png)"><figDesc>House with well.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb96" n="96" facs="f:096"/> </p></div1><div1 id="dream" type="Chapter"><head rend="image(images/o030.png)">A Dream</head><p><hi>This poem was written in 1847 in Siberia. Taken away suddenly from Ukraine, Shevchenko could not forget his mother land. His beloved Ukraine was very far from him, and he longed for her even in his dreams. He describes in the poem a dream which he had about the beauties of the Ukraine, which he had just left and which he never hoped to see again. The old man of whom he speaks represents the poet himself, who knew the <corr sic=","/>miseries of his native land and who desired to spend the last hours of his life there.</hi>
+
+
+
+ </p><p><figure id="o096"><figDesc>Ornament: decorated egg pointing left.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb97" n="97" facs="f:097"/>
+
+
+
+ </p><lg type="Poem"><lg type="Poem"><l>Oh my lofty hills&#8212;     </l><l>Yet not so lofty     </l><l>But beautiful ye are.     </l><l>Sky-blue in the distance;     </l><l>Older than old Pereyaslav,     </l><l>Or the tombs of Vebla,     </l><l>Like those clouds that rest     </l><l>Beyond the Dnieper. </l></lg><lg type="Poem"><l>I walk with quiet step,     </l><l>And watch the wonders peeping out.     </l><l>Out of the clouds march silently     </l><l>Scarped cliff and bush and solitary tree;     </l><l>White cottages creep forth     </l><l>Like children in white garments,     </l><l>Playing in the valley&#8217;s gloom.     </l><l>And far below our gray old Cossack,     </l><l>The Dnieper, sings musically     </l><l>Amid the woods.     </l><l>And then beyond the Dnieper on the hillside,     </l><l>The little Cossack church     </l><l>Stands like a chapel,     </l><l>With its leaning cross. </l></lg><lg type="Poem"><l>Long it stands there, gazing, waiting,     </l><l>For the Cossacks from the Delta;     </l><l>To the Dnieper prattles,     </l><l>Telling all its woe     </l><l>From its green-stained windows,     </l><l>Like eyes of the dead,     </l><l>It peeps as from the tomb. <pb id="pb98" n="98" facs="f:098"/>    </l><l>Dost thou look for restoration?     </l><l>Expect not such glory.     </l><l>Robbed are thy people.     </l><l>For what care the wicked lords     </l><l>For the ancient Cossack fame? </l></lg><lg type="Poem"><l>And Traktemir above the hill     </l><l>Scatters its wretched houses     </l><l>Like a drunken beggar&#8217;s bags.     </l><l>And there is old Manaster     </l><l>Once a Cossack town.     </l><l>Is that the one that used to be?     </l><l>All, all is gone, as a playground for the kings     </l><l>The land of the Zaporogues and the village     </l><l>All, all the greedy ones have taken.     </l><l>And you hills, you permitted it!     </l><l>May no one look on you more     </l><l>Cursed ones!&#8212;No! No!     </l><l>Not you I curse,     </l><l>But our quarreling generals,     </l><l>And the inhuman Poles. </l></lg><lg type="Poem"><l>Forgive me, my lofty ones,     </l><l>Lofty ones and blue,     </l><l>Finest in the world, and holiest,     </l><l>Forgive me, I pray God.     </l><l>For so I love my poor Ukraina,     </l><l>I might blaspheme the holy God,     </l><l>And for her lose my soul.     </l><l>On a curve of lofty <corr sic="Trektemir">Traktemir</corr>     </l><l>A lonely cottage like an orphan stands, <pb id="pb99" n="99" facs="f:099"/>    </l><l>Ready to plunge from off the height     </l><l>To loved Dnieper, far below.     </l><l>From that house Ukraina is seen,     </l><l>And all the land of the Hetmans.     </l><l>Beside the house an old gray father sits.     </l><l>Beyond the river the sun goes down     </l><l>As he sits, and looks, and sadly thinks.     </l><l>&#8220;Alas, Alas!&#8221; the old man cries,     </l><l>&#8220;Fools, that lost this land of God,     </l><l>The Hetmans&#8217; land.&#8221;     </l><l>His brow with thought is clouded,     </l><l>Something bitter he would have said     </l><l>But did not. </l></lg><lg type="Poem"><l>&#8220;Much have I wandered in the world,     </l><l>In peasant&#8217;s coat and garb of lord.     </l><l>How is it beyond the Ural,     </l><l>Among the Kirghiz, Tartars?     </l><l>Good God, even there it is better     </l><l>Than in our Ukraina.     </l><l>Perhaps because the Kirghiz     </l><l>Are not Christians.     </l><l>Much evil hast thou done, Oh Christ,     </l><l>Hast changed the people God had made.     </l><l>Our Cossacks lost their foolish heads     </l><l>For truth, and the Christian faith.     </l><l>Much blood they shed, their own and others.     </l><l>And were they better for it?     </l><l>Bah! No! They were ten times worse.     </l><l>Apart from knife and auto-da-fe     </l><l>They have chained up the people, <pb id="pb100" n="100" facs="f:100"/>    </l><l>And they kill them.     </l><l>Oh gentlemen, Christian gentlemen!&#8221; </l></lg><lg type="Poem"><l>My grey old man, with sorrow beaten,     </l><l>Ceased, and bent his brave old head.     </l><l>The evening sun gilded the woods,     </l><l>The river and fields were covered with gold.     </l><l>Mazeppa&#8217;s cathedral in whiteness shines;     </l><l>Great Bogdan&#8217;s tomb is gleaming,     </l><l>The willows bend o&#8217;er the road to Kiev,     </l><l>And hide the Three Brothers&#8217; ancient graves.     </l><l>Trubail and Alta, mid the reeds     </l><l>Approach, unite in sisterly embrace.     </l><l>Everything, everything gladdens the eyes,     </l><l>But the heart is sad and will not see.     </l><l>The glowing sun has bade farewell     </l><l>To the dark land.     </l><l>The round moon rises with her sister star,     </l><l>Out they step from behind the clouds.     </l><l>The clouds rejoiced     </l><l>But the old man gazed,     </l><l>And his tears rolled down.     </l><l>&#8220;I pray Thee, merciful God,     </l><l>Mighty Lord, Heavenly Judge,     </l><l>Suffer me not to perish;     </l><l>Grant me strength to overcome my woe.     </l><l>To live out my life on these sacred hills:     </l><l>To glorify Thee and rejoice in Thy beauty,     </l><l>And at last, though beaten by the people&#8217;s sins. <pb id="pb101" n="101" facs="f:101"/>    </l><l>To be buried on these lofty hills,     </l><l>And to abide on them.&#8221; </l></lg><lg type="Poem"><l>He dried his tears,     </l><l>Hot tears, though not the tears of youth;     </l><l>And thought on the blessed years of long ago     </l><l>Where was this?     </l><l>What, how, and when?     </l><l>Was it truth, or was it dream?     </l><l>On what seas have I been sailing?     </l><l>The green wood in the twilight,     </l><l>The maiden with eyebrows dark,     </l><l>The moon at rest among the stars,     </l><l>The nightingale on the viburnum,     </l><l>Whether in silence or in song     </l><l>Praising the Holy God.     </l><l>And all, all is in Ukraina.     </l><l>The old man smiled&#8212;     </l><l>Well, it may be&#8212;you can&#8217;t avoid the truth     </l><l>So it was&#8212;they wooed,     </l><l>They parted, they did not marry.     </l><l>She left him to live alone,     </l><l>To live out his life. </l></lg><lg type="Poem"><l>The old man was sad again,     </l><l>Wandered long about the house,     </l><l>Then prayed to God,     </l><l>Went in the house to sleep,     </l><l>And the moon was swathed in clouds. </l></lg><pb id="pb102" n="102" facs="f:102"/><lg type="Poem"><l>Thus in a foreign land     </l><l>I dreamed my dream,     </l><l>As if born again to the world     </l><l>In freedom once more.     </l><l>Grant me, Oh God, some time,     </l><l>In old age, perchance,     </l><l>To stand again on these stolen hills,     </l><l>In a little cottage,     </l><l>To bring my heart eaten out with sorrow     </l><l>To rest at last, on the hills above the Dnieper. </l></lg></lg><p><figure id="p102" rend="image(images/p077.png)"><figDesc>Weeping willow with boat.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb103" n="103" facs="f:103"/> </p></div1><div1 id="triumphal" type="Chapter"><head rend="image(images/o103.png)">A Triumphal March</head><p><hi>In 1845 Shevchenko was graduated from the Imperial Academy of Arts at Petersburg. Shortly after he travelled to the Ukraine, purposing to devote his life to the service of his own people.</hi>
+
+ </p><p><hi>His progress was a triumphal march, a succession of banquets and popular welcomes and entertainments at the homes of the wealthy.</hi>
+
+ </p><p><hi>At Kiev people still remember that the earliest Russian civilization had its beginnings in the Ukraine. There Christianity first took root, and there were the first Russian Princes.</hi>
+
+ </p><p><hi>Before Shevchenko&#8217;s arrival there was organized at Kiev the Society of Cyril and Methodius, called after the great apostles of Russia, and the leading spirits of the Society were professors in the University of Kiev.</hi>
+
+ </p><p><hi>Into this brilliant company Shevchenko was welcomed. Its leaders became his devoted friends. A chair of painting in the University was to be established for him.</hi>
+
+ </p><p><hi>Most remarkable were the relations between Shevchenko and Professor Kulisch. <pb id="pb104" n="104" facs="f:104"/>Kulisch was to be married to a great lady, a daughter of one of the nobles of the country. The poet was invited to the wedding and the bride, in her enthusiasm, actually kissed his hand. This was an astonishing act of condescension towards one who had been a serf, but this lady, herself afterwards a famous authoress, cherished the memory to her dying day.</hi>
+
+ </p><p><hi>Shevchenko&#8217;s saddest experience in the Ukraine was when he visited his native village and found his brothers and sisters in serfdom. His dream was to earn enough money to purchase their freedom, and afterwards to devote his life to the liberation of the peasantry. The poem&#8212;&#8220;The Bondwoman&#8217;s Dream&#8221;&#8212;commemorates the poet&#8217;s meeting with his favorite sister, Katherine, working as a slave.</hi>
+
+ </p><p><hi>His friends thought he should go to Italy to perfect himself in painting. Madame Kulisch purposed to sell her family jewels to raise sufficient money to send Shevchenko to that country. Her husband who was in the plot told Shevchenko that some wealthy person had contributed the money but he must not ask for the donor&#8217;s name.</hi>
+
+ </p><p><hi>But on returning to Kiev from the Kulisch home a policeman put his hand on the shoulder of the poet painter.</hi>
+
+ </p><p><hi>The bright dream was ended.</hi>
+
+
+
+
+
+ <pb id="pb105" n="105" facs="f:105"/>
+
+
+
+ <figure id="p105"><head>Shevchenko meets his sister.</head></figure>
+
+
+
+
+
+
+
+ <pb id="pb106" n="106" facs="f:106"/> </p></div1><div1 id="bondwoman" type="Chapter"><head>The Bondwoman&#8217;s Dream</head><lg type="Poem"><l>The slave with sickle         </l><l rend="in4">reaped the wheat,     </l><l>Then wearily limped         </l><l rend="in4">among the stooks;     </l><l>But not to rest,     </l><l>Her little son she sought     </l><l>Who wakened crying         </l><l rend="in4">in cool nest             </l><l rend="in8">among the sheaves.     </l><l>His swaddled limbs unwrapped         </l><l rend="in4">she nourished him,     </l><l>Then, dandling him a moment         </l><l rend="in4">fell asleep.     </l><l>In dreams she saw         </l><l rend="in4">her little son,     </l><l>Her Johnny, grown to man,         </l><l rend="in4">handsome and rich.     </l><l>No lonely bachelor         </l><l rend="in4">but a married man     </l><l>In freedom it seemed,         </l><l rend="in4">no longer the landlord&#8217;s             </l><l rend="in8">but his own man. <pb id="pb107" n="107" facs="f:107"/>    </l><l>And in their own joyous field         </l><l rend="in4">his wife and he             </l><l rend="in8">reaped their own wheat,     </l><l>Their children brought their food.         </l><l rend="in4">The poor thing             </l><l rend="in8">laughed in her sleep,     </l><l>Woke up&#8212;         </l><l rend="in4">a dream indeed it was.     </l><l>She looked at Johnny,         </l><l rend="in4">picked him up and swaddled him,     </l><l>And back to her allotted task;     </l><l>Sixty stooks her stint.     </l><l>Perhaps the last of the sixty it was:         </l><l rend="in4">God grant it.     </l><l>And God grant         </l><l rend="in4">this dream of thine             </l><l rend="in8">may be fulfilled. </l></lg><p><figure id="p107" rend="image(images/p125.png)"><figDesc>Ornament: stylished dove.</figDesc></figure>
+
+
+
+ <pb id="pb108" n="108" facs="f:108"/>
+
+ <figure id="p108"><head>Shevchenko&#8217;s birthplace.</head></figure>
+
+
+
+
+
+ <pb id="pb109" n="109" facs="f:109"/> </p></div1><div1 id="sentimental" type="Chapter"><head>To the Makers of Sentimental Idyls.</head><lg type="Poem"><lg type="Poem"><l>Did you but know, fine dandy,     </l><l>The people&#8217;s life of misery     </l><l>You would not use such pretty phrases,     </l><l>Nor give to God such empty praises.     </l><l>At our tears you&#8217;re laughing,     </l><l>And our sorrows chaffing,     </l><l>Slave&#8217;s cot in a shady spot&#8212;     </l><l>You call it heaven! Rot!     </l><l>I lived once in such a shanty,     </l><l>Of childhood&#8217;s tears I shed a plenty,     </l><l>In bitter sorrows we were wise,     </l><l>Home that you call paradise. </l></lg><lg type="Poem"><l>No paradise I call thee,     </l><l>Little cottage in the wood,     </l><l>With the water pure beside thee     </l><l>Close by the village rude!     </l><l>There my mother bore me,     </l><l>Singing she tended me;     </l><l>My child&#8217;s heart drank in her pain. </l></lg><lg type="Poem"><l>Cottage in the shady dell,     </l><l>Heaven outside, inside hell; <pb id="pb110" n="110" facs="f:110"/>    </l><l>But slavery there,         </l><l rend="in4">with labor weary,     </l><l>Nor time for prayer         </l><l rend="in4">in life so dreary. </l></lg><lg type="Poem"><l>My mother good to her early grave     </l><l>Was hurled by sorrows wave on wave. </l></lg><lg type="Poem"><l>The father weeping o&#8217;er his young,           </l><l rend="in6">(little and naked were we),     </l><l>Sank &#8217;neath the weight of fated wrong     </l><l>And died in slavery.     </l><l>The children, we, of home bereft     </l><l>Like little mice &#8217;mong <corr sic="neigbors">neighbors</corr> crept. </l></lg><lg type="Poem"><l>Water drawer was I at school,     </l><l>My brothers toiled &#8217;neath landlord&#8217;s rule. </l></lg><lg type="Poem"><l>For my sisters an evil fate must be,     </l><l>Though little doves they seemed to me;     </l><l>Into life as serfs they&#8217;re born,     </l><l>And die they must in that lot forlorn. </l></lg><lg type="Poem"><l>I shudder yet, where&#8217;er I roam,     </l><l>When I think of life in that village home. </l></lg><lg type="Poem"><l>Evil-doers, Oh God, are we,     </l><l>An earthly heaven we had from Thee,     </l><l>Turned it into hell have we,     </l><l>And a second heaven is now our plea. </l></lg><pb id="pb111" n="111" facs="f:111"/><lg type="Poem"><l>Gently we live with our brothers now,     </l><l>With their lives our fields we plough;     </l><l>Fields that with their tears are wet,     </l><l>And yet&#8212;     </l><l>What do we know?         </l><l rend="in4">yet it seems as if Thou!     </l><l>(For without Thy will     </l><l>Should we suffer ill?)     </l><l>Dost Thou, Oh Father in heaven holy     </l><l>Laugh at us the poor and lowly?     </l><l>Advise with them of noble birth     </l><l>How so cleverly to rule the earth? </l></lg><lg type="Poem"><l>For see the woods their branches waving,     </l><l>And there beyond, the white pool gleaming     </l><l>And willows o&#8217;er the water bending,     </l><l>Garden of Eden it is in sooth,     </l><l>But of its deeds enquire the truth. </l></lg><lg type="Poem"><l>This wondrous earth should tell a story     </l><l>Of endless joy, and praise, and glory     </l><l>To Thee, Oh God, unique and holy.     </l><l>Unhallowed spot,     </l><l>Whence praise comes not!     </l><l>A world of tears where curses rise,     </l><l>To heaven above the hopeless skies. </l></lg></lg><p><figure id="p111" rend="image(images/p008.png)"><figDesc>Ornament: cither.</figDesc></figure>
+
+
+
+
+
+
+
+ <pb id="pb112" n="112" facs="f:112"/> </p></div1><div1 id="autocrat" type="Chapter"><head>Autocrat Versus Poet</head><p><hi>Nicholas I was brought up in the traditions of autocracy and believed in them with all his heart. He hated liberal thought and detested the idea of educating the masses.</hi>
+
+ </p><p><hi>Tens of thousands of copies of the New Testament and the Psalter were burned by his orders. He said such books were for the priests, not for the common people. Incidentally it may be remarked that the priests had to teach what he wanted or lose their jobs.</hi>
+
+ </p><p><hi>To speak against his government, or even to criticize czars who reigned hundreds of years before him was a crime.</hi>
+
+ </p><p><hi>The little band of dreamers who formed the Society of Cyril and Methodius actually hoped to convert this autocrat, and secure his assistance in freeing the people. They had visions of a free Confederation of Slavonic states, after the pattern of the United States of America, but with the czar as head. But they sadly misjudged their man.</hi>
+
+ <pb id="pb113" n="113" facs="f:113"/></p><p><hi><corr sic="Shechenko">Shevchenko</corr> had actually spoken impertinently of the Autocrat in his poems. He refused to retract.</hi>
+
+ </p><p><hi>The government really wished to he lenient, if he would only be good and confess that he had done wrong. But Shevchenko was not of those who are willing to admit that black is white.</hi>
+
+ </p><p><hi>The gloomy autocracy now pronounces his doom&#8212;a sort of living death in Siberian barracks. The czar added to the sentence, with his own hand, the proviso that he should not be allowed either to write or to paint.</hi>
+
+
+
+ </p><p><figure id="p113" rend="image(images/p027.png)"><figDesc>Three persons resting in field.</figDesc></figure>
+
+
+
+
+
+
+
+ <pb id="pb114" n="114" facs="f:114"/> </p></div1><div1 id="exile" type="Chapter"><head rend="image(images/o079.png)">A Poem of Exile</head><lg type="Poem"><lg type="Poem"><l>I count in prison the days and nights     </l><l>And then forget the count.     </l><l>How heavily, Oh Lord,     </l><l>Do these days pass!     </l><l>And the years flow after them,     </l><l>Quietly they flow,     </l><l>Bearing with them     </l><l>Good and ill.     </l><l>Everything do they gather     </l><l>Never do they return.     </l><l>You need not plead,     </l><l>Your prayers unanswered fall.     </l><l>Mid oozy swamps         </l><l rend="in4">among the weeds     </l><l>Year after weary year         </l><l rend="in4">has sadly flowed.     </l><l>Much of something have they taken     </l><l>From dark store-house of my heart;     </l><l>Borne it quietly to the sea,         </l><l rend="in4">As quietly the sea swallowed it.     </l><l>Not gold and silver         </l><l rend="in4">Did they take from me,     </l><l>But good years of mine         </l><l rend="in4">Freighted with loneliness, <pb id="pb115" n="115" facs="f:115"/>    </l><l>Sorrows written on the heart         </l><l rend="in4">With unseen pen.     </l><l>And a fourth year passes         </l><l rend="in4">So gently, so slowly,     </l><l>The fourth book         </l><l rend="in4">of my imprisonment     </l><l>I start to stitch up,     </l><l>Embroidering it with tears         </l><l rend="in4">Of homesickness             </l><l rend="in8">in a foreign land.     </l><l>Yet such woe         </l><l rend="in4">tells itself not in words.     </l><l>Never, never         </l><l rend="in4">in the wide world.     </l><l>In far away captivity         </l><l rend="in4">There are no words     </l><l>Not even tears,         </l><l rend="in4">Just nothingness;     </l><l>Not even God above thee,     </l><l>Nothing is there to see,     </l><l>None with whom to speak,     </l><l>Not even desire for life.     </l><l>Yet thou must live!     </l><l>I must! I must!         </l><l rend="in4">But for what?     </l><l>That I may not lose my soul?     </l><l>My soul is not worth         </l><l rend="in4">such suffering!     </l><l>Then why must I live on         </l><l rend="in4">in the world, <pb id="pb116" n="116" facs="f:116"/>    </l><l>Drag these fetters         </l><l rend="in4">in my jail?     </l><l>Because, perchance,         </l><l rend="in4">my own Ukraine     </l><l>I shall see again.     </l><l>Again I shall pour out         </l><l rend="in4">my words of sorrow     </l><l>To the green groves         </l><l rend="in4">and rich meadows.     </l><l>No family have I of my own         </l><l rend="in4">in all Ukraine,     </l><l>Yet the people there         </l><l rend="in4">are different from these foreigners     </l><l>I would walk again         </l><l rend="in4">among the bright villages     </l><l>On the Dnieper&#8217;s banks         </l><l rend="in4">and sing my thoughts             </l><l rend="in8">gentle and sad.     </l><l>Grant me,         </l><l rend="in4">Oh God of mercy     </l><l>That I may live         </l><l rend="in4">to see again     </l><l>Those green meadows,         </l><l rend="in4">those ancestral tombs.     </l><l>If Thou wilt not grant this,         </l><l rend="in4">Yet bear my tears     </l><l>To my Ukraine.         </l><l rend="in4">Because, God,     </l><l>I die for her.     </l><l>It may be that I shall lie         </l><l rend="in4">more lightly in foreign soil     <pb id="pb117" n="117" facs="f:117"/></l><l>When sometimes in Ukraine         </l><l rend="in4">they speak of my memory.     </l><l>Carry my tears then         </l><l rend="in4">Oh God of loving kindness,     </l><l>Or at least         </l><l rend="in4">send hope into my soul.     </l><l>I can think no more         </l><l rend="in4">with my poor head,     </l><l>For coldness of death         </l><l rend="in4">comes on me     </l><l>When I think that they may         </l><l rend="in4">bury me in foreign soil     </l><l>And bury my thoughts with me         </l><l rend="in4">And none tell about me             </l><l rend="in8">in the Ukraine. </l></lg><lg type="Poem"><l>And yet it may be         </l><l rend="in4">that gently through the years     </l><l>My tear-embroidered songs         </l><l rend="in4">shall fly sometime     </l><l>And fall         </l><l rend="in4">as dew upon the ground     </l><l>On the tender heart of youth,     </l><l>And youth shall nod assent.     </l><l>And weep for me     </l><l>Making mention of me in its prayers.     </l><l>Well, as it will be         </l><l rend="in4">so it will be.     </l><l>Perhaps &#8217;twill swim         </l><l rend="in4">Perhaps &#8217;twill wade     </l><l>Yet even if they crucify me for it     </l><l>I&#8217;ll still write my verses. </l></lg></lg><pb id="pb118" n="118" facs="f:118"/></div1><div1 id="siberian" type="Chapter"><head rend="image(images/o067.png)">Siberian Exile</head><p><hi>Now-a-days we have many discussions and searchings of heart over the question of prisons and the purpose of punishment. I doubt if the autocracy suffered many qualms of conscience in such matters. It was simply an affair of silencing a dangerous voice and disciplining an unruly subject.</hi>
+
+ </p><p><hi>They were too humane to put him to death, they merely sought to crush his spirit. But the Slav spirit is hard to crush. It may brood and smoulder long, but sometime or other it will burst out in flames.</hi>
+
+ </p><p><hi>In the case of Shevchenko another influence may be seen at work. In his ragged youth, when acting as assistant to a drunken church singer he gained at least one thing. That was a familiarity with the Psalter and the Hebrew prophets. The deep religious fire of the Hebrew seems fused with his own irrepressible native genius to form a spirit that could not be subdued.</hi>
+
+ </p><p><hi>They tried to make a soldier of him but he could not or would not learn the tricks of the soldier&#8217;s trade.</hi>
+
+ <pb id="pb119" n="119" facs="f:119"/></p><p><hi>They forbade him to write but he wrote verses secretly and concealed them.</hi>
+
+ </p><p><hi>Occasionally a humane commander would relax the severity of the rules. One governor allowed him as a hidden favor the reading of the Bible and Shakespeare.</hi>
+
+ </p><p><hi>At another time he was taken with a scientific expedition to the Sea of Aral, and employed in the congenial task of painting the wild scenery of that part.</hi>
+
+ </p><p><hi>At other times again the severity would be redoubled and pen, ink and paper would be forbidden. Through it all his love and sorrow for his native land increased. Only the remembrance of Ukraine kept him alive.</hi>
+
+ </p><p><hi>Ten years of Siberia changed the gay young artist of bright eyes and abundant locks to a gray-bearded, bald-headed old man on whom Death had set his seal.</hi>
+
+ </p><p><hi>But his spirit was still unconquered. At the end of his imprisonment he wrote the &#8220;Goddess of Fame&#8221; and the &#8220;Hymn of the Nuns&#8221; to show it.</hi>
+
+
+
+ </p><p><figure id="p119" rend="image(images/p067.png)"><figDesc>House with well.</figDesc></figure>
+
+
+
+
+
+
+
+ <pb id="pb120" n="120" facs="f:120"/> </p></div1><div1 id="memories" type="Chapter"><head>Memories of Freedom</head><lg type="Poem"><lg type="Poem"><l>Memories of Freedom     </l><l>Bring sweet sadness to the exile&#8217;s heart     </l><l>And so lost liberty of mine     </l><l>I dream of thee.     </l><l>Never hast thou seemed to me     </l><l>So fresh and young     </l><l>And so surpassing fair     </l><l>As now in this foreign land.     </l><l>Alas! Alas!     </l><l>Freedom that I sang away     </l><l>Look at me from o&#8217;er the Dnieper,     </l><l>Smile at me from there.     </l><l>And thou my only love     </l><l>Risest o&#8217;er the sea so far.     </l><l>In the mist thy face appears     </l><l>Like the evening star.     </l><l>With thee, my only one     </l><l>Thou bring&#8217;st my youthful years.     </l><l>Before me like a sea&#8212;     </l><l>Hamlets fair in broad array,     </l><l>Cherry orchards, joyous crowds.     </l><l>This the village, This the people     </l><l>Who once as brothers     </l><l>Welcomed me.     </l><l>Mother! Dear old mother!     </l><l>Home of memories fond!     </l><l>Happy guests of days gone by!     <pb id="pb121" n="121" facs="f:121"/></l><l>Who gathered there in days gone by     </l><l>Simply to dance in the good old way     </l><l>From evening light till dawn.     </l><l>Do sun-burned youth     </l><l>And happy maidenhood     </l><l>Still dance in the dear old home?     </l><l>And thou, sweetheart of mine,     </l><l>Thou heartsease of mine,     </l><l>My sacred, dark-eyed one!     </l><l>Still amongst them dost thou walk     </l><l>Silent and proud?     </l><l>And with those blue-black eyes     </l><l>Still dost bewitch         </l><l rend="in4">the peoples&#8217; souls?     </l><l>Still as of old     </l><l>Do they admire in vain     </l><l>Thy supple form?     </l><l>Goddess mine! fate of mine!     </l><l>How wee maidens     </l><l>Gather round thee,     </l><l>Chirping and prattling     </l><l>In the good old way. </l></lg><lg type="Poem"><l>Perchance, unwittingly,     </l><l>The children remember me,     </l><l>One makes a little jest of me.     </l><l>Smile, my heart!     </l><l>Just a little, little smile     </l><l>That no one sees.     </l><l>That&#8217;s all. I, worse luck!     </l><l>Must pray to God in jail. </l></lg></lg><pb id="pb122" n="122" facs="f:122"/><p><figure id="p121"><head>A Scene from Siberia. Shevchenko&#8217;s painting.</head></figure>
+
+
+
+
+
+ <pb id="pb123" n="123" facs="f:123"/> </p></div1><div1 id="memories2" type="Chapter"><head>Memories of an Exile</head><lg type="Poem"><l>Memories of mine,         </l><l rend="in4">Memories of home,     </l><l>Sole wealth of mine,         </l><l rend="in4">Where&#8217;er I roam.     </l><l>When sorrows lower     </l><l>In evil hour     </l><l>And griefs o&#8217;ertake me     </l><l>You&#8217;ll not forsake me         </l><l rend="in4">From the land of my early loves     </l><l>You will fly like grey-winged doves     </l><l>From broad Dnieper&#8217;s shore     </l><l>O&#8217;er the steppes to soar.     </l><l>Here the Kirghiz Tartars     </l><l>Dwell naked in poverty.     </l><l>They&#8217;re wretched as martyrs     </l><l>Yet this is their liberty;     </l><l>To God they may pray     </l><l>And none say them nay.     </l><l>Will you but fly to meet me,     </l><l>With gentle words         </l><l rend="in4">I&#8217;ll greet ye.     </l><l>Of my heart         </l><l rend="in4">ye children dear     </l><l>O&#8217;er past loves         </l><l rend="in4">we&#8217;ll shed a tear. </l></lg><pb id="pb124" n="124" facs="f:124"/></div1><div1 id="death" type="Chapter"><head>Death of the Soul</head><lg type="Poem"><lg type="Poem"><l>As the nights pass, so pass the days,     </l><l>The year itself passes.     </l><l>Again I hear the rustling         </l><l rend="in4">of autumn leaves.     </l><l>The light of the eyes is fading,     </l><l>Memory is in the heart asleep.     </l><l>Everything sleeps,         </l><l rend="in4">and I know not     </l><l>If I live or am already dead.     </l><l>For so, aimless         </l><l rend="in4">I wander in the world     </l><l>No longer weep nor laugh. </l></lg><lg type="Poem"><l>Fate, where art thou?         </l><l rend="in4">Fate, where art thou?     </l><l>There&#8217;s none of any sort!     </l><l>Dost grudge me good fate,         </l><l rend="in4">Oh God,     </l><l>Then send it bad, as bad.     </l><l>Leave me not         </l><l rend="in4">to a walking sleep.     </l><l>With heart like bears&#8217;         </l><l rend="in4">in wintry den,     </l><l>Nor yet like rotten log         </l><l rend="in4">on earth to lie;     </l><l>But give me to live,     <pb id="pb125" n="125" facs="f:125"/>    </l><l rend="in4">with the heart to live,     </l><l>And love the people.     </l><l>If you won&#8217;t         </l><l rend="in4">Let me curse them     </l><l>and burn up the world. </l></lg><lg type="Poem"><l>Terrible it is to fall         </l><l rend="in4">into dungeons     </l><l>Yet much worse&#8212;to sleep     </l><l>And sleep and sleep         </l><l rend="in4">in freedom;     </l><l>To slumber for an eternity     </l><l>And leave not a footprint behind.     </l><l>All alike&#8212;         </l><l rend="in4">whether one lives or dies. </l></lg><lg type="Poem"><l>Fate where art thou?         </l><l rend="in4">Fate where art thou?     </l><l>There&#8217;s none of any sort!     </l><l>Dost grudge me good fate, Oh God,     </l><l>Then give me bad, as bad. </l></lg></lg><p><figure id="p125" rend="image(images/p125.png)"><figDesc>Ornament: stylished dove.</figDesc></figure>
+
+
+
+
+
+
+
+ <pb id="pb126" n="126" facs="f:126"/> </p></div1><div1 id="hymn" type="Chapter"><head>Hymn of Exile</head><lg type="Poem"><l>The sun goes down beyond the hill,     </l><l>The shadows darken, birds are still;     </l><l>From fields no more come toiler&#8217;s voices     </l><l>In blissful rest the world rejoices.     </l><l>With lifted heart I, gazing stand,     </l><l>Seek shady grove in Ukraine&#8217;s land.     </l><l>Uplifted thus, &#8217;mid memories fond     </l><l>My heart finds rest, o&#8217;er the hills beyond.     </l><l>On fields and woods the darkness falls     </l><l>From heaven blue a bright star calls,     </l><l>The tears fall down. Oh, evening star!     </l><l>Hast thou appeared in Ukraine far?     </l><l>In that fair land do sweet eyes seek thee     </l><l>Dear eyes that once were wont to greet me?     </l><l>Have eyes forgotten their tryst to keep?     </l><l>Oh then, in slumber let them sleep     </l><l>No longer o&#8217;er my fate to weep. </l></lg><p><figure id="p126" rend="image(images/p076.png)"><figDesc>Farmer&#8217;s house with well.</figDesc></figure>
+
+
+
+
+
+
+
+ <pb id="pb127" n="127" facs="f:127"/> </p></div1><div1 id="returning" type="Chapter"><head rend="image(images/o068-1.jpg)">Returning Home</head><p><hi>After a while a new <corr sic="Ceasar">Caesar</corr> came to the throne, a man who was thought to have liberal tendencies.</hi>
+
+ </p><p><hi>Shevchenko&#8217;s friends at once busied themselves with efforts for his release. Finally amnesty was granted. Count Tolstoi, on receiving the news late at night, hastened to waken his household and there was a family jubilation.</hi>
+
+ </p><p><hi>But the new autocrat, though somewhat benevolently inclined, was also a little bit suspicious. The banished poet was a pretty dangerous character. He had even disturbed the conscience of autocracy itself, hence he was only allowed to approach his home country by degrees. Finally he was allowed to reside in Petrograd and later even in Ukraine, welcomed everywhere by loving and pitying friends.</hi>
+
+ </p><p><hi>His wish for his old age was to inhabit a little cottage on the Dnieper&#8217;s banks. For this purpose he purchased a piece of land on one of those hills so often referred to in his poems.</hi>
+
+ <pb id="pb128" n="128" facs="f:128"/></p><p><hi>Death came too soon, however, but the property served as the site of his last resting place. He died at Petrograd but in the spring his remains were carried the long distance to his old home. A mourning people lined the way.</hi>
+
+ </p><p><hi>Only a couple of days after the poet&#8217;s death, appeared the ukase of the czar proclaiming the abolition of serfdom. To the common people it seemed that their peasant poet, by his songs and his sufferings, had been the prime cause of their new freedom.</hi>
+
+ </p><p><hi>No speeches were allowed at the interment on the hill above the Dnieper but there were many people and many wreaths of flowers.</hi>
+
+ </p><p><hi>One wreath, deposited by a lady, expressed more than anything else the common feeling. That wreath was a crown of thorns.</hi>
+
+
+
+
+
+ </p><p><figure id="p127" rend="image(images/p066.png)"><figDesc>Person kneeling in near bullock cart.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb129" n="129" facs="f:129"/>
+
+ </p><p><figure id="p129"><figDesc>Taras Shevchenko.</figDesc></figure>
+
+
+
+ <pb id="pb130" n="130" facs="f:130"/> </p></div1><div1 id="eleventh" type="Chapter"><head>On the Eleventh Psalm</head><lg type="Poem"><lg type="Poem"><l>Merciful God, how few     </l><l>Good folk remain on earth.     </l><l>Behold, each one in heart     </l><l>Is setting snares for another.     </l><l>But with fine words,     </l><l>And lips honey-sweet     </l><l>They kiss&#8212;and wait     </l><l>To see how soon     </l><l>Their brother to his grave     </l><l>Will find his way. </l></lg><lg type="Poem"><l>But Thou who art Lord alone     </l><l>Shuttest up the evil lips,     </l><l>That great-speaking tongue     </l><l>That says:&#8212;         </l><l rend="in4">&#8220;No trifling thing are we,     </l><l>How glorious shall we show     </l><l>In intellect and speech.     </l><l>Who is that Lord         </l><l rend="in4">that will forbid     </l><l>Our thoughts and words?&#8221; </l></lg><lg type="Poem"><l>Yea, the Lord shall say to Thee     </l><l>&#8220;I shall arise, this day     </l><l>On their behalf&#8212;         </l><l rend="in4">People of mine in chains, <pb id="pb131" n="131" facs="f:131"/>    </l><l>The poor and humble ones         </l><l rend="in4">These will I glorify.     </l><l>Little, dumb and slaves are they,     </l><l>Yet on guard about them         </l><l rend="in4">Will I set my Word.&#8221; </l></lg><lg type="Poem"><l>Like trampled grass     </l><l>Shall perish your thoughts     </l><l>And words alike. </l></lg><lg type="Poem"><l>Like silver, hammered, beaten,     </l><l>Seven times melted o&#8217;er the fire,     </l><l>Are thy words, Oh Lord.     </l><l>Scatter these holy words of Thine,     </l><l>O&#8217;er all the earth,     </l><l>That Thy children         </l><l rend="in4">little and poor     </l><l>May believe in miracles on earth. </l></lg></lg><p><figure id="o131" rend="image(images/o131.png)"><figDesc>Ornament: dove with laurel.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb132" n="132" facs="f:132"/> </p></div1><div1 id="prayer1" type="Chapter"><head>Prayer I.</head><p><figure id="o132-1" rend="image(images/o081-2.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+ </p><lg type="Poem"><lg type="Poem"><l>To Tsars and kings     </l><l>who tax the world,     </l><l>Send dollars and ducats,     </l><l>And fetters well-forged. </l></lg><lg type="Poem"><l>To toiling heads and toiling hands,     </l><l>Laboring on these stolen lands     </l><l>Endurance and strength. </l></lg><lg type="Poem"><l>To me, my God, on this sad earth,     </l><l>Give me but love,         </l><l rend="in4">the heart&#8217;s paradise     </l><l>And nothing more. </l></lg></lg><p><figure id="o132-2" rend="image(images/o132.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+
+
+
+
+ <pb id="pb133" n="133" facs="f:133"/> </p></div1><div1 id="prayer2" type="Chapter"><head>Prayer II.</head><p><figure id="o133-1" rend="image(images/o081-2.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+ </p><lg type="Poem"><lg type="Poem"><l>My prayer for the Tsars,         </l><l rend="in4">These <corr sic="traffiickers">traffickers</corr> in blood,     </l><l>That Thou on them would&#8217;st put         </l><l rend="in4">Fetters of iron, in dungeons deep. </l></lg><lg type="Poem"><l>My prayer for the peoples           </l><l rend="in6">toiling long,     </l><l>Do Thou to them               </l><l rend="in10">on their ravaged lands,     </l><l>Send down Thy strength             </l><l rend="in8">most merciful One.     </l><l>And for the pure in heart         </l><l rend="in4">Grant angel guards beside them,     </l><l>To keep them pure. </l></lg><lg type="Poem"><l>And for myself, Oh Lord,     </l><l>I ask nought else     </l><l>But truth on earth to love,     </l><l>And one true friend             </l><l rend="in8">to love me. </l></lg></lg><p><figure id="o133-2" rend="image(images/o008.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+
+
+
+
+ <pb id="pb134" n="134" facs="f:134"/> </p></div1><div1 id="prayer3" type="Chapter"><head>Prayer III.</head><p><figure id="o134-1" rend="image(images/o081-2.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+ </p><lg type="Poem"><lg type="Poem"><l>For those that have done wrong to me,     </l><l>No longer do I fetters ask,     </l><l>Nor dungeons deep. </l></lg><lg type="Poem"><l>For hands that faithful toil for good     </l><l>Send Thy instructions&#8217; gracious aid,     </l><l>And Holy strength. </l></lg><lg type="Poem"><l>For tender ones,             </l><l rend="in8">the pure in heart     </l><l>Do Thou, Oh God,             </l><l rend="in8">their virtue save     </l><l>With angel&#8217;s guard. </l></lg><lg type="Poem"><l>For all Thy children on this earth     </l><l>May they Thy wisdom           </l><l rend="in6">know alike,     </l><l>In brother love. </l></lg></lg><p><figure id="o134-2" rend="image(images/o134.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+
+
+
+
+ <pb id="pb135" n="135" facs="f:135"/> </p></div1><div1 id="prayer4" type="Chapter"><head>Prayer IV.</head><p><figure id="o135-1" rend="image(images/o081-2.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+ </p><lg type="Poem"><lg type="Poem"><l>To those of the ever-greedy eyes,     </l><l>Gods of earth, <corr sic="The">the</corr> Tsars,     </l><l>Are the ploughs and the ships,     </l><l>And all good things of earth     </l><l>For these little gods. </l></lg><lg type="Poem"><l>To toiling hands,     </l><l>To toiling brains     </l><l>Is given to plough the barren field,     </l><l>To think, to sow, and take no rest     </l><l>And reap the fields anon.     </l><l>Such the reward of toiling hands. </l></lg><lg type="Poem"><l>For the true-hearted lowly ones,     </l><l>Peace-loving saints,     </l><l>Oh, Creator of heaven and earth,     </l><l>Give long life on earth,     </l><l>And paradise beyond. </l></lg><lg type="Poem"><l>All good things of earth     </l><l>Are for these gods, the Tsars,     </l><l>Ploughs and ships,     </l><l>All wealth of earth     </l><l>For us&#8212;good <corr sic="lack">luck</corr>!     </l><l>Is left to love our brothers. </l></lg></lg><p><figure id="o135-2" rend="image(images/o135.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb136" n="136" facs="f:136"/> </p></div1><div1 id="mighty" type="Chapter"><head rend="image(images/o103.png)">Mighty Wind</head><p><figure id="o136" rend="image(images/o081-2.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+ </p><lg type="Poem"><lg type="Poem"><l>Mighty wind, mighty wind!       </l><l rend="in2">With the sea thou speakest;     </l><l>Waken it, play with it,       </l><l rend="in2">Question the blue sea.     </l><l>It knows where my lover is,       </l><l rend="in2">Far away it bore him.     </l><l>It will tell, the sea will tell,       </l><l rend="in2">What it has done with him. </l></lg><lg type="Poem"><l>If it has drowned my darling,       </l><l rend="in2">Beat on the blue sea.     </l><l>I go to seek my loved one,       </l><l rend="in2">And to drown my woe.     </l><l>If I find him, I&#8217;ll cling to him,       </l><l rend="in2">On his heart I&#8217;ll faint.     </l><l>Then waves bear me with him       </l><l rend="in2">Where&#8217;er the winds do blow. </l></lg><lg type="Poem"><l>If my lover is beyond the sea,       </l><l rend="in2">Mighty wind, thou knowest     </l><l>Where he goes, what he does,       </l><l rend="in2">With him thou speakest. <pb id="pb137" n="137" facs="f:137"/>    </l><l>If he weeps, then I shall weep,       </l><l rend="in2">If not, I sing.     </l><l>If my dark-haired one has perished,       </l><l rend="in2">I shall perish, too. </l></lg><lg type="Poem"><l>Then bear my soul away       </l><l rend="in2">Where my loved one is,     </l><l>Plant me as a red viburnum       </l><l rend="in2">On his tomb.     </l><l>Better that an orphan lie       </l><l rend="in2">In a stranger&#8217;s field,     </l><l>Over him his sweetheart       </l><l rend="in2">Will bud and bloom. </l></lg><lg type="Poem"><l>As a blossom of viburnum       </l><l rend="in2">Over him I&#8217;ll bloom,     </l><l>That foreign sun may burn him not,       </l><l rend="in2">Nor strangers trample on his tomb.     </l><l>At even I&#8217;ll grieve,       </l><l rend="in2">In the morning I&#8217;ll weep.     </l><l>The sun comes up,       </l><l rend="in2">My tears I&#8217;ll dry,     </l><l>And no one sees. </l></lg><lg type="Poem"><l>Mighty wind, mighty wind!       </l><l rend="in2">With the sea thou speakest.     </l><l>Waken it, play on it,       </l><l rend="in2">Question the blue sea. </l></lg></lg><p><figure id="o137" rend="image(images/o137.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb138" n="138" facs="f:138"/> </p></div1><div1 id="fairy" type="Chapter"><head>The Water Fairy</head><p><figure id="o138" rend="image(images/o081-2.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+ </p><lg type="Poem"><lg type="Poem"><l>Me my mother bore       </l><l rend="in2">&#8217;Mid lofty palace walls,     </l><l>Me at midnight hour       </l><l rend="in2">In Dnieper&#8217;s flood she bathed;     </l><l>And bathing, she murmured       </l><l rend="in2">Over little me: </l></lg><lg type="Poem"><l rend="in4">&#8220;Swim, swim, little maid,         </l><l rend="in4">Adown the Dnieper water,         </l><l rend="in4">You&#8217;ll swim out a fairy         </l><l rend="in4">Next midnight, my daughter.         </l><l rend="in4">I go to dance with him,         </l><l rend="in4">My faithless lover;         </l><l rend="in4">You&#8217;ll come and lure him         </l><l rend="in4">Into the river.         </l><l rend="in4">No more shall he laugh at me,         </l><l rend="in4">At my tears out-flowing,         </l><l rend="in4">But o&#8217;er him the Dnieper         </l><l rend="in4"><corr sic="It&#8217;s">Its</corr> blue water is rolling.         </l><l rend="in4">Swim out, my only one,         </l><l rend="in4">He will come to dance with thee.         </l><l rend="in4">Waves, waves, little waves,           </l><l rend="in6">Greet ye the water fairy.&#8221; </l></lg><lg type="Poem"><l>Sadly she cried and ran away,     </l><l>As I floated down the stream.     <pb id="pb139" n="139" facs="f:139"/></l><l>But sister fairies met me,     </l><l>I grew as in a dream.     </l><l>A week, and I dance at midnight,     </l><l>And watch from the water pools.     </l><l>What does my sinful mother?     </l><l>Lives she still in shameful pleasure,     </l><l>With him, the faithless lord?     </l><l>Thus the fairy whispered,     </l><l>Then like diving bird she dropped     </l><l>Back in the stream,     </l><l>And the willows bowed above her. </l></lg><lg type="Poem"><l>The mother comes to walk by the river side.     </l><l>&#8217;Tis weary in the palace,     </l><l>And the lord is not at home.       </l><l rend="in2">She comes to the bank, thinks of her little one     </l><l>Whom she plunged in with muttered charms.       </l><l rend="in2">What matters it? She would go back to the palace,     </l><l>But no, <corr sic="her&#8217;s">hers</corr> is another fate.       </l><l rend="in2">She noticed not how the river maidens hastened     </l><l>Till they caught her, and tickled her &#8217;mid laughter.       </l><l rend="in2">Joyfully they caught her, and played and tickled her,     </l><l>And put her in a basket net       </l><l rend="in2">(Unto her death).     </l><l>And then they roared and laughed;     </l><l>But one little fairy did not laugh. </l></lg></lg><pb id="pb140" n="140" facs="f:140"/></div1><div1 id="nuns" type="Chapter"><head>Hymn of the Nuns</head><p><figure id="o140" rend="image(images/o081-2.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+ </p><p rend="small">Shevchenko had heard a story of nuns in a convent conveying <corr sic="messeges">messages</corr> to one another interspersed in the words of the religious service. The <corr sic="messeges">messages</corr> were to the effect that company was coming that night and there would be music and dancing. Hence this sardonically humorous poem.
+
+
+
+ </p><lg type="Poem"><lg type="Poem"><l>Strike lightning above this house,     </l><l>This house of God where we are dying,     </l><l>Where we think lightly of Thee, God,     </l><l>And, thinking lightly, sing             </l><l rend="in8">Hallelujah. </l></lg><lg type="Poem"><l>Were it not for Thee,             </l><l rend="in8">we had loved men;     </l><l>Had courted and married,     </l><l>Brought up children,     </l><l>Taught them and sung             </l><l rend="in8">Hallelujah. </l></lg><lg type="Poem"><l>Thou hast cheated us,                 </l><l rend="in12">poor wretches!     </l><l>And we, defrauded and unlucky,     </l><l>Ourselves have fooled Thee,     </l><l>And howled and sung: Hallelujah. </l></lg><lg type="Poem"><l>With barber&#8217;s shears hast put us in this nunnery,     </l><l>And we&#8212;young women still&#8212;     </l><l>We dance and sing,     </l><l>And singing say: Hallelujah. </l></lg></lg><pb id="pb141" n="141" facs="f:141"/></div1><div1 id="goddess" type="Chapter"><head>To the Goddess of Fame</head><p><figure id="o141" rend="image(images/o081-2.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+ </p><lg type="Poem"><lg type="Poem"><l>Hail, thou barmaid slovenly,     </l><l>Stagg&#8217;ring like fish-wife drunkenly;     </l><l>Where the dickens dost thou stay,     </l><l>With thy stock of haloes, pray?     </l><l>Was it on credit thou gavest one     </l><l>To the thief of Versailles, that Corsican?     </l><l>Perhaps now thou&#8217;rt whispering in some fellow&#8217;s ear;     </l><l>And all because of boredom or beer. </l></lg><lg type="Poem"><l>Come then awhile with me to lodge,     </l><l>Fondly, together, trouble we&#8217;ll dodge.     </l><l>With a smack and a kiss                 </l><l rend="in12">This dreary weather,     </l><l>Let&#8217;s make a bargain                 </l><l rend="in12">to live together.     </l><l>Thou&#8217;rt a painted queen                 </l><l rend="in12">with manners free,     </l><l>Yet in thy company                 </l><l rend="in12">I&#8217;d gladly be. </l></lg><lg type="Poem"><l>What though thou holdest                 </l><l rend="in12">thy nose in air,     </l><l>Dancest in barrooms                 </l><l rend="in12">with kings at a fair; <pb id="pb142" n="142" facs="f:142"/>    </l><l>And most with that chap                 </l><l rend="in12">they call the Tsar;     </l><l>Still that&#8217;s no bother,                 </l><l rend="in12">thy stock&#8217;s still at par. </l></lg><lg type="Poem"><l>Come, my dear, make haste to me,     </l><l>Let me have a look at thee;     </l><l>Bestow on me a little smile,     </l><l>&#8217;Neath thy bright wings                 </l><l rend="in12">I&#8217;d rest a while. </l></lg></lg><p><figure id="o142" rend="image(images/o142.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+
+
+ <pb id="pb143" n="143" facs="f:143"/> </p></div1><div1 id="iconoclasm" type="Chapter"><head>Iconoclasm</head><lg type="Poem"><l>Bright light, peaceful light,     </l><l>Free light, light unbound!     </l><l>What is this, brother light?     </l><l>In thy warm home thou&#8217;rt found     </l><l>By censers smoked,     </l><l>By priests&#8217; robes choked,     </l><l>Fettered and fooled     </l><l>And by <corr sic="Ikons">Icons</corr> ruled.     </l><l>Yield thee not in the fight,     </l><l>Waken up, brother light!     </l><l>Shed thy pure rays     </l><l>On mankind&#8217;s ways.     </l><l>All priestly robes in rags we&#8217;ll tear     </l><l>And light our pipes from censers rare,     </l><l>With <corr sic="Ikons">Icons</corr> now the flames will roar,     </l><l>With holy brooms we&#8217;ll sweep the floor. </l></lg><p><figure id="o143" rend="image(images/o143.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+ <pb id="pb144" n="144" facs="f:144"/> </p></div1><div1 id="testament" type="Chapter"><head>My Testament</head><p><figure id="o144" rend="image(images/o007-1.png)"><figDesc>Ornament.</figDesc></figure>
+
+
+
+ </p><lg type="Poem"><lg type="Poem"><l>When I die, remember, lay me       </l><l rend="in2">Lowly in the silent tomb,     </l><l>Where the prairie stretches free,       </l><l rend="in2">Sweet Ukraine, my cherished home. </l></lg><lg type="Poem"><l>There, &#8217;mid meadows&#8217; grassy sward,       </l><l rend="in2">Dnieper&#8217;s waters pouring     </l><l>May be seen and may be heard,       </l><l rend="in2">Mighty in their roaring. </l></lg><lg type="Poem"><l>When from Ukraine waters bear       </l><l rend="in2">Rolling to the sea so far     </l><l>Foeman&#8217;s blood, no longer there       </l><l rend="in2">Stay I where my ashes are. </l></lg><lg type="Poem"><l>Grass and hills I&#8217;ll leave and fly.       </l><l rend="in2">Unto throne of God I&#8217;ll go,     </l><l>There in heaven to pray on high,       </l><l rend="in2">But, till then, no God I know. </l></lg><lg type="Poem"><l>Standing then about my grave,       </l><l rend="in2">Make ye haste, your fetters tear!     </l><l>Sprinkled with the foeman&#8217;s blood       </l><l rend="in2">Then shall rise your freedom fair. </l></lg><lg type="Poem"><l>Then shall spring a kinship great,       </l><l rend="in2">This a family new and free.     </l><l>Sometimes in your glorious state,       </l><l rend="in2">Gently, kindly, speak of me. </l></lg></lg><pb id="pb145" n="145" facs="f:145"/><p><figure id="p145"><head>First Burial Mound of the Poet.</head></figure>
+
+
+
+
+
+
+
+ </p></div1></body><back id="backmatter"><div1 id="ad" type="Advertisement"><lg type="Poem"><l>&#8222;<foreign lang="uk" xml:lang="uk">&#1052;&#1086;&#1074;&#1086; &#1088;&#1110;&#1076;&#1085;&#1072;, &#1089;&#1083;&#1086;&#1074;&#1086; &#1088;&#1110;&#1076;&#1085;&#1077;,</foreign>     </l><l><foreign lang="uk" xml:lang="uk">&#1061;&#1090;&#1086; &#1074;&#1072;&#1089; &#1079;&#1072;&#1073;&#1091;&#1074;&#1072;&#1108;,</foreign>     </l><l><foreign lang="uk" xml:lang="uk">&#1058;&#1086;&#1081; &#1091; &#1075;&#1088;&#1091;&#1076;&#1103;&#1093; &#1085;&#1077; &#1089;&#1077;&#1088;&#1076;&#1077;&#1085;&#1100;&#1082;&#1086;</foreign>     </l><l><foreign lang="uk" xml:lang="uk">&#1040; &#1083;&#1080;&#1096; &#1082;&#1072;&#1084;&#1110;&#1085;&#1100; &#1084;&#1072;&#1108;...</foreign>&#8221; </l></lg><p><figure id="harvest" rend="image(images/harvest.png)"><figDesc>Woman with rake and scythe dancing on field with flowers and grain.</figDesc></figure>
+
+ </p><p rend="center"><foreign lang="uk" xml:lang="uk">&#1055;&#1080;&#1096;&#1110;&#1090;&#1100; &#1087;&#1086; &#1085;&#1072;&#1096; &#1030;&#1083;&#1102;&#1089;&#1090;&#1088;&#1086;&#1074;&#1072;&#1085;&#1080;&#1081; &#1050;&#1072;&#1090;&#1072;&#1083;&#1100;&#1086;&#1169;.</foreign>
+
+ </p><p rend="center xxl">Ukrainska Knyharnia
+
+ </p><p rend="center xl">Ukrainian Booksellers &amp; Publishers Ltd.
+
+ </p><p rend="center"><foreign lang="uk" xml:lang="uk">&#1053;&#1072;&#1081;&#1089;&#1090;&#1072;&#1088;&#1096;&#1072; &#1110; &#1053;&#1072;&#1081;&#1073;&#1110;&#1083;&#1100;&#1096;&#1077; &#1044;&#1086;&#1074;&#1110;&#1088;&#1077;&#1085;&#1072; &#1059;&#1082;&#1088;&#1072;&#1111;&#1085;&#1089;&#1100;&#1082;&#1072; &#1050;&#1085;&#1080;&#1075;&#1072;&#1088;&#1085;&#1103; &#1074; &#1050;&#1072;&#1085;&#1072;&#1076;&#1110;.</foreign>
+
+ </p><p rend="center xl">656&#8211;660 MAIN STREET<corr>,</corr> WINNIPEG, MAN.
+
+
+
+
+
+ </p></div1><div1 id="backcover" type="Cover"><p><figure id="back"><figDesc>Original Back Cover.</figDesc></figure>
+
+
+
+ </p></div1><divGen type="Colophon"/></back></text></TEI.2>

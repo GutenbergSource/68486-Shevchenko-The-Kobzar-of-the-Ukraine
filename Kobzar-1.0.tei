@@ -1,0 +1,4532 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
+
+    <!ENTITY apos   CDATA "&#x2019;"  --     386 -->
+    <!ENTITY bdquo  CDATA "&#x201E;"  --       1 -->
+    <!ENTITY ldquo  CDATA "&#x201C;"  --      90 -->
+    <!ENTITY lsquo  CDATA "&#x2018;"  --       4 -->
+    <!ENTITY mdash  CDATA "&#x2014;"  --      65 -->
+    <!ENTITY ndash  CDATA "&#x2013;"  --       4 -->
+    <!ENTITY rdquo  CDATA "&#x201D;"  --      89 -->
+    <!ENTITY rsquo  CDATA "&#x2019;"  --       4 -->
+
+]>
+<TEI.2 lang=en>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title nfc=4>The Kobzar of the Ukraine</title>
+<author key="Shevchenko, Taras" ref="https://viaf.org/viaf/71436235/">Taras Shevchenko (1814&ndash;1861)</author>
+<respStmt><resp>Translation</resp> <name key="Hunter, Alexander Jardine" ref="https://viaf.org/viaf/300238084/">Alexander Jardine Hunter (1868&ndash;1940)</name></respStmt>
+<respStmt><resp>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Project Gutenberg</publisher>
+<pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=LCCN>#####</idno>
+<idno type=OLN>#####</idno>
+<idno type=OLW>#####</idno>
+<idno type=OCLC>#####</idno>
+<idno type=LibThing>#####</idno>
+<idno type=PGclearance>20220312090223shevchenko</idno>
+<idno type=PGDPProjectId>projectID622e6ad9808a7</idno>
+<idno type=PGSrc>68486-Shevchenko-The-Kobzar-of-the-Ukraine</idno>
+<idno type=epub-id>urn:uuid:d2a69eb5-2f31-4267-9347-b8ccb6fe98bc</idno>
+<idno type=PGnum>68486</idno>
+<date>2022-07-09</date>
+<availability>
+<p>&availability.en;
+
+<p>This eBook is produced by the Online Distributed Proofreading Team at <xref url="https://www.pgdp.net/">www.pgdp.net</xref>.
+
+<p>Scans of this book are available from the Internet Archive (copy <xref url="https://archive.org/details/kobzarofukraineb00shev">1</xref>, used for the covers and a few illustrations; <xref url="https://archive.org/details/kobzarofukraineb00shev_0">2</xref>, used for the text and most illustrations.)
+
+</availability>
+</publicationStmt>
+<notesStmt>
+    <note type=Description>#####<!--A short description of this document.--></note>
+    <note type=Credits>Produced by Jeroen Hellingman and the Online Distributed Proofreading Team at https://www.pgdp.net/ for Project Gutenberg.</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Taras Shevchenko</author>
+<title>The Kobzar of the Ukraine</title>
+<date>1922</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+    <p></p>
+    <tagsDecl lang=xx>
+        <rendition selector=".small">font-size: small;</rendition>
+        <rendition selector=".large">font-size: large;</rendition>
+        <rendition selector=".xl">font-size: x-large;</rendition>
+        <rendition selector=".xxl">font-size: xx-large;</rendition>
+        <rendition selector=".center">text-align: center;</rendition>
+
+        <rendition selector="div.advertisement img">mix-blend-mode: darken;</rendition>
+
+        <rendition selector=".in2">text-indent: 2ex;</rendition>
+        <rendition selector=".in4">text-indent: 4ex;</rendition>
+        <rendition selector=".in6">text-indent: 6ex;</rendition>
+        <rendition selector=".in8">text-indent: 8ex;</rendition>
+        <rendition selector=".in10">text-indent: 10ex;</rendition>
+        <rendition selector=".in12">text-indent: 12ex;</rendition>
+        <rendition selector=".in14">text-indent: 14ex;</rendition>
+        <rendition selector=".in16">text-indent: 16ex;</rendition>
+    </tagsDecl>
+</encodingDesc>
+<profileDesc>
+    <langUsage>
+        <language id=en>English</language>
+        <language id=uk>Ukrainian</language>
+        <language id=xx>No linguistic content</language>
+    </langUsage>
+    <textClass>
+        <keywords>
+            <list>
+                <item>#####</item>
+            </list>
+        </keywords>
+    </textClass>
+</profileDesc>
+<revisionDesc>
+    <list>
+        <item>2022-07-02 Started.
+    </list>
+</revisionDesc>
+</teiHeader>
+<text rend="stylesheet(style/classic.css)">
+<front id=frontmatter>
+<div1 id=cover type=Cover>
+
+
+<p><figure id=cover-image rend="image(images/front.jpg)">
+<figDesc>Original Front Cover.</figDesc>
+</figure>
+
+
+
+<div1 id=frontis1 type=Frontispiece>
+
+
+<p><figure id=frontispiece>
+<figDesc>Geometric design.</figDesc>
+</figure>
+
+
+<pb id=pb1 facs="f:001">
+<div1 id=french type=FrenchTitle>
+
+
+<p rend="center large">THE KOBZAR
+<lb>OF THE UKRAINE
+
+
+
+
+<pb id=pb2 facs="f:002">
+<div1 id=frontis2 type=Frontispiece>
+
+
+<p><figure id=portrait>
+<figDesc>Self-portrait of Taras Shevchenko.</figDesc>
+</figure>
+
+
+
+<pb id=pb3 facs="f:003">
+<div1 id=titlepage type=TitlePage>
+
+
+<p><figure id=titlepage-image rend="image(images/titlepage.png)">
+<figDesc>Original Title Page.</figDesc>
+</figure>
+
+
+
+<titlePage>
+<docTitle><titlePart>The Kobzar of the Ukraine</titlePart>
+
+<byline>Being Select Poems of
+<lb><docAuthor>TARAS SHEVCHENKO</docAuthor>
+
+<!-- [Illustration] -->
+
+<lb>Done into English Verse with Biographical Fragments by
+<lb><docAuthor>ALEXANDER JARDINE HUNTER</docAuthor>
+</byline>
+
+<!-- [Illustration] -->
+
+<docImprint>Printed in Winnipeg.
+
+<lb>Published by Dr. A. J. Hunter,
+<lb>Teulon, Man.
+</docImprint>
+</titlePage>
+
+
+
+
+<pb id=pb4 facs="f:004">
+<div1 id=copyright type=Copyright>
+
+
+<p rend="center small">Copyright, Canada, 1922
+<lb>by Dr. A. J. Hunter,
+<lb>Teulon, Man.
+
+
+
+
+
+<pb id=pb5 n=5 facs="f:005">
+<div1 id=toc type=Contents>
+<head>Contents</head>
+
+
+<p>                                      <ab type=tocPageNum>Page</ab>
+
+<p><ref target=introduction>Introduction</ref>                             <ab type=tocPageNum>9</ab>
+
+
+<p rend=center><hi rend=bold>POEMS.</hi>
+
+
+<p>BALLADS:
+
+<list type=tocList>
+<item><ref target=monk>The Monk</ref>                                <ab type=tocPageNum>13</ab>
+<item><ref target=hamaleia>Hamaleia</ref>                                <ab type=tocPageNum>21</ab>
+<item><ref target=taras>The Night of Taras</ref>                      <ab type=tocPageNum>30</ab>
+</list>
+
+<p>TALE:
+
+<list type=tocList>
+<item><ref target=naimechka>Naimechka; or The Servant</ref>               <ab type=tocPageNum>39</ab>
+</list>
+
+
+<p>SOCIAL AND POLITICAL POETRY:
+
+<list type=tocList>
+<item><ref target=caucasus>Caucasus</ref>                                <ab type=tocPageNum>68</ab>
+<item><ref target=dead>To the Dead</ref>                             <ab type=tocPageNum>81</ab>
+<item><ref target=dream>A Dream</ref>                                 <ab type=tocPageNum>96</ab>
+<item><ref target=bondwoman>The Bondwoman&apos;s Dream</ref>                  <ab type=tocPageNum>106</ab>
+<item><ref target=sentimental>To the Makers of Sentimental Idyls</ref>     <ab type=tocPageNum>109</ab>
+</list>
+
+
+<p>POEMS OF EXILE:
+
+<list type=tocList>
+<item><ref target=exile>A Poem of Exile</ref>                        <ab type=tocPageNum>114</ab>
+<item><ref target=memories>Memories of Freedom</ref>                    <ab type=tocPageNum>120</ab>
+<item><ref target=memories2>Memories of <corr>an </corr>Exile</ref>                      <ab type=tocPageNum>123</ab>
+<item><ref target=death>Death of the Soul</ref>                      <ab type=tocPageNum>124</ab>
+<item><ref target=hymn>Hymn of Exile</ref>                          <ab type=tocPageNum>126</ab>
+</list>
+
+
+<p>RELIGIOUS POEMS:
+
+<list type=tocList>
+<item><ref target=eleventh>On the 11th Psalm</ref>                      <ab type=tocPageNum>130</ab>
+<item><ref target=prayer1>Prayers</ref>                                <ab type=tocPageNum>132</ab>
+</list>
+
+
+<p>EARLY POEMS:
+
+<list type=tocList>
+<item><ref target=mighty>Mighty Wind</ref>                            <ab type=tocPageNum>136</ab>
+<item><ref target=fairy>The Water Fairy</ref>                        <ab type=tocPageNum>138</ab>
+</list>
+
+
+<p>HUMOROUS AND SATIRICAL:
+
+<list type=tocList>
+<item><ref target=nuns>Hymn of the Nuns</ref>                       <ab type=tocPageNum>140</ab>
+<item><ref target=goddess>To the Goddess of Fame</ref>                 <ab type=tocPageNum>141</ab>
+</list>
+
+
+<pb id=pb6 n=6 facs="f:006">
+
+<p>PREDICTION AND FAREWELL:
+
+<list type=tocList>
+<item><ref target=iconoclasm>Iconoclasm</ref>                             <ab type=tocPageNum>143</ab>
+<item><ref target=testament>My Testament</ref>                           <ab type=tocPageNum>144</ab>
+</list>
+
+
+<p rend=center><hi rend=bold>BIOGRAPHICAL FRAGMENTS.</hi>
+
+<list type=tocList>
+<item><ref target=who>Who Was Taras Shevchenko</ref>                <ab type=tocPageNum>11</ab>
+<item><ref target=cossacks>The Cossacks</ref>                            <ab type=tocPageNum>19</ab>
+<item><ref target=kobzars>Kobzars</ref>                                 <ab type=tocPageNum>29</ab>
+<item><ref target=forming>The Forming of a Life</ref>                   <ab type=tocPageNum>36</ab>
+<item><ref target=legacy>A Father&apos;s Legacy</ref>                       <ab type=tocPageNum>67</ab>
+<item><ref target=serfdom>The Meaning of Serfdom</ref>                  <ab type=tocPageNum>79</ab>
+<item><ref target=freedom>Freedom and Friends</ref>                     <ab type=tocPageNum>94</ab>
+<item><ref target=triumphal>A Triumphal March</ref>                      <ab type=tocPageNum>103</ab>
+<item><ref target=autocrat>Autocrat Versus Poet</ref>                   <ab type=tocPageNum>112</ab>
+<item><ref target=siberian>Siberian Exile</ref>                         <ab type=tocPageNum>118</ab>
+<item><ref target=returning>Returning Home</ref>                         <ab type=tocPageNum>127</ab>
+</list>
+
+
+
+<p><figure id=p006 rend="image(images/p006.png)">
+<figDesc>House with melon and sunflower in garden.</figDesc>
+</figure>
+
+
+
+
+
+<pb id=pb7 n=7 facs="f:007">
+<div1 type=Note id=illustrations>
+<head>Illustrations</head>
+
+
+<p><figure id=o007-1 rend="image(images/o007-1.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+<p><hi>The decorations and illustrations in this book are meant to show something of Ukrainian art.</hi>
+
+<p><hi>The artistic instincts of the peasant women find satisfaction largely in the working of embroidery, each district having its own characteristic types of design.</hi>
+
+<p><hi>One of Shevchenko&apos;s favorite fancies was to compare his versification to the work of the girls and women embroidering their designs on their garments. He frequently speaks of himself as &ldquo;embroidering verses.&rdquo;</hi>
+
+<p><hi>It is a favorite device of Ukrainian book-makers to decorate their pages with miniature landscapes and little figures.</hi>
+
+<p><hi>The frontispiece of the present work is a picture of Shevchenko in youth from an original painted by himself. On page 129 we see him as he looked after his return from exile.</hi>
+
+<p><figure id=o007-2 rend="image(images/o142.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+
+
+
+
+<pb id=pb8 n=8 facs="f:008">
+<div1 id=life type=Biography rend=large>
+<head>LIFE</head>
+
+
+<p><figure id=o008 rend="image(images/o008.png)">
+<figDesc>Ornament: dotted cross.</figDesc>
+</figure>
+
+
+<p>Born 1811, February 26.
+
+<list>
+    <item>24 years a serf,
+    <item>9 years a freeman,
+    <item>10 years a prisoner in Siberia,
+    <item>3 1&ndash;2 years under police supervision.
+</list>
+
+<p>Died 1861, February 26.
+
+<p><figure id=p008 rend="image(images/p008.png)">
+<figDesc>Ornament: cither.</figDesc>
+</figure>
+
+
+
+
+
+
+<pb id=pb9 n=9 facs="f:009">
+<div1 id=introduction type=Introduction>
+<head rend="image(images/o009.jpg)">INTRODUCTION.</head>
+
+
+<p><hi>Nearly twenty years ago the translator of these poems was sent by the Presbyterian church as a medical missionary to a newly settled district in Manitoba. A very large proportion of the incoming settlers in this district were Ukrainians, indeed it was largely owing to the interest taken in these newcomers that the writer was sent there.</hi>
+
+<p><hi>It was Mr. John Bodrug who first, introduced him to the study of the poems of Shevchenko and with his help translations of three or four of the poems were made a dozen years ago. Press of other work prevented the following up of this study till last summer when with the help of Mr. Sigmund Bychinsky translations were made of the other poems here given, and considerable time spent in arriving at an understanding of the spirit of the poems and the nature of the situations described. Then the more formidable task was approached of trying to carry over not only the thought but something  <pb id=pb10 n=10 facs="f:010">of the style, spirit and music of the original into the English tongue.</hi>
+
+<p><hi>The spirit of Shevchenko was too independent to suffer him to be much bound by narrow rules of metre and rhyme. The translator has found the same attitude convenient, for when the versification may be varied as desired it is much easier to preserve the original thoughts intact.</hi>
+
+<p><hi>The writer&apos;s thanks are due for help and advice to Messrs. Arsenych, Woicenko, Rudachek, Ferley, Sluzar and Stechyshyn and especially to Mrs. Bychinsky and for help with the manuscript to Miss Sara Livingstone.</hi>
+
+
+<p rend=signed><hi>A. J. H.</hi>
+
+
+<p><figure id=p010 rend="image(images/p010.png)">
+<figDesc>Rural landscape.</figDesc>
+</figure>
+
+
+
+
+<pb id=pb11 n=11 facs="f:011">
+<div1 id=who>
+<head>Who was Taras Shevchenko?</head>
+
+<p><figure id=o011 rend="image(images/o011.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+<p><hi>How many English-speaking people have heard of Taras Shevchenko?</hi>
+
+<p><hi>What &ldquo;Uncle Tom&apos;s Cabin&rdquo; did for the negroes of the United States of America the poems of Shevchenko did for the serfs of Russia. They aroused the conscience of the Russian people, and the persecutions suffered by the poet at the hands of the autocracy awakened their sympathy.</hi>
+
+<p><hi>It was two days after the death of Shevchenko that the czar&apos;s ukase appeared granting freedom to the serfs. Possibly the dying poet knew it was coming and died the happier on that account.</hi>
+
+<p><hi>But in still another way does this man&apos;s figure stand out. In the country called the Ukraine is a nation of between thirty and forty millions of people, having a language of their own&mdash;the language in which these poems were composed.</hi>
+
+<p><hi>This has been, as it were, a nation lost, buried alive one might say, beneath the power of surrounding empires.</hi>
+
+<p><hi>They have a terrible history of oppression, alternating with desperate revolts <pb id=pb12 n=12 facs="f:012">against Polish and Muscovite tyranny.</hi>
+
+<p><hi>In these poems speaks the struggling soul of a downtrodden people. To our western folk, reared in happier surroundings there is a bitter tang about some of them, somewhat like the taste of olives, to which one must grow accustomed. The Slavonic temperament, too, is given to melancholy and seems to dwell congenially in an atmosphere misty with tears. But he gravely misreads their literature who fails to perceive the grim resolve beneath the sorrow.</hi>
+
+<p><hi>In the struggle of the Ukrainians for freedom the spirit of this poet, who was born a serf, remains ever their guiding star.</hi>
+
+
+<p><figure id=p012 rend="image(images/p012.png)">
+<figDesc>Well with bucket.</figDesc>
+</figure>
+
+
+
+
+
+
+<pb id=pb13 n=13 facs="f:013">
+</front>
+<body>
+<div1 id=monk type=Chapter>
+<head>The Monk</head>
+
+<p><figure id=o013 rend="image(images/o013.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+<p><hi>It happened sometimes, when a cossack warrior found his energies failing and his joints growing stiff from much campaigning, he would bethink him of his sins and deeds of blood.</hi>
+
+<p><hi>These things weighing on his mind, he would decide to spend the remainder of his life in a monastery, but before taking this irrevocable step, he would hold a time of high revel with his old comrades. This poem pictures such an event.</hi>
+
+
+<p><figure id=p013 rend="image(images/p013.png)">
+<figDesc>Orthodox church with trees.</figDesc>
+</figure>
+
+
+
+<pb id=pb14 n=14 facs="f:014"><lg type=Poem><lg>
+    <l>At Kiev, in the low countrie,
+    <l>Things happened once that you&apos;ll never see.
+    <l>For evermore, &apos;twas done;
+    <l>Nevermore, &apos;twill come.
+    <l>Yet I, my brother,
+    <l>Will with hope foregather,
+    <l>That this again I&apos;ll see,
+    <l>Though grief it brings to me.
+</lg>
+
+<lg>
+    <l>To Kiev in the low countrie
+    <l>Came our brotherhood so free.
+    <l>Nor slave nor lord have they,
+    <l>But all in noble garb so gay
+    <l>Came splashing forth in mood full glad
+    <l>With velvet coats the streets are clad.
+    <l>They swagger in silken garments pride
+    <l>And they for no one turn aside.
+</lg>
+
+<lg>
+    <l>In Kiev, in the low countrie,
+    <l>All the cossacks dance in glee,
+    <l>Just like water in pails and tubs
+    <l>Wine pours out &apos;mid great hubbubs.
+    <l>Wine cellars and bars
+            <l rend=in8>with all the barmaids
+    <l>The cossacks have bought
+            <l rend=in8>with their wines and meads.
+    <l>With their heels they stamp
+        <l rend=in4>And dancing tramp,
+    <l>While the music roars
+        <l rend=in4>And joyously soars.
+</lg>
+
+<pb id=pb15 n=15 facs="f:015"><lg>
+    <l>The people gaze
+            <l rend=in8>with gladsome eyes,
+    <l>While scholars of the cloister schools
+    <l>All in silence bred by rules,
+    <l>Look on with wondering surprise.
+    <l>Unhappy scholars! Were they free,
+    <l>They would cossacks dancing be.
+    <l>Who is this by musicians surrounded
+    <l>To whom the people give fame unbounded?
+    <l>In trousers of velvet red,
+    <l>With a coat that sweeps the road
+    <l>A cossack comes. Let&apos;s weep o&apos;er his years
+    <l>For what they&apos;ve done is cause for tears.
+    <l>But there&apos;s life in the old man yet I trust,
+    <l>For with dancing kicks
+            <l rend=in8>he spurns the dust.
+    <l>In his short time left with men to mingle
+    <l>The cossack sings,
+            <l rend=in8>this tipsy jingle.
+</lg>
+
+<lg>
+        <l rend=in4>&ldquo;On the road is a crab, crab, crab.
+        <l rend=in4>Let us catch it grab, grab, grab.
+        <l rend=in4>Girls are sewing jab, jab, jab.
+        <l rend=in4>Let&apos;s dance on trouble,
+        <l rend=in4>Dance on it double
+        <l rend=in4>Then on we&apos;ll bubble
+        <l rend=in4>Already this trouble
+        <l rend=in4><corr sic=We-ve>We&apos;ve</corr> danced on double
+        <l rend=in4>So let&apos;s dance on trouble.
+        <l rend=in4>Dance on it double,
+        <l rend=in4>Then on we&apos;ll bubble.&rdquo;
+</lg>
+
+
+<pb id=pb16 n=16 facs="f:016"><lg>
+    <l>To the Cloister of our Saviour
+    <l>Old gray-hair dancing goes.
+    <l>After him his joyous crowd
+    <l>And all the folk of Kiev so proud.
+    <l>Dances he up to the doors&mdash;
+    <l>&ldquo;Hoo-hoo! Hoo-hoo!&rdquo; he roars.
+    <l>Ye holy monks give greeting
+    <l>A comrade from the prairie meeting.
+</lg>
+
+<lg>
+        <l rend=in4>Opens the sacred door,
+        <l rend=in4>The Cossack enters in.
+        <l rend=in4>Again the portal closes
+        <l rend=in4>To open no more for him.
+        <l rend=in4>What a man was there
+                <l rend=in12>this old gray-hair,
+        <l rend=in4>Who said to the world farewell?
+        <l rend=in4>&apos;Twas Semon Palee,
+                <l rend=in12>a cossack free
+        <l rend=in4>Whom trouble could not quell.
+</lg>
+
+<lg>
+    <l>Oh in the East the sun climbs high
+    <l>And sets again in the western sky.
+    <l>In narrow cell in monkish gown
+    <l>Tramps an old man up and down,
+    <l>Then climbs the highest turret there
+    <l>To feast his eyes on Kiev so fair.
+    <l>And sitting on the parapet
+    <l>He yields a while to fond regret.
+    <l>Anon he goes to the woodland spring,
+    <l>The belfry near, where sweet bells ring.
+    <l>The cooling draught to his mind recalls
+<pb id=pb17 n=17 facs="f:017">    <l>How hard was life without the walls.
+    <l>Again the monk his cell floor paces
+    <l>&apos;Mid the silent walls his life retraces.
+    <l>The sacred book he holds in hand
+    <l>And loudly reads,
+    <l>The old man&apos;s mind to Cossack land
+    <l>Swiftly speeds.
+    <l>Now holy words do fade away,
+    <l>The monkish cell turns Cossack den,
+    <l>The glorious brotherhood lives again.
+    <l>The gray old captain, like an owl
+    <l>Peers beneath the monkish cowl.
+    <l>Music, dances, the city&apos;s calls,
+    <l>Rattling fetters, Moscow&apos;s walls,
+    <l>O&apos;er woods and snows
+            <l rend=in8>his eyes can see
+    <l>The banks of distant Yenisee.
+    <l>Upon his soul deep gloom has crept
+    <l>And thus the monk in sadness wept.
+</lg>
+
+<lg>
+        <l rend=in4>Down, Down! Bow thy head;
+        <l rend=in4>On thy fleshly cravings tread.
+        <l rend=in4>In the sacred writings read
+        <l rend=in4>Read, read, to the bell give heed,
+        <l rend=in4>Thy heart too long has ruled thee,
+        <l rend=in4>All thy life it&apos;s fooled thee.
+        <l rend=in4>Thy heart to exile led thee,
+        <l rend=in4>Now let it silent be.
+        <l rend=in4>As all things pass away,
+        <l rend=in4>So thou shalt pass away.
+    <pb id=pb18 n=18 facs="f:018">    <l rend=in4>Thus may&apos;st thou know thy lot,
+        <l rend=in4>Mankind remembers not.
+</lg>
+
+<lg>
+    <l>Though groans the old man&apos;s sadness tell.
+    <l>Upon his book he quickly fell,
+    <l>And tramped and tramped about his cell.
+    <l>He sits again in mood forlorn
+    <l>Wonders why he e&apos;er was born.
+    <l>One thing alone he fain would tell.
+    <l>He loves his Ukraina well.
+            <l rend=in8>For Matins now
+                  <l rend=in14>the great bell booms.
+            <l rend=in8>The aged monk
+                  <l rend=in14>his cowl resumes.
+            <l rend=in8>For Ukraina now to pray
+            <l rend=in8>My good old Palee limps away.
+</lg></lg>
+
+
+<p><figure id=p018 rend="image(images/p018.png)">
+<figDesc>Standing Cossack with long rifle.</figDesc>
+</figure>
+
+
+
+
+<pb id=pb19 n=19 facs="f:019">
+<div1 id=cossacks>
+<head>The Cossacks</head>
+
+<p><figure id=o019 rend="image(images/o013.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+<p><hi>Back somewhere in the middle distance of European history&mdash;when the Ukraine was under Polish rule, though ever harrassed by the devastating raids of Turks and Tartars&mdash;there developed bands of guerilla fighters in the wild border-land beyond the rapids of the Dnieper.</hi>
+
+<p><hi>Sometimes fighting against the Tartars, sometimes in alliance with them, they became known by the name &lsquo;Kazak,&rsquo; a word of uncertain origin.</hi>
+
+<p><hi>Fierce banditti they were, many of them serfs who had run away from their Polish masters. But they often developed great military power. At times the Poles succeeded in securing numbers of them as fighters in their army, but when the tyranny of the Polish landlords became intolerable the so-called &ldquo;Registered Cossacks&rdquo; would sometimes join with the &ldquo;Free Cossacks&rdquo; of the &ldquo;border land&rdquo;&mdash;which is the meaning of the word &ldquo;Ukraine,&rdquo; and exact terrible vengeance on the Poles.</hi>
+
+<p><hi>The story of these warlike deeds of the Cossacks has the same significance to the Ukrainian people that the tales of Wallace and Bruce have for Scotchmen.</hi>
+
+
+
+<pb id=pb20 n=20 facs="f:020">
+
+<figure id=p020>
+<head>Cossacks Dictating a Saucy Letter to the Turkish Sultan.</head>
+</figure>
+
+
+
+
+
+
+<pb id=pb21 n=21 facs="f:021">
+<div1 id=hamaleia>
+<head>Hamaleia</head>
+
+
+<p><hi>Hamaleia is an historical romance. The poet represents one of the excursions of the Zaparoggian Cossacks under the <corr sic=leader->leadership</corr> of Hamaleia on Skutari, the Turkish city on the <corr sic=Bosphorns>Bosphorus</corr>. The Cossacks saved western Europe from the Tartar and Turkish invasions, by fighting the invaders in the land of the barbarian. The poem describes one of these excursions where the Cossacks animated by the desire of revenging themselves on the Turks and freeing their brothers who were lying as captives in Turkish prisons, undertake a perilous trip in small wooden boats over the stormy Black Sea to Skutari, open the prisons, burn the city, and return home with rich spoils and their freed brethren.</hi>
+
+
+<p><figure id=p021 rend="image(images/p021.png)">
+<figDesc>Farmer&apos;s couple at fence.</figDesc>
+</figure>
+
+
+
+<pb id=pb22 n=22 facs="f:022"><lg><lg>
+      <l rend=in2>&ldquo;Oh breeze there is none,
+      <l rend=in2>Nor do the waters run
+      <l rend=in2>From our Ukraina&apos;s land.
+      <l rend=in2>Perhaps, in council there they stand,
+      <l rend=in2>To march against the Turk demand.
+      <l rend=in2>We hear not in this foreign land.
+      <l rend=in2>Blow winds, blow across the sea,
+      <l rend=in2>Bring tidings of our land so free,
+      <l rend=in2>Come from Dnieper&apos;s Delta low,
+      <l rend=in2>Dry our tears and chase away our woe.
+</lg>
+
+<lg>
+      <l rend=in2>Roar in play thou sea so blue.
+      <l rend=in2>In yon boats are Cossacks true,
+      <l rend=in2>Their caps above are dimly seen.
+      <l rend=in2>Rescue for us this may mean.
+      <l rend=in2>Once more we&apos;ll hear Ukraina&apos;s story.
+      <l rend=in2>Once more the ancient Cossack glory
+      <l rend=in2>We&apos;ll hear before we die.&rdquo;
+</lg>
+
+<lg>
+    <l>So in Skutari the Cossacks sang,
+    <l>Their tears rolled down, their wailing rang
+    <l>Bosphorus groaned at the Cossack cry.
+    <l>And then he raised his waves on high.
+    <l>And shivering like a great grey bull,
+    <l>His waters roaring far and full
+    <l>Into the Black Sea&apos;s ribs were hurled.
+    <l>The sea sent on great Bosphorus&apos; cry,
+    <l>To where the sands of the Delta lie,
+    <l>And then the waters of Dnieper pale
+    <l>In turn took up the mournful tale.
+</lg>
+
+<pb id=pb23 n=23 facs="f:023"><lg>
+    <l>The father Dnieper rears his crest,
+    <l>Shakes the foam from off his breast.
+    <l>With laughter now aloud he calls
+    <l>To spirits of the forest walls.
+    <l>&ldquo;Hortessa sister river, deep,
+    <l>Time it is to wake from sleep.
+    <l>Brother forest, sister river,
+    <l>Come our children to deliver.&rdquo;
+    <l>And now the Dnieper is clad with boats,
+    <l>The Cossack song o&apos;er the water floats.
+</lg>
+
+<lg>
+          <l rend=in6>&ldquo;In Turkey over there,
+          <l rend=in6>Are wealth and riches rare.
+          <l rend=in6>Hey, hey, blue sea play.
+          <l rend=in6>Then roar upon the shore,
+          <l rend=in6>Bringing with you guests so gay.
+</lg>
+
+<lg>
+          <l rend=in6>&ldquo;This Turkey has in her pockets
+          <l rend=in6>Dollars and ducats.
+          <l rend=in6>We don&apos;t come pockets to pick,
+          <l rend=in6>Fire and sword will do the trick.
+          <l rend=in6>We mean to free our brothers.
+</lg>
+
+<lg>
+          <l rend=in6>&ldquo;There the janissary crouches,
+          <l rend=in6>There are pashas on soft couches.
+          <l rend=in6>Hey-ho, foemen ware,
+          <l rend=in6>For nothing do we care,
+          <l rend=in6>Ours are liberty and glory.&rdquo;
+</lg>
+
+<lg>
+        <l rend=in4>On they sail a-singing
+        <l rend=in4>The sea to the wind gives heed,
+    <pb id=pb24 n=24 facs="f:024">    <l rend=in4>In foremost boat the helm a-guiding,
+        <l rend=in4>Brave Hamaleia takes the lead.
+</lg>
+
+<lg>
+        <l rend=in4>&ldquo;Oh, Hamaleia, our hearts are fainting,
+        <l rend=in4>Behold the sea in madness raving.&rdquo;
+        <l rend=in4>&ldquo;Don&apos;t fear,&rdquo; he says, &ldquo;these spurting fountains,
+        <l rend=in4>We&apos;ll hide behind the water mountains.&rdquo;
+</lg>
+
+<lg>
+    <l>All slumber in the harem,
+    <l>Byzantium&apos;s paradise.
+    <l>Skutari sleeps, but Bosphorus
+    <l>In madness shouts, &ldquo;Arise!
+    <l>Awake Byzantium!&rdquo; it roars and groans.
+    <l>&ldquo;Awake them not, Oh Bosphorus.&rdquo;
+    <l>Replies the sea in thunder tones.
+    <l>&ldquo;If thou dost I&apos;ll fill thy ribs with sand,
+    <l>Bury thee in mud, change thee to solid land.
+    <l>Perhaps thou knowest not the guest
+    <l>I bring to break the sultan&apos;s rest.&rdquo;
+</lg>
+
+<lg>
+    <l>So the sea insisted,
+    <l>For he loved the brave Slavonic band;
+    <l>And Bosphorus desisted,
+    <l>While in slumber lay the Turkish land.
+    <l>The lazy Sultan in his harem slept,
+    <l>But only in Skutari the weary pris&apos;ners wept.
+    <l>For something are they waiting,
+    <l>To God from dungeon praying,
+    <l>While the waves go roaring by.
+</lg>
+
+<lg>
+    <l>&ldquo;Oh, loved God of Ukraine&apos;s land,
+    <l>To us in prison stretch thy hand;
+<pb id=pb25 n=25 facs="f:025">    <l>Slaves are we a Cossack band.
+    <l>Shame it is now in truth to say,
+    <l>Shame it will be at <corr sic=judgement>judgment</corr> day
+    <l>For us from foreign tomb to rise,
+    <l>And at thy court, to the world&apos;s surprise
+    <l>Show Cossack hands in chains.&rdquo;
+                  <l rend=in14>&ldquo;Strike and kill,
+    <l>Now the infidels will get their fill
+    <l>Death to the unbelievers all.&rdquo;
+    <l>How they scream beyond the wall!
+</lg>
+
+<lg>
+    <l>They&apos;ve heard of Hamaleia&apos;s fame,
+    <l>Skutari maddens at his name.
+</lg>
+
+<lg>
+    <l>&ldquo;Strike on,&rdquo; he shouts, &ldquo;kill and slay
+    <l>To the castle break your way.&rdquo;
+    <l>All the guns of Skutari roar
+    <l>The foes in frenzy onward pour,
+    <l>The cossacks rush with panting breath
+    <l>The janissaries fall in death.
+</lg>
+
+<lg>
+        <l rend=in4>Hamaleia in Skutari
+        <l rend=in4>Dances through the flames in glee.
+        <l rend=in4>To the jail his way he makes,
+        <l rend=in4>Through the prison doors he breaks.
+        <l rend=in4>Off the feet the fetters takes.
+</lg>
+
+<lg>
+        <l rend=in4>&ldquo;Fly away my birds so gray,
+        <l rend=in4>In the town to share the prey.&rdquo;
+        <l rend=in4>But the falcons trembled
+        <l rend=in4>Nor their fears dessembled
+    <pb id=pb26 n=26 facs="f:026">    <l rend=in4>So long they had not heard
+        <l rend=in4>A single christian word.
+</lg>
+
+<lg>
+        <l rend=in4>Night herself was frightened.
+        <l rend=in4>No flames her darkness lightened.
+        <l rend=in4>The old mother could not see
+        <l rend=in4>How the Cossacks pay their fee.
+</lg>
+
+<lg>
+        <l rend=in4>&ldquo;Fear not! Look ahead,
+        <l rend=in4>To the Cossack banquet spread.
+        <l rend=in4>Dark over all, like a common day,
+        <l rend=in4>And this no little holiday.&rdquo;
+</lg>
+
+<lg>
+        <l rend=in4>&ldquo;No sneak thieves with Hamaleia,
+        <l rend=in4>To eat their bacon silently
+        <l rend=in4>Without a frying pan.&rdquo;
+</lg>
+
+<lg>
+        <l rend=in4>&ldquo;Let&apos;s have a light,&rdquo;
+        <l rend=in4>Now burning bright
+        <l rend=in4>To heaven flames Skutari,
+        <l rend=in4>With all its ruined navy.
+</lg>
+
+<lg>
+    <l>Byzantium awakes, its eyes it opens wide
+    <l>With grinding teeth hastes to its
+            <l rend=in8>comrade&apos;s side,
+    <l>Byzantium roars and rages,
+    <l>With hands to the shore it reaches,
+    <l>From waters gasping strives to rise,
+    <l>And then with sword in heart it dies.
+</lg>
+
+<lg>
+    <l>With fires of hell Skutari&apos;s burning,
+    <l>Bazaars with streams of blood are churning
+<pb id=pb27 n=27 facs="f:027">    <l>Broad Bosphorus pours in its waves.
+    <l>Like blackbirds in a bush
+    <l>The Cossacks fiercely rush.
+    <l>No living soul escapes.
+    <l>Untouched by fire,
+    <l>They the walls down tear,
+    <l>Silver and gold in their caps they bear,
+    <l>And load their boats with riches rare.
+</lg>
+
+<lg>
+    <l>Burns Skutari, ends the fray,
+    <l>The warriors gather and come away,
+    <l>Their pipes with burning cinders light,
+    <l>And row their boats through waves flame
+            <l rend=in8>bright.
+</lg></lg>
+
+
+
+<p><figure id=p027 rend="image(images/p027.png)">
+<figDesc>Three persons resting in field.</figDesc>
+</figure>
+
+
+
+<pb id=pb28 n=28 facs="f:028">
+
+
+
+<p><figure id=p028>
+<figDesc>A kobzar sitting in a field while playing cither.</figDesc>
+</figure>
+
+
+
+
+
+<pb id=pb29 n=29 facs="f:029">
+<div1 id=kobzars>
+<head>Kobzars</head>
+
+
+<p><hi>These are the wandering minstrels of the Ukraine.</hi>
+
+<p><hi>They play on an instrument called the Kobza which somewhat resembles a mandolin. Often in former days they were old prisoners of war&mdash;too old to work&mdash;so their Turkish captors first blinded them and then set them at liberty.</hi>
+
+<p><hi>Wandering among the villages, guided by some little boy, they earned their bread by singing folk-songs and hero-tales to the accompaniment of the Kobza.</hi>
+
+<p><hi>Shevchenko published his book of poems with the title &ldquo;Kobzar.&rdquo;</hi>
+
+
+<p><figure id=p029 rend="image(images/p029.png)">
+<figDesc>Blind man guided by a boy.</figDesc>
+</figure>
+
+
+
+<pb id=pb30 n=30 facs="f:030">
+<div1 id=taras>
+<head rend="image(images/o030.png)">The Night of Taras</head>
+
+
+<lg><lg>
+    <l>By the road the Kobzar sat
+    <l>And on his kobza played.
+    <l>Around him youths and maidens
+    <l>Like poppy flowers arrayed.
+</lg>
+
+<lg>
+    <l>So the Kobzar played and sang
+    <l>Of many an old old story;
+    <l>Of wars with Russian, Pole and Tartar
+    <l>And the ancient Cossack glory.
+</lg>
+
+<lg>
+    <l>He sang of the wars of Taras brave,
+    <l>Of battle fought in the morning early,
+    <l>Of the fallen Cossack&apos;s grass-grown grave
+    <l>Till smiles and tears did mingle fairly.
+</lg>
+
+<milestone unit=tb>
+
+<lg>
+    <l>&ldquo;Once on a time the Hetmans ruled,
+        <l rend=in4>It comes not back again;
+    <l>In olden days we masters were
+        <l rend=in4>This never comes again.
+    <l>These glories of old Cossack lore
+    <l>Shall be forgotten nevermore.
+</lg>
+
+<lg>
+        <l rend=in4>Ukraine, Ukraine!
+        <l rend=in4>Mother mine. Mother mine!
+    <pb id=pb31 n=31 facs="f:031">    <l rend=in4>When I remember thee
+        <l rend=in4>How mournful should I be.
+</lg>
+
+<lg>
+    <l>What has come of our Cossacks bold
+        <l rend=in4>With coats of velvet red?
+    <l>What of freedom by fate foretold,
+        <l rend=in4>And banners the Hetmans led?
+</lg>
+
+<lg>
+        <l rend=in4>Whither is it gone?
+        <l rend=in4>In flames it went:
+    <l>O&apos;er hills and tombs,
+        <l rend=in4>The floods were sent.
+    <l>The hills are wrapt
+          <l rend=in6>in silence grim,
+    <l>On boundless sea
+          <l rend=in6>waves ever play;
+    <l>The tombs gleam forth
+          <l rend=in6>with sadness dim;
+    <l>O&apos;er all the land
+          <l rend=in6>the foe holds sway.
+</lg>
+
+<lg>
+    <l>Play on, oh sea,
+        <l rend=in4>Hills silent be:
+    <l>Dance, mighty wind,
+        <l rend=in4>O&apos;er all the land.
+    <l>Weep, Cossack youth,
+        <l rend=in4>Your fate withstand.
+</lg>
+
+<lg>
+    <l>Now who shall our adviser be?
+    <l>Then out spake Naleweiko,
+    <l>A Cossack bold was he,
+    <l>After him Paulioha
+    <l>Like falcon swift did flee<corr>.</corr>
+</lg>
+
+<pb id=pb32 n=32 facs="f:032"><lg>
+    <l>Out spake Taras Traselo
+    <l>With bitter words and true,
+    <l>&ldquo;That they trampled on Ukraina
+    <l>For sure the Poles shall rue.&rdquo;
+    <l>Out spake Taras Traselo,
+    <l>Out spake the eagle grey.
+    <l>Rescue for the faith he wrought,
+    <l>Well indeed the Poles he taught.
+    <l>&ldquo;Let&apos;s make an end of our woe.
+    <l>An end come now to your woe,
+    <l>Arise, my gentle comrades, all
+    <l>Upon the Poles with blows we&apos;ll fall.&rdquo;
+</lg>
+
+<lg>
+    <l>Three days of war
+            <l rend=in8>did the land deliver.
+    <l>From the Delta&apos;s shore
+            <l rend=in8>to Trubail&apos;s river.
+    <l>The fields are covered
+            <l rend=in8>with dead, in course,
+    <l>But weary now
+            <l rend=in8>is the Cossack force.
+</lg>
+
+<lg>
+    <l>Now the dirty Polish ruler
+    <l>Was feeling very jolly,
+    <l>Gathered all his lords together,
+    <l>For a time of feast and folly.
+    <l>Taras did his Cossacks gather
+    <l>To have a little talk together.
+</lg>
+
+<lg>
+        <l rend=in4>&ldquo;Captains and comrades,
+    <l>My children and brothers,
+<pb id=pb33 n=33 facs="f:033">    <l>What are we now to do?
+    <l>Our hated foes are feasting,
+    <l>I want advice from you.&rdquo;
+</lg>
+
+<lg>
+    <l>&ldquo;Let them feast away,
+        <l rend=in4>It&apos;s fine for their health.
+</lg>
+
+<lg>
+    <l>When the sun descends,
+    <l>Old night her counsel lends;
+    <l>The Cossacks&apos;ll catch them,
+          <l rend=in6>and all of their wealth.&rdquo;
+</lg>
+
+<lg>
+    <l>The sun reclined beyond the hill
+    <l>The stars shone out in silence still,
+    <l>Around the Poles the Cossack host
+    <l>Was gathering like a cloud;
+    <l>So soon the moon stood in the sky
+    <l>When roared the cannon loud.
+</lg>
+
+<lg>
+    <l>Woke up the Polish lordlings,
+    <l>To run they found no place.
+    <l>Woke up the Polish lordlings,
+    <l>The foe they could not face.
+    <l>The sun beheld the Polish lordlings,
+    <l>In heaps all o&apos;er the place.
+    <l>With red serpent on the water,
+    <l>River Alta brings the word&mdash;
+    <l>That black vultures after slaughter
+    <l>May feast on many a Polish lord.
+</lg>
+
+<lg>
+    <l>And now the vultures hasten
+    <l>The mighty dead to waken<corr>.</corr>
+<pb id=pb34 n=34 facs="f:034">    <l>Together the Cossacks gather
+    <l>Praise to God to offer.
+</lg>
+
+<lg>
+    <l>While black vultures scream,
+    <l>O&apos;er the corpses fight.
+    <l>Then the Cossacks sing
+    <l>A hymn to the night;
+    <l>That night of famous story
+    <l>Full of blood and glory.
+    <l>That night that put the Poles to sleep
+    <l>The while on them their foes did creep.
+</lg>
+
+<lg>
+    <l>Beyond the stream
+            <l rend=in8>in open field
+    <l>A burial mound
+            <l rend=in8>gleams darkly:
+    <l>Where the Cossack blood was shed
+    <l>There grows the grass full greenly.
+</lg>
+
+<lg>
+    <l>On the tomb a raven sits:
+    <l>With hunger sore he&apos;s screaming.
+    <l>Waiting near a Cossack weeps:
+    <l>Of days of old he&apos;s dreaming.&rdquo;
+</lg>
+
+<lg>
+    <l>The Kobzar ceased in sadness
+    <l>His hands would no longer play:
+    <l>Around him youths and maidens
+    <l>Were wiping the tears away.
+    <l>By the path the Kobzar makes his way,
+    <l>To get rid of his grief he starts to play.
+    <l>And now the youngsters are dancing gay,
+    <l>And then he <sic corr=opens>opes</sic> his lips to say:
+</lg>
+
+<pb id=pb35 n=35 facs="f:035"><lg>
+    <l>&ldquo;Skip off, my children,
+    <l>To some nice warm corner,
+    <l>Of griefs enough;
+    <l>I&apos;ll no longer be mourner.
+</lg>
+
+<lg>
+    <l>To the bar I&apos;ll go
+            <l rend=in8>and find my good wife
+    <l>And there we&apos;ll have
+            <l rend=in8>the time of our life.
+    <l>For so we&apos;ll drink away our woes
+    <l>And make no end of fun of our foes.&rdquo;
+</lg></lg>
+
+
+<p><figure id=p035 rend="image(images/p035.png)">
+<figDesc>Magpie.</figDesc>
+</figure>
+
+
+
+
+<pb id=pb36 n=36 facs="f:036">
+<div1 id=forming>
+<head rend="image(images/o103.png)">The Forming of a Life</head>
+
+
+<p><hi>The little Taras was born a serf. His first memories are of a mother&apos;s love, of the kindness of an elder sister, and like a musical undertone to all his life&mdash;the consciousness of the wonderful beauty of Nature.</hi>
+
+<p><hi>But soon another power of hideous aspect laid its grasp on the childish soul. It was the knowledge of slavery, a grim and horrible thing that was slowly but surely grinding out the lives of his parents, and that would surely, later, reach out for his own.</hi>
+
+<p><hi>Yet even the system of serfdom may allow a little happiness to a child, still too young to work.</hi>
+
+<p><hi>The little boy had been told that beyond the distant hills were iron pillars holding up the sky. At five years of age he set out to find these pillars. Some teamsters found him wandering on the steppe and brought him back to his home. But this incident marked the character of the boy as an idealist and a dreamer.</hi>
+
+<pb id=pb37 n=37 facs="f:037"><p><hi>Then there was Grandfather John, the brave old man who, half a century before, had fought in the ranks of the Haidemaki who so nearly broke the Polish power. On a Sunday the wondering family would listen to the mighty voice ringing out in the little home&mdash;telling of ancient battles for freedom.</hi>
+
+<p><hi>When Taras was seven years of age he lost his mother. His father was left with six children, and thought to improve matters by marrying a widow with three. Thereafter the miseries increased for little Taras who was hated by his stepmother.</hi>
+
+<p><hi>The father lived a few years longer, and to him Taras owed the knowledge of reading, for though they were serfs and lived in a wretched hovel, the Shevchenko&apos;s prided themselves on having retained some elements of culture.</hi>
+
+<p><hi>Our little hero, however, had a strange passion for drawing and painting and also for singing, and found some employment among the drunken painters, and church-singers of the village.</hi>
+
+<p><hi>Later his master tried to make him work, but found the lad hopeless for anything but his beloved painting. Finally, he reached Petrograd in the suite of his master&apos;s son, where he was apprenticed to a decorator.</hi>
+
+<pb id=pb38 n=38 facs="f:038"><p><hi>A famous man came upon a ragged boy sitting on a pail, in the Royal Gardens, in the moonlight, drawing a picture of a statue there. This was the beginning of a period of good fortune. The lad was introduced to some of the great men of the capital. His genius was recognized. A famous painter painted a picture that was raffled off for sufficient money to purchase the boy&apos;s freedom, and he was entered as a student in the Academy.</hi>
+
+
+<p><figure id=p038 rend="image(images/p038.png)">
+<figDesc>Old man and boy sitting.</figDesc>
+</figure>
+
+
+
+
+<pb id=pb39 n=39 facs="f:039">
+<div1 id=naimechka>
+<head rend="image(images/o079.png)">Naimechka or The Servant</head>
+
+
+<lg>
+<head>Prologue.</head>
+
+<lg>
+    <l>On a Sunday, very early,
+    <l>When fields were clad with mist
+    <l>A woman&apos;s form was bending
+    <l>&apos;Mid graves by cloud wreaths kissed.
+    <l>Something to her heart she pressed,
+    <l>In accents low the clouds addressed.
+</lg>
+
+<lg>
+    <l>&ldquo;Oh, you mist and raindrops fine,
+    <l>Pity this ragged luck of mine.
+    <l>Hide me here in grassy meadows,
+    <l>Bury me beneath thy shadows.
+    <l>Why must I &apos;mid sorrows stray?
+    <l>Pray take them with my life away.
+    <l>In gloomy death would be relief,
+    <l>Where none might know or see my grief.
+    <l>Yet not alone my life was spent,
+    <l>A father and mother my sin lament.
+    <l>Nor yet alone is my course to run
+    <l>For in my arms is my little son.
+    <l>Shall I, then, give to him christian name,
+    <l>To poverty bind, with his mother&apos;s shame?
+<pb id=pb40 n=40 facs="f:040">    <l>This, brother mist, I shall not do.
+    <l>I alone my fault must rue.
+    <l>Thee, sweet son, shall strangers christen,
+    <l>Thy mother&apos;s eyes with teardrops glisten.
+    <l>Thy very name I may not know
+    <l>As on through life I lonely go.
+    <l>I, by my sin, rich fortune lost,
+    <l>With thee, my son, to ill fate, was tossed.
+    <l>Yet curse me not,
+            <l rend=in8>for evils past.
+    <l>My prayers to heaven
+            <l rend=in8>shall reach at last.
+    <l>The skies above
+            <l rend=in8>to my tears shall bend,
+    <l>Another fortune to thee I&apos;ll send.&rdquo;
+    <l>Through the fields she sobbing went.
+    <l>The gentle mist
+            <l rend=in8>its shelter lent.
+    <l>Her tears were falling
+            <l rend=in8>the path along,
+    <l>As she softly sang
+            <l rend=in8>the widows song:
+</lg>
+
+<lg>
+    <l>&ldquo;Oh, in the field there is a grave
+    <l>Where the shining grasses wave;
+    <l>There the widow walked apart,
+    <l>Bitter sorrow in her heart.
+    <l>Poison herbs in vain she sought,
+    <l>Whereby evil spells are wrought.
+    <l>Two little sons
+            <l rend=in8>in arms she bore
+<pb id=pb41 n=41 facs="f:041">    <l>Wrapped around in
+            <l rend=in8>dress she wore;
+    <l>Her children to the river carried,
+    <l>In converse with the water tarried;
+    <l>&lsquo;Oh, river Dunai, gentle river,
+    <l>I my sons to thee deliver,
+    <l>Thou&apos;lt swaddle them
+            <l rend=in8>and wrap them,
+    <l>Thy little waves
+            <l rend=in8>will lap them,
+    <l>Thy yellow sands
+            <l rend=in8>will cherish them,
+    <l>Thy flowing waters
+            <l rend=in8>nourish them.&rsquo;
+</lg></lg>
+
+<p><figure id=o041 rend="image(images/o041.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+<pb id=pb42 n=42 facs="f:042">
+
+<lg>
+<head>I.</head>
+
+<lg>
+    <l>All by themselves lived
+                <l rend=in12>an old couple fond
+    <l>In a nice little grove
+            <l rend=in8>just by a millpond.
+    <l>Like birds of a feather
+    <l>Just always together,
+    <l>From childhood the two of them
+            <l rend=in8>fed sheep together,
+    <l>Got married, got wealthy,
+            <l rend=in8>got houses and lands,
+    <l>Got a beautiful garden
+            <l rend=in8>just where the mill stands,
+    <l>An apiary full
+            <l rend=in8>of <corr sic=behives>beehives</corr> like boulders.
+    <l>Yet no children were theirs,
+            <l rend=in8>and death at their shoulders.
+    <l>Who will cheer their passing years?
+    <l>Who will soothe their mortal fears?
+    <l>Who will guard their gathered treasure.
+    <l>In loyal service find his pleasure?
+    <l>Who will be their faithful son
+    <l>When low their sands of life do run?
+</lg>
+
+<lg>
+    <l>Hard it is a child to rear,
+    <l>In roofless house &apos;mid want and fear.
+    <l>Yet just as hard &apos;mid gathered wealth,
+    <l>When death creeps on with crafty stealth,
+    <l>And one&apos;s treasures good
+          <l rend=in6>At end of life&apos;s wandering,
+    <l>Are for strangers rude
+          <l rend=in6>For mocking and squandering.
+</lg></lg>
+
+<pb id=pb44 n=44 facs="f:044">
+
+<p><figure id=p044>
+<figDesc>Rustic house with pond in front.</figDesc>
+</figure>
+
+<pb id=pb43 n=43 facs="f:043">
+
+<lg>
+<head>II.</head>
+
+<lg>
+    <l>One fine Sunday,
+            <l rend=in8>in the bright sunlight,
+    <l>All dressed up
+            <l rend=in8>in blouses white,
+    <l>The old folks sat
+            <l rend=in8>on the bench by the door;
+    <l>No cloud in sky,
+            <l rend=in8>What could they ask more?
+    <l>All peace and love
+            <l rend=in8>it seemed like Eden.
+    <l>Yet angels above
+            <l rend=in8>their hearts might read in,
+    <l>A hidden sorrow,
+            <l rend=in8>a gloomy mood
+    <l>Like lurking beast
+            <l rend=in8>in darksome wood.
+    <l>In such a heaven
+            <l rend=in8>Oh, do you see
+    <l>Whatever could
+            <l rend=in8>the trouble be?
+    <l>I wonder now
+            <l rend=in8>what ancient sorrow
+    <l>Suddenly sprang
+            <l rend=in8>into their morrow.
+    <l>Was it quarrel
+            <l rend=in8>of yesterday
+    <l>Choked off, then
+            <l rend=in8>revived today,
+    <l>Or yet some newly sprouted ire
+    <l>Arisen to set their heaven on fire?
+</lg>
+
+<pb id=pb45 n=45 facs="f:045"><lg>
+    <l>Perchance they&apos;re called to go to God,
+    <l>Nor longer dwell on earth&apos;s green sod.
+    <l>Then who for them on that far way
+    <l>Horses and chariot shall array?
+</lg>
+
+<lg>
+    <l>&ldquo;Anastasia, wife of mine,
+    <l>Soon will come our fatal day,
+    <l>Who will lay our bones away?&rdquo;
+</lg>
+
+<lg>
+            <l rend=in8>&ldquo;God only knows.
+    <l>With me always was that thought
+    <l>Which gloom into my heart has brought.
+    <l>Together in years and failing health,
+    <l>For what have we gathered
+            <l rend=in8>all this wealth?&rdquo;
+</lg>
+
+<lg>
+            <l rend=in8>&ldquo;Hold a minute,
+    <l>Hearest thou? Something cries
+    <l>Beyond the gate&mdash;&apos;tis like a child.
+    <l>Let&apos;s run! See&apos;st ought?
+    <l>I thought something was there.&rdquo;
+    <l>Together they sprang
+    <l>And to the gate running;
+    <l>Then stopped in silence wondering.
+</lg>
+
+<lg>
+    <l>Before the stile
+                <l rend=in12>a swaddled child,
+    <l>Not bound tightly,
+                <l rend=in12>just wrapped lightly,
+    <l>For it was
+                <l rend=in12>in summer mild,
+<pb id=pb46 n=46 facs="f:046">    <l>And the mother
+                <l rend=in12>with fond caress
+    <l>Had covered it
+                <l rend=in12>with her own last dress<corr>.</corr>
+    <l>In wondering prayer
+                <l rend=in12>stood our fond old pair.
+    <l>The little thing
+                <l rend=in12>just seemed to plead.
+    <l>In little arms
+                <l rend=in12>stretched out you&apos;ld read
+    <l>Its prayer,&mdash;
+                <l rend=in12>in silence all.
+    <l>No crying&mdash;just a little breath its call.
+            <l rend=in8>&ldquo;See, &apos;Stasia!
+    <l>What did I tell thee?
+    <l>Here is fortune and fate for us;
+    <l>No longer dwell we in loneliness.
+    <l>Take it
+                <l rend=in12>and dress it.
+    <l>Look at it!
+                <l rend=in12>Bless it!
+    <l>Quick, bear it inside,
+    <l>To the village I&apos;ll ride.
+    <l>Its ours to baptize,
+    <l>God-parents we need for our prize.&rdquo;
+        <l rend=in4>In this world
+                    <l rend=in16>things strangely run.
+        <l rend=in4>There&apos;s a fellow
+                    <l rend=in16>that curses his son,
+        <l rend=in4>Chases him away from home,
+        <l rend=in4>Into lonely lands to roam,
+<pb id=pb47 n=47 facs="f:047">    <l>While other poor creatures,
+    <l>With sorrowful features,
+    <l>With sweat of their toiling
+    <l>Must much money earn;
+    <l>The wage of their moiling
+    <l>Candles to burn.
+    <l>Prayers to repeat,
+    <l>The saints to entreat;
+    <l>For children are none.
+    <l>This world is no fun
+    <l>The way things run.
+</lg></lg>
+
+
+<p><figure id=p047>
+<figDesc>Tree and leaves.</figDesc>
+</figure>
+
+
+<pb id=pb48 n=48 facs="f:048">
+
+
+<lg><lg>
+<head>III.</head>
+
+    <l>Their joys do now such numbers reach
+    <l>God fathers and mothers
+    <l>&apos;Mid lots of others
+    <l>Behold they have gathered
+    <l>Three pairs of each.
+    <l>At even they christen him,
+    <l>And Mark is the name of him.
+</lg>
+
+<lg>
+        <l rend=in4>So Mark grows,
+        <l rend=in4>And so it goes.
+</lg>
+
+<lg>
+    <l>For the dear old folk it is no joke,
+    <l>For they don&apos;t know where to go,
+    <l>Where to set him, when to pet him.
+    <l>But the year goes and still Mark grows.
+    <l>Yet they care for him, you&apos;d scarce tell how,
+    <l>Just as he were a good milk-cow.
+</lg>
+
+<lg>
+    <l>And now a woman young and bright,
+    <l>With eyebrows dark and skin so white,
+    <l>Comes into this blessed place,
+    <l>For servant&apos;s task she asks with grace.
+</lg>
+
+<lg>
+    <l>&ldquo;What, what&mdash;
+            <l rend=in8>say we&apos;ll take her &apos;Stasia.&rdquo;
+</lg>
+
+<lg>
+    <l>&ldquo;We&apos;ll take her, Trophimus.
+    <l>We are old and little wearies us;
+<pb id=pb49 n=49 facs="f:049">    <l>He&apos;s almost grown within a year,
+    <l>But yet he&apos;ll need more care, I fear.&rdquo;
+</lg>
+
+<lg>
+    <l>&ldquo;Truly he&apos;ll need care,
+    <l>And now, praise God, I&apos;ve done my share.
+    <l>My knees are failing, so now
+    <l>You poor thing, tell us your wage,
+    <l>It is by the year or how?&rdquo;
+</lg>
+
+<lg>
+    <l>&ldquo;What ever you like to give.&rdquo;
+</lg>
+
+<lg>
+    <l>&ldquo;No, no, it&apos;s needful to know,
+    <l>It&apos;s needful, my daughter,
+              <l rend=in10>to count one&apos;s wage.
+    <l>This you must learn, count what you earn.
+    <l>This is the proverb&mdash;
+    <l>Who counts not his money
+    <l>Hasn&apos;t got any.
+    <l>But, child, how will this do?
+    <l>You don&apos;t know us,
+              <l rend=in10>We don&apos;t know you.
+    <l>You&apos;ll stay with us a few days,
+    <l>Get acquainted with our ways;
+    <l>We&apos;ll see you day by day,
+    <l>Bye and bye we&apos;ll talk of pay.
+    <l>Is it so, daughter?&rdquo;
+</lg>
+
+<lg>
+    <l>&ldquo;Very good, uncle.&rdquo;
+</lg>
+
+<lg>
+    <l>&ldquo;We invite you into the house.&rdquo;
+</lg>
+
+<lg>
+    <l>And so they to agreement came.
+    <l>The young woman seemed always the same,
+<pb id=pb50 n=50 facs="f:050">    <l>Cheerful and happy as she&apos;d married a lord
+    <l>Who&apos;d buy up villages just at her word.
+    <l>She in the house and out doth work
+    <l>From morning light to evening&apos;s mirk.
+</lg>
+
+<lg>
+    <l>And yet the child is her special care;
+    <l>Whatever befalls, she&apos;s the mother there.
+    <l>Nor Monday nor Sunday this mother misses
+    <l>To give its bath and its white dresses.
+    <l>She plays and sings, makes <corr sic=waggons>wagons</corr> and things,
+    <l>And on a holiday, plays with it all the day.
+</lg>
+
+<lg>
+    <l>Wondering, the old folks gaze,
+    <l>But to God they give the praise.
+</lg>
+
+<lg>
+    <l>So the servant never rests,
+    <l>But the night her spirit tests.
+    <l>In her chamber then, I ween,
+    <l>Many a tear she sheds unseen.
+    <l>Yet none knows nor sees it all
+    <l>But the little Mark so small.
+</lg>
+
+<lg>
+    <l>Nor knows he why in hours of night
+    <l>His tossings break her slumbers light.
+    <l>So from her couch she quickly leaps,
+    <l>The coverings o&apos;er his limbs she keeps.
+    <l>With sign of cross the child she blesses,
+    <l>Her gentle care her love confesses.
+</lg>
+
+<pb id=pb51 n=51 facs="f:051"><lg>
+    <l>Each morning Mark spreads out his hands
+    <l>To the Servant as she stands;
+    <l>Accepts, unknowing, a mother&apos;s care.
+    <l>Only to grow is his affair.
+</lg></lg>
+
+<p><figure id=o051 rend="image(images/o051.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+<p><figure id=p051>
+<figDesc>Gate flanked by two small towers.</figDesc>
+</figure>
+
+
+<pb id=pb52 n=52 facs="f:052">
+
+
+<lg><lg>
+<head>IV.</head>
+
+    <l>Meantime many a year has rolled,
+    <l>Many waters to the sea have flowed,
+    <l>Trouble to the home has come,
+    <l>Many a tear down the cheek has run.
+    <l>Poor old &apos;Stasia in earth they laid.
+    <l>Hardly old Trophim&apos; from death they saved.
+    <l>The cursed trouble roared so loud,
+    <l>And then it went to sleep, I trow.
+    <l>From the dark woods where she frightened lay
+    <l>Peace came back in the home to stay.
+</lg>
+
+<lg>
+        <l rend=in4>The little Mark is farmer now.
+        <l rend=in4>With ox-teams great in the fall must go
+        <l rend=in4>To far Crimea to barter there
+        <l rend=in4>Skins for salt and goods more rare.
+</lg>
+
+<lg>
+        <l rend=in4>The Servant and Trophimus
+                <l rend=in12>in counsel wise
+        <l rend=in4>Plans for his marriage
+                <l rend=in12>now devise.
+</lg>
+
+<lg>
+        <l rend=in4>Dared she her thoughts utter
+        <l rend=in4>For the Czar&apos;s daughter
+        <l rend=in4>She&apos;d send in a trice.
+        <l rend=in4>But the most she could say
+        <l rend=in4>While thinking this way
+        <l rend=in4>Was, &ldquo;Ask Mark&apos;s advice.&rdquo;
+</lg>
+
+<lg>
+        <l rend=in4>&ldquo;My daughter, we&apos;ll ask him,
+        <l rend=in4>And then we&apos;ll affiance him.&rdquo;
+    <pb id=pb53 n=53 facs="f:053">    <l rend=in4>So they gave him sage advice,
+        <l rend=in4>And they made decision nice.
+</lg>
+
+<lg>
+    <l>Soon his grave friends about him stand.
+    <l>He sends them to woo, a stately band.
+    <l>Back they come with towels on shoulder
+    <l>Ere the day is many hours older.
+    <l>The sacred bread they have exchanged,
+    <l>The bargain now is all arranged.
+    <l>They&apos;ve found a maiden in noble dress,
+    <l>A princess true, you well may guess.
+    <l>Such a queen is in this affiance
+    <l>As with a general might make alliance.
+    <l>&ldquo;Hail, and well done,&rdquo; the old man says,
+    <l>And now let&apos;s have no more delays.
+    <l>When the marriage, where the priest,
+    <l>What about the wedding feast?
+    <l>Who shall take the mother&apos;s place?
+    <l>How we&apos;ll miss my &apos;Stasia&apos;s face.&rdquo;
+    <l>The tears along his cheeks do fall,
+    <l>Yet a word does the Servant&apos;s heart appall<corr>.</corr>
+</lg>
+
+<lg>
+    <l>Hastily rushing from the room,
+    <l>In chamber near she falls in swoon.
+    <l>The house is silent, the light is dim,
+    <l>The sorrowing Servant thinks of him
+    <l>And whispers: &ldquo;Mother, mother, mother.&rdquo;
+</lg></lg>
+
+
+<p><figure id=p053 rend="image(images/p008.png)">
+<figDesc>Cither</figDesc>
+</figure>
+
+
+
+<pb id=pb54 n=54 facs="f:054">
+
+<lg><lg>
+<head>V.</head>
+
+    <l>All the week at the wedding cake
+    <l>Young women in crowds both mix and bake.
+    <l>The old man is in wondrous glee,
+    <l>With all the young women dances he.
+    <l>At sweeping the yard
+    <l>He labors hard.
+    <l>All passers-by on foot and horseback
+    <l>He hales to the court where is no lack
+    <l>Of good home-brew.
+    <l>All comers he asks to the marriage
+    <l>And yet &apos;tis true
+    <l>He runs around so
+    <l>You&apos;d not guess from his carriage
+    <l>Though his joy is such a wonderful gift,
+    <l>His old legs are &apos;most too heavy to lift.
+</lg>
+
+<lg>
+    <l>Everywhere is disorder and laughter
+    <l>Within the house and in the yard.
+    <l>From store-room keg upon keg follows after,
+    <l>Workers&apos; voices everywhere heard.
+    <l>They bake, they boil,
+    <l>At sweeping toil,
+    <l>Tables and floors they wash them all.
+</lg>
+
+<lg>
+    <l>And where is the Servant
+            <l rend=in8>who cares not for wage?
+    <l>To Kiev she is gone
+            <l rend=in8>on pilgrimage.
+</lg>
+
+<pb id=pb55 n=55 facs="f:055"><lg>
+    <l>Yes, Anna went. The old man pled,
+    <l>Mark almost wept for her to stay,
+    <l>As mother sit, to see him wed.
+    <l>Her call of duty elsewhere lay.
+</lg>
+
+<lg>
+    <l>&ldquo;No, Mark, such honor must I not take
+    <l>To sit while you your homage make
+    <l>To parents dear.
+    <l>My mind is clear.
+    <l>A servant must not thy mother be
+    <l>Lest wealthy guests may laugh at thee.
+    <l>Now may God&apos;s mercy with thee stay,
+    <l>To the saints at Kiev I go to pray.
+    <l>But yet again shall I return
+    <l>Unto your house, if you do not spurn
+    <l>My strength and toil.&rdquo;
+</lg>
+
+<lg>
+    <l>With pure heart
+            <l rend=in8>she blessed her Mark
+    <l>And weeping, passed
+            <l rend=in8>beyond the gate.
+</lg>
+
+<lg>
+    <l>Then the wedding blossomed out;
+    <l>Work for musicians and the joyous rout
+    <l>Of dancing feet;
+    <l>While mead so sweet
+    <l>Of fermented honey with spices dashed
+    <l>Over the benches and tables splashed,
+    <l>Meanwhile the Servant limps along
+    <l>Hastening on the weary road to Kiev.
+    <l>To the city come, she does not rest,
+<pb id=pb56 n=56 facs="f:056">    <l>Hires to a woman of the town;
+    <l>For wages carries water.
+    <l>You see she money, money needs
+    <l>For prayers to Holy Barbara.
+    <l>She water carries, never tarries,
+    <l>And mighty store of pennies saves,
+    <l>Then in the Lavra&apos;s awesome caves
+    <l>She seeks the blessed wealth she craves.
+</lg>
+
+<lg>
+    <l>From St. John she buys a magic cap,
+    <l>For Mark she bears it;
+    <l>And when he wears it,
+    <l>For never a headache need he give e&apos;er a rap.
+    <l>And then St. Barbara gives her a ring,
+    <l>To her new daughter back to bring.
+</lg>
+
+<lg>
+    <l>&apos;Fore all the saints
+              <l rend=in10>she makes prostrations,
+    <l>Then home returns
+              <l rend=in10>having paid her oblations.
+</lg>
+
+<lg>
+    <l>She has come back.
+    <l>Fair Kate with Mark makes haste to meet her,
+    <l>Far beyond the gate they greet her,
+    <l>Then into the house they bring her,
+    <l>Draw her to the table there
+    <l>Quickly spread with choicest fare.
+    <l>Her news of Kiev they now request,
+    <l>While Kate arranges her couch for rest.
+</lg>
+
+
+<pb id=pb57 n=57 facs="f:057"><lg>
+            <l rend=in8>&ldquo;Why do they love me,
+        <l rend=in4>Why this respect?
+            <l rend=in8>Dear God above me,
+        <l rend=in4>Do they suspect?
+            <l rend=in8>Nay, that&apos;s not so,
+            <l rend=in8>&apos;Tis just goodness, I know.&rdquo;
+</lg>
+
+<lg>
+    <l>And still the Servant her secret kept,
+    <l>Yet from the hurt of her penance wept.
+</lg></lg>
+
+
+<p><figure id=p057>
+<figDesc>Three men with large rakes.</figDesc>
+</figure>
+
+
+<pb id=pb58 n=58 facs="f:058">
+
+
+<lg><lg>
+<head>VI.</head>
+
+    <l>Three times have the waters frozen
+    <l>Thrice thawed at the touch of spring
+    <l>Three times did the Servant
+    <l>From Kiev her store of blessings bring.
+    <l>And each time gentle Katherine,
+    <l>As daughter, set her on her way,
+    <l>A fourth time led her by the mounds
+    <l>Where many dear departed lay.
+    <l>Then prayed to God for her safe return<corr>,</corr>
+    <l>For whom in absence her heart would yearn.
+</lg>
+
+<lg>
+    <l>It was the Sunday of the Virgin,
+    <l>Old Trophimus sat in garments white,
+    <l>On the bench, in wide straw hat,
+    <l>All amid the sunshine bright.
+    <l>Before him with a little dog
+    <l>His frolicsome grandson played,
+    <l>The while his little granddaughter
+    <l>Was in her mother&apos;s garb arrayed.
+    <l>Smiling he welcomed her as matron;
+    <l>For so at &ldquo;visitors&rdquo; they played.
+</lg>
+
+<lg>
+    <l>&ldquo;But what did you do with the visitor&apos;s cake?
+    <l>Did somebody steal it in the wood,
+    <l>Or perhaps you&apos;ve simply forgotten to bake?&rdquo;
+    <l>For so they talked in lightsome mood.
+</lg>
+
+<pb id=pb59 n=59 facs="f:059"><lg>
+    <l>But see,&mdash;Who comes?
+    <l>&apos;Tis their Anna at the door!
+    <l>Run old and young! Who&apos;ll come before?
+    <l>But Anna waits not their welcome wordy.
+</lg>
+
+<lg>
+    <l>&ldquo;Is Mark at home, or still on journey?&rdquo;
+</lg>
+
+<lg>
+    <l>&ldquo;He&apos;s off on journey long enough,&rdquo;
+    <l>Says the old man in accents gruff.
+</lg>
+
+<lg>
+    <l>With pain the Servant sadly saith,
+    <l>&ldquo;Home have I come with failing breath;
+    <l>Nor &apos;mid strangers would I wait for death<corr sic=",">.</corr>
+    <l>May I but live my Mark to see,
+    <l>For something grievously weighs on me.&rdquo;
+</lg>
+
+<lg>
+    <l>From little bag the children&apos;s gifts
+    <l>She takes. There&apos;s crosses and amulets.
+    <l>For Irene is of beads a string,
+    <l>And pictures too, and for Karpon
+    <l>A nightingale to sweetly sing,
+    <l>Toy horses and a wagon.
+    <l>A fourth time she brings a ring
+    <l>From St. Barbara to Katherine.
+    <l>Next the old man&apos;s gift she handles,
+    <l>It&apos;s just three holy waxen candles.
+</lg>
+
+<lg>
+    <l>For Mark and herself
+            <l rend=in8>she nothing brought;
+    <l>For want of money
+            <l rend=in8>she nothing bought.
+</lg>
+
+<pb id=pb60 n=60 facs="f:060"><lg>
+    <l>For want of strength
+            <l rend=in8>more funds to earn,
+    <l>Half a bun was her wealth
+            <l rend=in8>on her return.
+    <l>As to how to divide it
+    <l>Let the babes decide it.
+</lg></lg>
+
+
+<p><figure id=p060 rend="image(images/p060.png)">
+<figDesc>Children playing.</figDesc>
+</figure>
+
+
+<pb id=pb61 n=61 facs="f:061">
+
+<lg><lg>
+<head>VII.</head>
+
+    <l>She enters now the house so sweet,
+    <l>And daughter Katherine bathes her feet<corr>.</corr>
+    <l>Then sets her down to dine in state,
+    <l>But my Anna nor drank nor ate.
+</lg>
+
+<lg>
+            <l rend=in8>&ldquo;Katherine!
+    <l>When is our Sunday?&rdquo;
+</lg>
+
+<lg>
+            <l rend=in8>&ldquo;After tomorrow&apos;s the day.&rdquo;
+    <l>&ldquo;Prayers for the dead soon will we need
+    <l>Such as St. Nicholas may heed.
+    <l>Then we must an offering pay,
+    <l>For Mark tarries on the way.
+    <l>Perchance somewhere,
+            <l rend=in8>from our vision hid,
+    <l>Sickness has ta&apos;en him
+            <l rend=in8>which God forbid.&rdquo;
+    <l>The tears dropped down
+            <l rend=in8>from the sad old eyes,
+    <l>So wearily did she
+            <l rend=in8>from the table rise.
+</lg>
+
+<lg>
+            <l rend=in8>&ldquo;<corr sic=Katherina>Katherine</corr>,
+    <l>My race is run,
+    <l>All my earthly tasks are done.
+    <l>My powers no longer I command
+    <l>Nor on my feet have strength to stand.
+    <l>And yet, my Kate, how can I die
+    <l>While in this dear warm home I lie?&rdquo;
+</lg>
+
+<pb id=pb62 n=62 facs="f:062"><lg>
+    <l>The sickness harder grows amain,
+    <l>For her the sacred host&apos;s appointed,
+    <l>She&apos;s been with holy oils anointed,
+    <l>Yet nought relieves her pain.
+    <l>Old Trophim&apos; in courtyard walks a-ring
+    <l>Moving like a stricken thing.
+    <l>Katherine, for the suff&apos;rers sake
+    <l>Doth never rest for her eyelids take.
+    <l>And even the owls upon the roof
+    <l>Of coming evil tell the proof.
+</lg>
+
+<lg>
+    <l>The suff&apos;rer now, each day, each hour,
+    <l>Whispers the question, with waning power
+    <l>&ldquo;Daughter Katherine, is Mark yet here?
+    <l>So struggle I with doubt and fear,
+    <l>Did I but know I&apos;d see him for sure
+    <l>Through all my pain I might endure.&rdquo;
+</lg></lg>
+
+
+<p><figure id=p062 rend="image(images/p062.png)">
+<figDesc>Cossacks dancing in village.</figDesc>
+</figure>
+
+
+<pb id=pb63 n=63 facs="f:063">
+<lg><lg>
+<head>VIII.</head>
+
+    <l>Now Mark comes on with the caravan
+    <l>Singing blithely as he can.
+    <l>To the inns he makes no speed,
+    <l>Quietly lets the oxen feed.
+    <l>Mark brings home for Katherine
+    <l>Precious cloth of substance rich;
+    <l>For father dear, a girdle sewn
+    <l>Of silk so red.
+    <l>For Servant Anne
+            <l rend=in8>a gold cloth bonnet
+    <l>To deck her head,
+            <l rend=in8>And kerchief, too
+            <l rend=in8>with white lace on it.
+    <l>For the children are shoes
+            <l rend=in8>with figs and grapes.
+    <l>There&apos;s gifts for all,
+            <l rend=in8>there&apos;s none escapes.
+    <l>For all he brings
+            <l rend=in8>red wine, so fine,
+    <l>From great old city
+            <l rend=in8>of Constantine.
+    <l>There&apos;s buckets three
+            <l rend=in8>in each barrel put on.
+    <l>And caviar
+            <l rend=in8>from the river Don.
+    <l>Such gifts he has
+            <l rend=in8>in his wagon there,
+    <l>Nor knows the sorrow
+            <l rend=in8>his loved ones bear.
+    <pb id=pb64 n=64 facs="f:064"><l>On comes Mark,
+            <l rend=in8>knows not of worry;
+    <l>But he&apos;s come
+            <l rend=in8>Give God the glory!
+    <l>The gate he opens,
+            <l rend=in8>Praising God.
+</lg>
+
+<lg>
+    <l>&ldquo;Hear&apos;st thou, Katherine?
+    <l>Run to meet him!
+    <l>Already he&apos;s come,
+    <l>Haste to greet him!
+    <l>Quickly bring him in to me.
+    <l>Glory to Thee, my Saviour dear,
+    <l>All the strength has come from Thee.&rdquo;
+</lg>
+
+<lg>
+    <l>And she &ldquo;Our Father&rdquo; softly said
+    <l>Just as if in dream she read.
+    <l>The old man the team unyokes,
+    <l>Lays away the carven yokes.
+    <l>Kate at her husband strangely looks.
+</lg>
+
+<lg>
+    <l>&ldquo;Where&apos;s Anna, Katherine?
+    <l>I&apos;ve been careless!
+    <l>She&apos;s not dead?&rdquo;
+</lg>
+
+<lg>
+            <l rend=in8>&ldquo;No, not dead,
+    <l>But very sick and calls for thee.&rdquo;
+</lg>
+
+<lg>
+    <l>On the threshold Mark appears,
+    <l>Standing there as torn by fears.
+    <l>But Anna whispers, &ldquo;Be not afraid,
+    <l>Glory to God, Who my fears allayed.
+</lg>
+
+<pb id=pb65 n=65 facs="f:065"><lg>
+    <l>Go forth, Katherine,
+            <l rend=in8>though I love you well,
+    <l>I&apos;ve something to ask him,
+            <l rend=in8>something to tell.&rdquo;
+</lg>
+
+<lg>
+    <l>From the place
+            <l rend=in8>fair Katherine went;
+    <l>While Mark his head
+            <l rend=in8>o&apos;er the Servant bent.
+    <l>&ldquo;Mark, look at me,
+    <l>Look at me well!
+    <l>A secret now I have to tell.
+    <l>On this faded form
+            <l rend=in8>set no longer store,
+    <l>No servant, I, nor Anna more,
+    <l>I am&mdash;&mdash;&rdquo;
+            <l rend=in8>Came silence dumb,
+    <l>Nor yet guessed Mark
+            <l rend=in8>What was to come.
+</lg>
+
+<lg>
+    <l>Yet once again her eyelids raised
+    <l>Into his eyes she deeply gazed
+    <l>&apos;Mid gathering tears.
+</lg>
+
+<lg>
+    <l>&ldquo;I from thee forgiveness pray;
+    <l>I&apos;ve penance offered day by day
+    <l>All my life to serve another.
+    <l>Forgive me, son, of me,
+    <l>For I&mdash;am thy mother.&rdquo;
+</lg>
+
+<pb id=pb66 n=66 facs="f:066"><lg>
+    <l>She ceased to speak.
+    <l>A sudden faintness
+            <l rend=in8>Mark did take:
+    <l>It seemed the earth
+            <l rend=in8>itself did shake.
+    <l>He roused&mdash;
+            <l rend=in8>and to his mother crept,
+    <l>But the mother
+            <l rend=in8>forever slept.
+</lg></lg>
+
+
+
+
+<p><figure id=p066 rend="image(images/p066.png)">
+<figDesc>Person kneeling in near bullock cart.</figDesc>
+</figure>
+
+
+
+<pb id=pb67 n=67 facs="f:067">
+<div1 id=legacy>
+<head rend="image(images/o067.png)">A Father&apos;s Legacy</head>
+
+
+<p><hi>When Gregory Shevchenko&mdash;for this was the father&apos;s name&mdash;was on his deathbed, he called his family around him and gave his parting bequests. A serf might not, indeed, sell any of his household goods without permission of his landlord, but he could give them to his relatives who, of course, were the property of the same landlord. So Gregory Shevchenko distributed his pitiful treasures to the children and to his wife,&mdash;saying finally&mdash;</hi>
+
+<p><hi>&ldquo;To my son, Taras, I give nothing. He will be no common man. Either he will be something very good or else a great rascal. For him the patrimony will either mean nothing, or will not help any.&rdquo;</hi>
+
+
+<p><figure id=p067 rend="image(images/p067.png)">
+<figDesc>House with well.</figDesc>
+</figure>
+
+
+
+<pb id=pb68 n=68 facs="f:068">
+<div1 id=caucasus>
+<head rend="image(images/o068-1.jpg)">Caucasus</head>
+
+
+<p><hi>To Jacques de Balmont&mdash;French friend of the Ukrainians who perished in the Circassian war.</hi>
+
+<p><hi>The Czars used the Ukrainians as tools in their ambitious projects. A hundred thousand of them perished in the marshes, digging the foundations of Petrograd. As many more died in the attempt to subdue the Circassians&mdash;tribes inhabiting the Caucasus mountains&mdash;to the imperial will of the Russian autocrat.</hi>
+
+<p><hi>The memory of these sufferings was the inspiration of this bitter poem.</hi>
+
+<p><hi>The text is taken from the prophecy of Jeremiah, Chapter 9, verse 1.</hi>
+
+<p><hi>&ldquo;Oh, that my head were waters, and mine eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people.&rdquo;</hi>
+
+
+<p><figure id=o068-2>
+<figDesc>Ornament: decorated egg pointing right.</figDesc>
+</figure>
+
+
+
+<pb id=pb69 n=69 facs="f:069">
+
+
+<lg><lg>
+    <l>Beyond the hills are mightier hills,
+    <l>Cloud mountains o&apos;er them rise,
+    <l>Red, red have flowed their streams and rills,
+    <l>They&apos;re sown with human woes and sighs.
+</lg>
+
+<lg>
+    <l>There long ago in days of old
+    <l>Olympus&apos; Czar, the angry Jove,
+    <l>His wrath did pour on a hero bold,
+    <l>On brave Prometheus, he who strove
+    <l>The fire of heaven to seize for men.
+</lg>
+
+<lg>
+    <l>On mountain side, in vulture&apos;s den
+    <l>He suffered what no mortal pen
+    <l>May well indite. The savage beak
+    <l>Of his hearts&apos; blood doth daily reek.
+    <l>Yet the torn heart again revives,
+    <l>To triumph o&apos;er its tortures strives.
+</lg>
+
+<lg>
+    <l>Our souls yield not to grievous ills,
+    <l>To freedom march our stubborn wills.
+    <l>Though waves of trouble o&apos;er us roll
+    <l>The waves move not the steadfast soul.
+    <l>Our living spirit is not in chains,
+    <l>The word of God in glory reigns.
+</lg>
+
+<lg>
+    <l>&apos;Tis not for us to challenge Thee,
+    <l>Though life rolls on in toil and tears;
+    <l>Though we Thy purpose cannot see
+    <l>We cling to hope &apos;mid doubts and fears.
+    <l>Our cause lies sunk in drunken sleep
+    <l>When will it awaken<corr sic=.>,</corr> Lord?
+<pb id=pb70 n=70 facs="f:070">    <l>Oppressors gloat and patriots weep,
+    <l>When wilt strength to us afford?
+</lg>
+
+<lg>
+    <l>So weary, then art Thou, Oh God,
+    <l>Can&apos;st life to us no longer give?
+    <l>Thy Truth we trust beneath the rod,
+    <l>Believing in Thy strength we live.
+    <l>Our cause shall rise,
+    <l>Our freedom rise
+    <l>Though tyrants rage:
+    <l>To Thee alone,
+    <l>All nations bow
+    <l>Through age on age
+    <l>And yet meantime
+            <l rend=in8>the streams do flow
+    <l>And ever tinged with blood
+            <l rend=in8>they go.
+</lg>
+
+<lg>
+    <l>Beyond the hills are mightier hills,
+    <l>Cloud mountains o&apos;er them rise.
+    <l>Red, red have flowed their streams and rills,
+    <l>They&apos;re sown with human woes and sighs.
+</lg>
+
+<lg>
+    <l>Look at us in tender heartedness,
+    <l>All in hunger dire and nakedness,
+    <l>Forging freedom in unhappiness,
+    <l>Toiling ever without blessedness.
+</lg>
+
+<lg>
+    <l>The bones of soldiers bleaching lie,
+    <l>In blood and tears must many die.
+</lg>
+
+<pb id=pb71 n=71 facs="f:071"><lg>
+    <l>In faith, there&apos;s widows&apos; tears, I think,
+    <l>To all the Czars to give to drink.
+    <l>Then there&apos;s tears of many a maiden
+    <l>Falling so soft in the lonely night.
+    <l>Hot tears of mothers, sorrow-laden,
+    <l>Dry tears of fathers, in grievous plight.
+    <l>Not rivers, but a sea has flowed,
+    <l>A burning sea.
+    <l>To all the Czars who in triumph rode,
+    <l>With their hounds and gamekeepers,
+    <l>Their dogs and their beaters,
+    <l>May glory be!
+</lg>
+
+<lg>
+    <l>To you be glory, hills of blue,
+    <l>All clad in monstrous chains of frost.
+    <l>Glory to you, ye heroes true,
+    <l>With God your labors are not lost.
+    <l>Fear not to fight, you&apos;ll win at length,
+    <l>For you, God&apos;s ruth,
+    <l>For you is freedom, for you is strength,
+    <l>And Holy Truth.
+</lg></lg>
+
+
+
+<p><figure id=p071 rend="image(images/p071.png)">
+<figDesc>Woman carrying yoke with two buckets on shoulder.</figDesc>
+</figure>
+
+
+
+<pb id=pb72 n=72 facs="f:072">
+<div1 id=circassians>
+<head>TO THE CIRCASSIANS</head>
+
+
+<lg><lg>
+    <l>&ldquo;Our bread and home,&rdquo; in your own tongue,
+    <l>In Tartar words you dare to say.
+    <l>Nobody gave it you, your world is young,
+    <l>So far no one has ta&apos;en it away.
+    <l>Nobody yet has led you in fetters,
+    <l>But we have wisdom in such matters.
+</lg>
+
+<lg>
+    <l>In God&apos;s good word we daily read,
+    <l>But from dungeons where the pris&apos;ners moan,
+    <l>To Caesar&apos;s high-exalted throne
+    <l>&apos;Tis gilt without, while the soul&apos;s in need.
+</lg>
+
+<lg>
+    <l>To us for wisdom should you come,
+    <l>We&apos;ll teach you all the tricks of trade.
+    <l>Good Christians we, with church and Ikon;
+    <l>All goods, even God, our own we&apos;ve made.
+</lg>
+
+<lg>
+    <l>But that house of yours
+            <l rend=in8>Still hurts our eyes;
+    <l>If we didn&apos;t give it,
+            <l rend=in8>Why should you have it?
+    <l>These ways of yours
+            <l rend=in8>cause much surprise.
+    <l>We never granted
+            <l rend=in8>The corn you planted.
+    <l>The sunlight, you
+            <l rend=in8>Should pay for, too.
+    <l>Oh, quite uneducated you!
+</lg>
+
+<pb id=pb73 n=73 facs="f:073"><lg>
+    <l>Good Christians we, no pagans needy,
+    <l>Sound in the faith, not a bit greedy.
+    <l>If you in peace from us would learn
+    <l>Store of wisdom you would earn.
+</lg>
+
+<lg>
+    <l>With us what great illumination,
+    <l>A cont&apos;nent &apos;neath our domination;
+    <l>Siberia great, for illustration.
+    <l>There&apos;s jails and folks &apos;yond computation.
+</lg>
+
+<lg>
+    <l>From Moldavia to Finlandia
+    <l>Many tongues but nothing said,
+    <l>Except for blessings on your head.
+</lg>
+
+<lg>
+    <l>A holy monk here reads the Bible,
+    <l>Tells the story, &apos;tis no libel,
+    <l>Of king who stole his neighbour&apos;s wife,
+    <l>And then the neighbour he robbed of life.
+    <l>The king now dwells in paradise.
+    <l>Such folks &apos;mong us to heaven rise.
+</lg>
+
+<lg>
+    <l>Oh, you creatures unenlightened,
+    <l>Be ye not of our dogmas frightened!
+    <l>Our gentle art of &ldquo;grab&rdquo; we&apos;ll teach;
+    <l>A coin to the church and heaven you&apos;ll reach.
+    <l>Whatever is there we can&apos;t do?
+    <l>The stars we count and crops we sow;
+    <l>The foreigner curse,
+    <l>Then fill our purse,
+    <l>The people selling,
+    <l>&apos;Tis truth I&apos;m telling.
+</lg>
+
+<pb id=pb74 n=74 facs="f:074"><lg>
+    <l>No niggers we sell, I&apos;m not making jokes,
+    <l>Just common ord&apos;nary Christian folks.
+    <l>No Spaniards we, may God forbid!
+    <l>Nor Jews that stolen goods have hid.
+    <l>So don&apos;t you think you&apos;d like to be
+    <l>Such law-abiding folks as we?
+</lg></lg>
+
+
+
+
+<p><figure id=p074 rend="image(images/p006.png)">
+<figDesc>House with melon and sunflower in garden.</figDesc>
+</figure>
+
+
+
+<pb id=pb75 n=75 facs="f:075">
+<div1 id=rich>
+<head>TO THE RICH AND GREAT</head>
+
+
+<lg><lg>
+    <l>Is it by the apostle&apos;s law
+    <l>That ye your brother love?
+    <l>Hypocrites and chatterers,
+    <l>Ye&apos;re cursed of God above.
+</lg>
+
+<lg>
+    <l>Not for your brother&apos;s soul you care.
+    <l>It&apos;s only for his skin.
+    <l>The skin from off his back you&apos;d tear,
+    <l>Some trifling prize to win.
+</lg>
+
+<lg>
+    <l>There&apos;s furs for your daughter,
+    <l>Slippers for your wife,
+    <l>And things that you don&apos;t utter
+    <l>About your private life.
+</lg></lg>
+
+
+<p><figure id=p075 rend="image(images/p075.png)">
+<figDesc>Farmer&apos;s house.</figDesc>
+</figure>
+
+
+<pb id=pb76 n=76 facs="f:076">
+<div1 id=master>
+<head>TO THE MASTER</head>
+
+
+<lg><lg>
+    <l>Oh, wherefore wert Thou crucified,
+    <l>Thou Christ, the Son of God?
+    <l>That the word of Truth be glorified?
+    <l>Or that we good folks should &apos;scape the rod
+    <l>Of avenging wrath, by faith confest?
+    <l>Meanwhile of Thee we make a jest,
+    <l>Mocking Thy love in our conduct&apos;s test.
+</lg>
+
+<lg>
+    <l>Cathedrals and chapels with Icons grand!
+    <l>&apos;Mid smoke of incense lavers stand.
+    <l>There before Thy pictured Presence
+    <l>Crowds unwearied make obeisance;
+    <l>For spoil, for war, for slaughter seek
+    <l>Their brother&apos;s blood to shed they pray,
+    <l>And then before Thy form so meek
+    <l>The loot of burning towns they lay.
+</lg></lg>
+
+
+
+<p><figure id=p076 rend="image(images/p076.png)">
+<figDesc>Farmer&apos;s house with well.</figDesc>
+</figure>
+
+
+
+<pb id=pb77 n=77 facs="f:077">
+<div1 id=circassians2>
+<head>AGAIN ADDRESSING THE CIRCASSIANS</head>
+
+
+<lg>
+    <l>The sun on us has shone so bright,
+    <l>We wish to you to give the light.
+    <l>That sun of truth we seek to show
+    <l>To children blind, all in a row.
+    <l>Wonders all to see we&apos;ll let you
+    <l>If in our hands we only get you.
+    <l>Of building jails we&apos;ll show the trick,
+    <l>How pris&apos;ners &apos;gainst their fetters kick.
+    <l>There&apos;s knotted whips for stubborn backs,
+    <l>For saucy nations painful racks.
+    <l>In change for your mountains grand and old,
+    <l>With this instruction we you greet.
+    <l>These are the last things, already we hold
+    <l>The plains and seas beneath our feet.
+</lg>
+
+
+<p><figure id=p077 rend="image(images/p077.png)">
+<figDesc>Weeping willow with boat.</figDesc>
+</figure>
+
+
+<pb id=pb78 n=78 facs="f:078">
+<div1 id=balmont>
+<head>TO JACQUES DE BALMONT</head>
+
+
+<lg><lg>
+    <l>So they drove thee along, my dearest friend,
+    <l>For Ukraina did&apos;st thou shed
+    <l>That good heart&apos;s blood of thine so red.
+    <l>Our country&apos;s hangman, shame to think,
+    <l>Muscovite poison gave thee to drink.
+    <l>Oh, friend of mine, unforgotten friend,
+    <l>Ukraine to thee doth welcome send.
+    <l>Let thy spirit fly with Cossacks bold.
+    <l>Along the shores of Dnieper old.
+    <l>O&apos;er ancient tombs hold watch and guard
+    <l>And weep with us in labors hard.
+</lg>
+
+<lg>
+    <l>Till I return to meet thee,
+    <l>My songs I send to greet thee.
+    <l>Such songs they are of bitter woe.
+    <l>Yet ever, always, these I sow.
+</lg>
+
+<lg>
+    <l>Thoughts and songs forever sowing,
+    <l>To the care of winds bestowing.
+    <l>Gentle winds of Ukraine
+    <l>Shall bear them like the dew
+    <l>To that dear land of mine
+    <l>To greet my friends so true<corr>.</corr>
+</lg></lg>
+
+
+
+
+<p><figure id=p078 rend="image(images/p078.png)">
+<figDesc>Row of three houses.</figDesc>
+</figure>
+
+
+
+<pb id=pb79 n=79 facs="f:079">
+<div1 id=serfdom>
+<head rend="image(images/o079.png)">The Meaning of Serfdom</head>
+
+
+<p><hi>Three or four days of every week the serfs&mdash;men and women alike&mdash;must labor in their master&apos;s fields for nought. What was left of the week, they were granted to earn subsistence for themselves and their families.</hi>
+
+<p><hi>But that was not the worst. More bitter than labor was the fact that they were not their own, were chattels of their lord, who could sell them at his pleasure or gamble them away at cards.</hi>
+
+<p><hi>He could beat them too, or kill them if he wished, without fear, for what advocate would take up the case of a penniless serf against the all-powerful aristocracy.</hi>
+
+<p><hi>Hideous, too, was the glaring fact that young daughters of the serfs were regarded as the legitimate prey of the landlord and, his sons.</hi>
+
+<p><hi>In these later days the sins of the fathers have been visited in awful fashion on the descendants of these landlords. But can we <pb id=pb80 n=80 facs="f:080">wonder that in the writings of a poet whose childhood was poisoned by knowledge of such injustice, we find evidence of the growing avenging fury that later was to bring about such awe-inspiring convulsions in human society.</hi>
+
+<p><hi>Through all of Shevchenko&apos;s verse there sounds the great theme of that contrast between the beauty of God&apos;s world, and the horrors of human cruelty.</hi>
+
+<p><hi>&ldquo;An earthly heaven we had from Thee; Turned it into hell have we.&rdquo;</hi>
+
+
+<p><figure id=p080 rend="image(images/p027.png)">
+<figDesc>Three persons resting in field.</figDesc>
+</figure>
+
+
+
+<pb id=pb81 n=81 facs="f:081">
+<div1 id=dead>
+<head rend="image(images/o081.png)">To the Dead</head>
+
+<p rend=center>And the Living, and the Unborn, Countrymen
+<lb>of mine, in Ukraine, or out of it,
+<lb>My Epistle of Friendship.
+
+
+<p><hi>This is the national poem of the Ukrainians, recited at all their gatherings. I have given the thought and something of the feeling. The music of the original I could not give. It begins like a Highland dirge with wailing amphibrachs, and there are other measures in it not used in our language. Perhaps some future student may be moved to put this poem in such English form as will give the true impression of the original.</hi>
+
+<p><hi>The motive of the poem is, in part, to awaken the conscience of the young educated Ukrainians who, for the sake of gain were allowing themselves to be used as tools by foreign oppressors.</hi>
+
+
+<p><figure id=o081-2 rend="image(images/o081-2.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+<pb id=pb82 n=82 facs="f:082">
+<lg><lg>
+    <l>&apos;Twas dawn, &apos;tis evening light,
+    <l>So passes Day divine.
+    <l>Again the weary folk
+    <l>And all things earthly
+            <l rend=in8>Take their rest.
+    <l>I alone, remorseful
+    <l>For my country&apos;s woes,
+            <l rend=in8>Weep day and night,
+    <l>By the thronged cross-roads,
+    <l>Unheeded by all.
+    <l>They see not, they know not;
+    <l>Deaf ears, they hear not.
+    <l>They trade old fetters for new
+    <l>And barter righteousness,
+    <l>Make nothing of their God.
+    <l>They harness the people
+    <l>With heavy yokes.
+    <l>Evil they plough,
+    <l>With evil they sow.
+    <l>What crops will spring?
+    <l>What harvest will you see?
+</lg>
+
+<lg>
+    <l>Arouse ye, unnatural ones.
+    <l>Children of Herod!
+    <l>Look on this calm Eden,
+    <l>Your own Ukraine,
+    <l>Bestow on her tender love,
+    <l>Mighty in her ruins.
+    <l>Break your fetters,
+    <l>Join in brotherhood,
+    <l>Seek not in foreign lands
+<pb id=pb83 n=83 facs="f:083">    <l>Things that are not.
+    <l>Nor yet in Heaven,
+    <l>Nor in stranger&apos;s fields,
+    <l>But in your own house
+    <l>Lies your righteousness,
+    <l>Your strength and your liberty.
+</lg>
+
+<lg>
+    <l>In the world is but one Ukraine,
+    <l>Dnieper&mdash;there is only one.
+    <l>But you must off to foreign lands
+    <l>To look for something grand and good.
+    <l>Wealth of goodness and liberty,
+    <l>Fraternity and so forth, you found.
+    <l>And back you brought to Ukraine
+    <l>From places far away
+    <l>A wondrous force
+        <l rend=in4>of lofty sounding words,
+    <l>And nothing more.
+    <l>Shout aloud
+        <l rend=in4>That God created you for this,
+    <l>To bow the knee to lies,
+    <l>To bend and bend again
+        <l rend=in4>Your spineless backs
+    <l>And skin again
+        <l rend=in4>Your brothers&mdash;
+    <l>These ignorant buckwheat farmers.
+</lg>
+
+<lg>
+    <l>Try again
+        <l rend=in4>to ripen crops of truth and light
+    <l>In Germany
+        <l rend=in4>or some other foreign place.
+    <l>If one should add
+        <pb id=pb84 n=84 facs="f:084"><l rend=in4>all our present misery
+    <l>To the wealth
+        <l rend=in4>Our fathers stole
+    <l>Orphaned, indeed, would Dnieper be
+        <l rend=in4>with all his holy hills.
+    <l>Faugh! if it should happen
+        <l rend=in4>that you would never come back,
+    <l>Or get snuffed out
+        <l rend=in4>just where you were spawned
+    <l>No children would weep
+        <l rend=in4>nor mothers lament,
+    <l>Nor in God&apos;s house be heard
+        <l rend=in4>the story of your shame.
+    <l>The sun would not shine
+        <l rend=in4>on the stench of your filth
+    <l>O&apos;er the clean, broad, free land,
+    <l>Nor would the people know
+        <l rend=in4>what eagles you were
+    <l>Nor turn their heads to gaze.
+</lg>
+
+<lg>
+    <l>Arouse ye, be men!
+    <l>For evil days come.
+    <l>Quickly a people enchained
+    <l>Shall tear off their fetters;
+    <l>Judgment will come,
+    <l>Dnieper and the hills will speak.
+    <l>A hundred rivers
+        <l rend=in4>flow to the sea
+        <l rend=in4>with your children&apos;s blood,
+    <l>Nor will there be any to help.
+    <pb id=pb85 n=85 facs="f:085"><l>Smoke clouds hide the sun
+    <l>Through the ages
+        <l rend=in4>Your sons shall curse you.
+</lg>
+
+<lg>
+    <l>Wash yourselves&mdash;
+        <l rend=in4>The divine likeness in you
+            <l rend=in8>defile not with slime.
+    <l>Befool not your children
+        <l rend=in4>that they were born to the world
+            <l rend=in8>to be lordlings.
+    <l>The eyes of men untaught
+        <l rend=in4>see deep, deep
+            <l rend=in8>into your soul.
+    <l>Poor things they may he,
+        <l rend=in4>yet they know the ass
+            <l rend=in8>in the lion&apos;s skin.
+    <l>And they will judge you,
+        <l rend=in4>the foolish will pronounce the doom
+            <l rend=in8>of the wise.
+</lg><lg>
+
+
+<p><figure id=o085 rend="image(images/o081-2.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+<pb id=pb86 n=86 facs="f:086">
+
+
+<lg><lg>
+<head>II.</head>
+
+    <l>Did you but study as you should,
+    <l>You would possess your own wisdom;
+    <l>And you might creep up to heaven.
+</lg>
+
+<lg>
+    <l>But it is we&mdash;
+            <l rend=in8>Oh, no, not we;
+        <l rend=in4>It is I&mdash;no, no, not I.
+    <l>I&apos;ve seen it all, I know it.
+    <l>There&apos;s neither heaven nor hell,
+    <l>Not even God&mdash;
+        <l rend=in4>Just I and the short, fat German,
+            <l rend=in8>Nothing more.
+</lg>
+
+<lg>
+    <l>Grand, my brother.
+    <l>You ask me something,
+        <l rend=in4>&ldquo;I don&apos;t know,
+            <l rend=in8>Ask the German,
+            <l rend=in8>He&apos;ll tell you.&rdquo;
+    <l>That&apos;s the way you learn
+        <l rend=in4>in foreign lands.
+    <l>The German says&mdash;
+        <l rend=in4>&ldquo;You are Mongols.
+            <l rend=in8>Mongols, Mongols;
+    <l>Naked children
+        <l rend=in4>of the golden Tamerlane.&rdquo;
+    <l>The German says&mdash;
+        <l rend=in4>&ldquo;You are Slavs,
+            <l rend=in8>Slavs, Slavs;
+<pb id=pb87 n=87 facs="f:087">    <l>Ugly offspring
+        <l rend=in4>of famous ancestors.&rdquo;
+    <l>You read the writings
+        <l rend=in4>of the great Slavophils,
+    <l>Push in among them,
+        <l rend=in4>Get on so well
+    <l>That you know all the tongues
+        <l rend=in4>of the Slavonic peoples
+    <l>Except your own&mdash;God help it.
+    <l>&ldquo;Oh, as for that
+        <l rend=in4>Sometime we&apos;ll speak
+            <l rend=in8>our own language
+    <l>When the German
+        <l rend=in4>shows us how,
+    <l>Our history too,
+        <l rend=in4>he will explain,
+    <l>Then we&apos;ll be alright!&rdquo;
+    <l>It came about finely
+        <l rend=in4>on the German advice.
+    <l>They learned to speak so well
+        <l rend=in4>That even the mighty German
+            <l rend=in8>could not understand them,
+    <l>Not to speak of common folks.
+    <l>Oh what a noise and racket!
+    <l>&ldquo;There&apos;s Harmony, and Force
+    <l>And Music&mdash;and everything.
+    <l>And as for History
+    <l>The Epic of a free people!
+    <l>What&apos;s all this about the poor Romans,
+    <l>Brutus, etcetera, and the Devil knows what?
+    <l>Have we not our Brutuses
+    <pb id=pb88 n=88 facs="f:088">    <l rend=in4>and our Cocles
+    <l>Glorious and never to be forgotten?
+    <l>Why freedom grew up with us
+    <l>Bathed in the Dnieper
+    <l>Rested her head on our hills,
+    <l>The far-flung Steppes
+        <l rend=in4>are her garments.&rdquo;
+    <l>Alas! &apos;twas in blood she bathed
+    <l>Pillowed her head on burial mounds
+        <l rend=in4>On bodies of Cossack freemen,
+            <l rend=in8>Corpses despoiled.
+    <l>But look ye well
+        <l rend=in4>Read again of that glory!
+    <l>Read it, word by word,
+    <l>Miss not a jot nor tittle,
+    <l>Grasp it all:
+        <l rend=in4>Then ask yourselves&mdash;
+    <l>Who are we? Whose sons?
+        <l rend=in4>Of what fathers?
+            <l rend=in8>By whom and why enchained?
+    <l>Then you shall see
+        <l rend=in4>Who your glorious Brutuses are.
+    <l>Slaves, door-mats!
+        <l rend=in4>mud of Moscow
+            <l rend=in8>scum of Warsaw
+                <l rend=in12>are your lords;
+    <l>Glorious heroes they are.
+    <l>Why are you so proud
+    <l>Sons of unhappy Ukraine.
+    <l>That you go so well under the yoke?
+    <l>Even better you go
+    <pb id=pb89 n=89 facs="f:089">    <l rend=in4>than your fathers went.
+    <l>Don&apos;t brag so much,
+        <l rend=in4>they just skin you,
+    <l>They rendered out your fathers&apos; bones
+    <l>Perhaps you are proud
+        <l rend=in4>that your brotherhood
+            <l rend=in8>has defended the faith.
+    <l>You cooked your dough-nuts
+        <l rend=in4>o&apos;er the fires
+            <l rend=in8>of burning Turkish towns,
+    <l>of Sinope and Trebizond.
+        <l rend=in4>True for you
+            <l rend=in8>And you ate them
+    <l>And now they pain you,
+    <l>And on your own fields
+        <l rend=in4>the wily German
+            <l rend=in8>plants potatoes.
+    <l>You buy them from him,
+      <l rend=in2>eat them for the good of your health
+        <l rend=in4>and praise Cossackery.
+    <l>But with whose blood
+        <l rend=in4>was the land sprinkled
+            <l rend=in8>that grew the potatoes?
+    <l>Oh, that&apos;s a trifle;
+        <l rend=in4>so long as it&apos;s good for the garden.
+    <l>Very proud you are
+        <l rend=in4>that we once destroyed Poland.
+    <l>Very true indeed:
+        <l rend=in4>Poland fell,
+            <l rend=in8>but fell on top of us.
+<pb id=pb90 n=90 facs="f:090">    <l>So your fathers shed their blood
+        <l rend=in4>for Moscow and for Warsaw,
+    <l>And left to you, their sons
+        <l rend=in4>their fetters and their glory.
+</lg></lg>
+
+
+<p><figure id=p090 rend="image(images/p075.png)">
+<figDesc>Farmer&apos;s house.</figDesc>
+</figure>
+
+
+
+<pb id=pb91 n=91 facs="f:091">
+
+
+<lg><lg>
+<head>III.</head>
+
+    <l>To the very limit
+            <l rend=in8>has our country come,
+    <l>Her own children
+        <l rend=in4>crucify her
+        <l rend=in4>worse than the Poles.
+    <l>How like beer
+        <l rend=in4>they draw off
+            <l rend=in8>her righteous blood.
+    <l>They would, you see
+        <l rend=in4>enlighten the maternal eyes
+            <l rend=in8>with everlasting fires;
+    <l>Lead on the poor blind cripple
+        <l rend=in4>after the spirit of the age,
+        <l rend=in4>German fashion!
+    <l>Fine, go ahead,
+        <l rend=in4>show us the way!
+    <l>Let the old mother learn
+        <l rend=in4>how to look after such children
+    <l>Show away!
+        <l rend=in4>For this instruction,
+    <l>Don&apos;t worry&mdash;
+        <l rend=in4>Good motherly reward will be.
+    <l>The illusion fades
+        <l rend=in4>from your greedy eyes
+    <l>Glory shall you see,
+        <l rend=in4>such glory as fits
+            <l rend=in8>the sons of deceitful sires.
+</lg>
+
+<lg>
+    <l>To study then, my brothers,
+    <l>Think and read,
+<pb id=pb92 n=92 facs="f:092">    <l>Learn from the foreigner
+    <l>Despise not your own<corr>.</corr>
+    <l>Who forgets his mother
+    <l>Him God will punish.
+    <l>Foreigners will despise him
+    <l>Nor admit him to their homes;
+    <l>His children shall as strangers be
+    <l>Nor shall he find happiness on earth.
+    <l>I weep when I remember
+        <l rend=in4>the deeds of our fathers,
+            <l rend=in8>deeds I can not forget.
+    <l>Heavy on my heart they lie;
+        <l rend=in4>Half my life I&apos;d give
+            <l rend=in8>could I forget them.
+    <l>Such is our glory
+        <l rend=in4>the glory of Ukraine.
+    <l>So read then
+        <l rend=in4>that ye may see
+    <l>Not in dream
+        <l rend=in4>but in vision
+        <l rend=in4>All the wrongs that lie
+          <l rend=in6>beneath yon mighty tombs.
+    <l>Ask then of the martyrs
+        <l rend=in4>by whom, when and for what
+            <l rend=in8>were they crucified.
+    <l>Embrace then
+        <l rend=in4>brothers mine&mdash;
+    <l>The least of your brethren.
+    <l>That your mother may smile again,
+    <l>Smile through her tears.
+    <pb id=pb93 n=93 facs="f:093"><l>Give blessings to your children
+        <l rend=in4>with hard toiler&apos;s hands;
+    <l>With free lips kiss them
+        <l rend=in4>when they are washed and clad.
+    <l>Forget the shameful past
+    <l>And the true glory shall live again,
+        <l rend=in4>the glory of the Ukraine.
+    <l>And clear light of day
+        <l rend=in4>not twilight gloom
+    <l>Shall gently shine.
+    <l>Love one another, my brothers,
+    <l>I pray you&mdash;I plead.
+</lg></lg>
+
+
+
+<p><figure id=p093 rend="image(images/p071.png)">
+<figDesc>Woman carrying yoke with two buckets on shoulder.</figDesc>
+</figure>
+
+
+
+<pb id=pb94 n=94 facs="f:094">
+<div1 id=freedom>
+<head rend="image(images/o079.png)">Freedom and Friends</head>
+
+
+<p><hi>With his new freedom Shevchenko finds himself in a different world. Not only does he meet the most brilliant people of the Russian Capital&mdash;scientists, artists, generals, nobles are his intimates. Count Tolstoi and Prince and Princess Repnin are his patrons.</hi>
+
+<p><hi>He is introduced, too, in Russian or Polish translations to the great authors of other lands and times,&mdash;Greece and Rome, Germany and Britain offer him their treasures.</hi>
+
+<p><hi>To us it is interesting to know that Byron, Walter Scott, and Shakespeare profoundly influenced him.</hi>
+
+<p><hi>But a conflict of spirit now faces him. His worldly interests and his judgment advise him to go on with his painting. But strange music seems to ring in his ears. It is the music of his beautiful and suffering Ukraine. Songs seem to come to him from the wind and he writes them down.</hi>
+
+<pb id=pb95 n=95 facs="f:095"><p><hi>They are in the peasant language of the Ukraine.</hi>
+
+<p><hi>His &lsquo;Kobzar&rsquo; appears in its first edition, with eight poems, in 1840. It is like a lightning flash through Russia.</hi>
+
+<p><hi>Great Russian critics sneered at it, saying it was in the <corr sic=longuage>language</corr> of the swineherds. But the whole Ukraine recognized it as the voice of their suppressed nation. The down-trodden masses of all Russia knew that they had found a spokesman.</hi>
+
+<p><hi>Shevchenko was now famous but he had chosen, without knowing it, &lsquo;The Way of the Cross.&rsquo;</hi>
+
+
+<p><figure id=p095 rend="image(images/p067.png)">
+<figDesc>House with well.</figDesc>
+</figure>
+
+
+
+<pb id=pb96 n=96 facs="f:096">
+<div1 id=dream>
+<head rend="image(images/o030.png)">A Dream</head>
+
+
+<p><hi>This poem was written in 1847 in Siberia. Taken away suddenly from Ukraine, Shevchenko could not forget his mother land. His beloved Ukraine was very far from him, and he longed for her even in his dreams. He describes in the poem a dream which he had about the beauties of the Ukraine, which he had just left and which he never hoped to see again. The old man of whom he speaks represents the poet himself, who knew the <corr sic=","></corr>miseries of his native land and who desired to spend the last hours of his life there.</hi>
+
+
+<p><figure id=o096>
+<figDesc>Ornament: decorated egg pointing left.</figDesc>
+</figure>
+
+
+
+<pb id=pb97 n=97 facs="f:097">
+
+
+<lg><lg>
+    <l>Oh my lofty hills&mdash;
+    <l>Yet not so lofty
+    <l>But beautiful ye are.
+    <l>Sky-blue in the distance;
+    <l>Older than old Pereyaslav,
+    <l>Or the tombs of Vebla,
+    <l>Like those clouds that rest
+    <l>Beyond the Dnieper.
+</lg>
+
+<lg>
+    <l>I walk with quiet step,
+    <l>And watch the wonders peeping out.
+    <l>Out of the clouds march silently
+    <l>Scarped cliff and bush and solitary tree;
+    <l>White cottages creep forth
+    <l>Like children in white garments,
+    <l>Playing in the valley&apos;s gloom.
+    <l>And far below our gray old Cossack,
+    <l>The Dnieper, sings musically
+    <l>Amid the woods.
+    <l>And then beyond the Dnieper on the hillside,
+    <l>The little Cossack church
+    <l>Stands like a chapel,
+    <l>With its leaning cross.
+</lg>
+
+<lg>
+    <l>Long it stands there, gazing, waiting,
+    <l>For the Cossacks from the Delta;
+    <l>To the Dnieper prattles,
+    <l>Telling all its woe
+    <l>From its green-stained windows,
+    <l>Like eyes of the dead,
+    <l>It peeps as from the tomb.
+<pb id=pb98 n=98 facs="f:098">    <l>Dost thou look for restoration?
+    <l>Expect not such glory.
+    <l>Robbed are thy people.
+    <l>For what care the wicked lords
+    <l>For the ancient Cossack fame?
+</lg>
+
+<lg>
+    <l>And Traktemir above the hill
+    <l>Scatters its wretched houses
+    <l>Like a drunken beggar&apos;s bags.
+    <l>And there is old Manaster
+    <l>Once a Cossack town.
+    <l>Is that the one that used to be?
+    <l>All, all is gone, as a playground for the kings
+    <l>The land of the Zaporogues and the village
+    <l>All, all the greedy ones have taken.
+    <l>And you hills, you permitted it!
+    <l>May no one look on you more
+    <l>Cursed ones!&mdash;No! No!
+    <l>Not you I curse,
+    <l>But our quarreling generals,
+    <l>And the inhuman Poles.
+</lg>
+
+<lg>
+    <l>Forgive me, my lofty ones,
+    <l>Lofty ones and blue,
+    <l>Finest in the world, and holiest,
+    <l>Forgive me, I pray God.
+    <l>For so I love my poor Ukraina,
+    <l>I might blaspheme the holy God,
+    <l>And for her lose my soul.
+    <l>On a curve of lofty <corr sic=Trektemir>Traktemir</corr>
+    <l>A lonely cottage like an orphan stands,
+<pb id=pb99 n=99 facs="f:099">    <l>Ready to plunge from off the height
+    <l>To loved Dnieper, far below.
+    <l>From that house Ukraina is seen,
+    <l>And all the land of the Hetmans.
+    <l>Beside the house an old gray father sits.
+    <l>Beyond the river the sun goes down
+    <l>As he sits, and looks, and sadly thinks.
+    <l>&ldquo;Alas, Alas!&rdquo; the old man cries,
+    <l>&ldquo;Fools, that lost this land of God,
+    <l>The Hetmans&apos; land.&rdquo;
+    <l>His brow with thought is clouded,
+    <l>Something bitter he would have said
+    <l>But did not.
+</lg>
+
+<lg>
+    <l>&ldquo;Much have I wandered in the world,
+    <l>In peasant&apos;s coat and garb of lord.
+    <l>How is it beyond the Ural,
+    <l>Among the Kirghiz, Tartars?
+    <l>Good God, even there it is better
+    <l>Than in our Ukraina.
+    <l>Perhaps because the Kirghiz
+    <l>Are not Christians.
+    <l>Much evil hast thou done, Oh Christ,
+    <l>Hast changed the people God had made.
+    <l>Our Cossacks lost their foolish heads
+    <l>For truth, and the Christian faith.
+    <l>Much blood they shed, their own and others.
+    <l>And were they better for it?
+    <l>Bah! No! They were ten times worse.
+    <l>Apart from knife and auto-da-fe
+    <l>They have chained up the people,
+<pb id=pb100 n=100 facs="f:100">    <l>And they kill them.
+    <l>Oh gentlemen, Christian gentlemen!&rdquo;
+</lg>
+
+<lg>
+    <l>My grey old man, with sorrow beaten,
+    <l>Ceased, and bent his brave old head.
+    <l>The evening sun gilded the woods,
+    <l>The river and fields were covered with gold.
+    <l>Mazeppa&apos;s cathedral in whiteness shines;
+    <l>Great Bogdan&apos;s tomb is gleaming,
+    <l>The willows bend o&apos;er the road to Kiev,
+    <l>And hide the Three Brothers&apos; ancient graves.
+    <l>Trubail and Alta, mid the reeds
+    <l>Approach, unite in sisterly embrace.
+    <l>Everything, everything gladdens the eyes,
+    <l>But the heart is sad and will not see.
+    <l>The glowing sun has bade farewell
+    <l>To the dark land.
+    <l>The round moon rises with her sister star,
+    <l>Out they step from behind the clouds.
+    <l>The clouds rejoiced
+    <l>But the old man gazed,
+    <l>And his tears rolled down.
+    <l>&ldquo;I pray Thee, merciful God,
+    <l>Mighty Lord, Heavenly Judge,
+    <l>Suffer me not to perish;
+    <l>Grant me strength to overcome my woe.
+    <l>To live out my life on these sacred hills:
+    <l>To glorify Thee and rejoice in Thy beauty,
+    <l>And at last, though beaten by the people&apos;s sins.
+<pb id=pb101 n=101 facs="f:101">    <l>To be buried on these lofty hills,
+    <l>And to abide on them.&rdquo;
+</lg>
+
+<lg>
+    <l>He dried his tears,
+    <l>Hot tears, though not the tears of youth;
+    <l>And thought on the blessed years of long ago
+    <l>Where was this?
+    <l>What, how, and when?
+    <l>Was it truth, or was it dream?
+    <l>On what seas have I been sailing?
+    <l>The green wood in the twilight,
+    <l>The maiden with eyebrows dark,
+    <l>The moon at rest among the stars,
+    <l>The nightingale on the viburnum,
+    <l>Whether in silence or in song
+    <l>Praising the Holy God.
+    <l>And all, all is in Ukraina.
+    <l>The old man smiled&mdash;
+    <l>Well, it may be&mdash;you can&apos;t avoid the truth
+    <l>So it was&mdash;they wooed,
+    <l>They parted, they did not marry.
+    <l>She left him to live alone,
+    <l>To live out his life.
+</lg>
+
+<lg>
+    <l>The old man was sad again,
+    <l>Wandered long about the house,
+    <l>Then prayed to God,
+    <l>Went in the house to sleep,
+    <l>And the moon was swathed in clouds.
+</lg>
+
+<pb id=pb102 n=102 facs="f:102"><lg>
+    <l>Thus in a foreign land
+    <l>I dreamed my dream,
+    <l>As if born again to the world
+    <l>In freedom once more.
+    <l>Grant me, Oh God, some time,
+    <l>In old age, perchance,
+    <l>To stand again on these stolen hills,
+    <l>In a little cottage,
+    <l>To bring my heart eaten out with sorrow
+    <l>To rest at last, on the hills above the Dnieper.
+</lg></lg>
+
+
+<p><figure id=p102 rend="image(images/p077.png)">
+<figDesc>Weeping willow with boat.</figDesc>
+</figure>
+
+
+
+<pb id=pb103 n=103 facs="f:103">
+<div1 id=triumphal>
+<head rend="image(images/o103.png)">A Triumphal March</head>
+
+
+<p><hi>In 1845 Shevchenko was graduated from the Imperial Academy of Arts at Petersburg. Shortly after he travelled to the Ukraine, purposing to devote his life to the service of his own people.</hi>
+
+<p><hi>His progress was a triumphal march, a succession of banquets and popular welcomes and entertainments at the homes of the wealthy.</hi>
+
+<p><hi>At Kiev people still remember that the earliest Russian civilization had its beginnings in the Ukraine. There Christianity first took root, and there were the first Russian Princes.</hi>
+
+<p><hi>Before Shevchenko&apos;s arrival there was organized at Kiev the Society of Cyril and Methodius, called after the great apostles of Russia, and the leading spirits of the Society were professors in the University of Kiev.</hi>
+
+<p><hi>Into this brilliant company Shevchenko was welcomed. Its leaders became his devoted friends. A chair of painting in the University was to be established for him.</hi>
+
+<p><hi>Most remarkable were the relations between Shevchenko and Professor Kulisch. <pb id=pb104 n=104 facs="f:104">Kulisch was to be married to a great lady, a daughter of one of the nobles of the country. The poet was invited to the wedding and the bride, in her enthusiasm, actually kissed his hand. This was an astonishing act of condescension towards one who had been a serf, but this lady, herself afterwards a famous authoress, cherished the memory to her dying day.</hi>
+
+<p><hi>Shevchenko&apos;s saddest experience in the Ukraine was when he visited his native village and found his brothers and sisters in serfdom. His dream was to earn enough money to purchase their freedom, and afterwards to devote his life to the liberation of the peasantry. The poem&mdash;&ldquo;The Bondwoman&apos;s Dream&rdquo;&mdash;commemorates the poet&apos;s meeting with his favorite sister, Katherine, working as a slave.</hi>
+
+<p><hi>His friends thought he should go to Italy to perfect himself in painting. Madame Kulisch purposed to sell her family jewels to raise sufficient money to send Shevchenko to that country. Her husband who was in the plot told Shevchenko that some wealthy person had contributed the money but he must not ask for the donor&apos;s name.</hi>
+
+<p><hi>But on returning to Kiev from the Kulisch home a policeman put his hand on the shoulder of the poet painter.</hi>
+
+<p><hi>The bright dream was ended.</hi>
+
+
+
+<pb id=pb105 n=105 facs="f:105">
+
+
+<figure id=p105>
+<head>Shevchenko meets his sister.</head>
+</figure>
+
+
+
+
+<pb id=pb106 n=106 facs="f:106">
+<div1 id=bondwoman>
+<head>The Bondwoman&apos;s Dream</head>
+
+<lg>
+    <l>The slave with sickle
+        <l rend=in4>reaped the wheat,
+    <l>Then wearily limped
+        <l rend=in4>among the stooks;
+    <l>But not to rest,
+    <l>Her little son she sought
+    <l>Who wakened crying
+        <l rend=in4>in cool nest
+            <l rend=in8>among the sheaves.
+    <l>His swaddled limbs unwrapped
+        <l rend=in4>she nourished him,
+    <l>Then, dandling him a moment
+        <l rend=in4>fell asleep.
+    <l>In dreams she saw
+        <l rend=in4>her little son,
+    <l>Her Johnny, grown to man,
+        <l rend=in4>handsome and rich.
+    <l>No lonely bachelor
+        <l rend=in4>but a married man
+    <l>In freedom it seemed,
+        <l rend=in4>no longer the landlord&apos;s
+            <l rend=in8>but his own man.
+<pb id=pb107 n=107 facs="f:107">    <l>And in their own joyous field
+        <l rend=in4>his wife and he
+            <l rend=in8>reaped their own wheat,
+    <l>Their children brought their food.
+        <l rend=in4>The poor thing
+            <l rend=in8>laughed in her sleep,
+    <l>Woke up&mdash;
+        <l rend=in4>a dream indeed it was.
+    <l>She looked at Johnny,
+        <l rend=in4>picked him up and swaddled him,
+    <l>And back to her allotted task;
+    <l>Sixty stooks her stint.
+    <l>Perhaps the last of the sixty it was:
+        <l rend=in4>God grant it.
+    <l>And God grant
+        <l rend=in4>this dream of thine
+            <l rend=in8>may be fulfilled.
+</lg>
+
+
+
+<p><figure id=p107 rend="image(images/p125.png)">
+<figDesc>Ornament: stylished dove.</figDesc>
+</figure>
+
+
+<pb id=pb108 n=108 facs="f:108">
+
+<figure id=p108>
+<head>Shevchenko&apos;s birthplace.</head>
+</figure>
+
+
+
+<pb id=pb109 n=109 facs="f:109">
+<div1 id=sentimental>
+<head>To the Makers of Sentimental Idyls.</head>
+
+
+<lg><lg>
+    <l>Did you but know, fine dandy,
+    <l>The people&apos;s life of misery
+    <l>You would not use such pretty phrases,
+    <l>Nor give to God such empty praises.
+    <l>At our tears you&apos;re laughing,
+    <l>And our sorrows chaffing,
+    <l>Slave&apos;s cot in a shady spot&mdash;
+    <l>You call it heaven! Rot!
+    <l>I lived once in such a shanty,
+    <l>Of childhood&apos;s tears I shed a plenty,
+    <l>In bitter sorrows we were wise,
+    <l>Home that you call paradise.
+</lg>
+
+<lg>
+    <l>No paradise I call thee,
+    <l>Little cottage in the wood,
+    <l>With the water pure beside thee
+    <l>Close by the village rude!
+    <l>There my mother bore me,
+    <l>Singing she tended me;
+    <l>My child&apos;s heart drank in her pain.
+</lg>
+
+<lg>
+    <l>Cottage in the shady dell,
+    <l>Heaven outside, inside hell;
+<pb id=pb110 n=110 facs="f:110">    <l>But slavery there,
+        <l rend=in4>with labor weary,
+    <l>Nor time for prayer
+        <l rend=in4>in life so dreary.
+</lg>
+
+<lg>
+    <l>My mother good to her early grave
+    <l>Was hurled by sorrows wave on wave.
+</lg>
+
+<lg>
+    <l>The father weeping o&apos;er his young,
+          <l rend=in6>(little and naked were we),
+    <l>Sank &apos;neath the weight of fated wrong
+    <l>And died in slavery.
+    <l>The children, we, of home bereft
+    <l>Like little mice &apos;mong <corr sic=neigbors>neighbors</corr> crept.
+</lg>
+
+<lg>
+    <l>Water drawer was I at school,
+    <l>My brothers toiled &apos;neath landlord&apos;s rule.
+</lg>
+
+<lg>
+    <l>For my sisters an evil fate must be,
+    <l>Though little doves they seemed to me;
+    <l>Into life as serfs they&apos;re born,
+    <l>And die they must in that lot forlorn.
+</lg>
+
+<lg>
+    <l>I shudder yet, where&apos;er I roam,
+    <l>When I think of life in that village home.
+</lg>
+
+<lg>
+    <l>Evil-doers, Oh God, are we,
+    <l>An earthly heaven we had from Thee,
+    <l>Turned it into hell have we,
+    <l>And a second heaven is now our plea.
+</lg>
+
+<pb id=pb111 n=111 facs="f:111"><lg>
+    <l>Gently we live with our brothers now,
+    <l>With their lives our fields we plough;
+    <l>Fields that with their tears are wet,
+    <l>And yet&mdash;
+    <l>What do we know?
+        <l rend=in4>yet it seems as if Thou!
+    <l>(For without Thy will
+    <l>Should we suffer ill?)
+    <l>Dost Thou, Oh Father in heaven holy
+    <l>Laugh at us the poor and lowly?
+    <l>Advise with them of noble birth
+    <l>How so cleverly to rule the earth?
+</lg>
+
+<lg>
+    <l>For see the woods their branches waving,
+    <l>And there beyond, the white pool gleaming
+    <l>And willows o&apos;er the water bending,
+    <l>Garden of Eden it is in sooth,
+    <l>But of its deeds enquire the truth.
+</lg>
+
+<lg>
+    <l>This wondrous earth should tell a story
+    <l>Of endless joy, and praise, and glory
+    <l>To Thee, Oh God, unique and holy.
+    <l>Unhallowed spot,
+    <l>Whence praise comes not!
+    <l>A world of tears where curses rise,
+    <l>To heaven above the hopeless skies.
+</lg></lg>
+
+
+
+<p><figure id=p111 rend="image(images/p008.png)">
+<figDesc>Ornament: cither.</figDesc>
+</figure>
+
+
+
+
+<pb id=pb112 n=112 facs="f:112">
+<div1 id=autocrat>
+<head>Autocrat Versus Poet</head>
+
+
+<p><hi>Nicholas I was brought up in the traditions of autocracy and believed in them with all his heart. He hated liberal thought and detested the idea of educating the masses.</hi>
+
+<p><hi>Tens of thousands of copies of the New Testament and the Psalter were burned by his orders. He said such books were for the priests, not for the common people. Incidentally it may be remarked that the priests had to teach what he wanted or lose their jobs.</hi>
+
+<p><hi>To speak against his government, or even to criticize czars who reigned hundreds of years before him was a crime.</hi>
+
+<p><hi>The little band of dreamers who formed the Society of Cyril and Methodius actually hoped to convert this autocrat, and secure his assistance in freeing the people. They had visions of a free Confederation of Slavonic states, after the pattern of the United States of America, but with the czar as head. But they sadly misjudged their man.</hi>
+
+<pb id=pb113 n=113 facs="f:113"><p><hi><corr sic=Shechenko>Shevchenko</corr> had actually spoken impertinently of the Autocrat in his poems. He refused to retract.</hi>
+
+<p><hi>The government really wished to he lenient, if he would only be good and confess that he had done wrong. But Shevchenko was not of those who are willing to admit that black is white.</hi>
+
+<p><hi>The gloomy autocracy now pronounces his doom&mdash;a sort of living death in Siberian barracks. The czar added to the sentence, with his own hand, the proviso that he should not be allowed either to write or to paint.</hi>
+
+
+<p><figure id=p113 rend="image(images/p027.png)">
+<figDesc>Three persons resting in field.</figDesc>
+</figure>
+
+
+
+
+<pb id=pb114 n=114 facs="f:114">
+<div1 id=exile>
+<head rend="image(images/o079.png)">A Poem of Exile</head>
+
+
+<lg><lg>
+    <l>I count in prison the days and nights
+    <l>And then forget the count.
+    <l>How heavily, Oh Lord,
+    <l>Do these days pass!
+    <l>And the years flow after them,
+    <l>Quietly they flow,
+    <l>Bearing with them
+    <l>Good and ill.
+    <l>Everything do they gather
+    <l>Never do they return.
+    <l>You need not plead,
+    <l>Your prayers unanswered fall.
+    <l>Mid oozy swamps
+        <l rend=in4>among the weeds
+    <l>Year after weary year
+        <l rend=in4>has sadly flowed.
+    <l>Much of something have they taken
+    <l>From dark store-house of my heart;
+    <l>Borne it quietly to the sea,
+        <l rend=in4>As quietly the sea swallowed it.
+    <l>Not gold and silver
+        <l rend=in4>Did they take from me,
+    <l>But good years of mine
+        <l rend=in4>Freighted with loneliness,
+<pb id=pb115 n=115 facs="f:115">    <l>Sorrows written on the heart
+        <l rend=in4>With unseen pen.
+    <l>And a fourth year passes
+        <l rend=in4>So gently, so slowly,
+    <l>The fourth book
+        <l rend=in4>of my imprisonment
+    <l>I start to stitch up,
+    <l>Embroidering it with tears
+        <l rend=in4>Of homesickness
+            <l rend=in8>in a foreign land.
+    <l>Yet such woe
+        <l rend=in4>tells itself not in words.
+    <l>Never, never
+        <l rend=in4>in the wide world.
+    <l>In far away captivity
+        <l rend=in4>There are no words
+    <l>Not even tears,
+        <l rend=in4>Just nothingness;
+    <l>Not even God above thee,
+    <l>Nothing is there to see,
+    <l>None with whom to speak,
+    <l>Not even desire for life.
+    <l>Yet thou must live!
+    <l>I must! I must!
+        <l rend=in4>But for what?
+    <l>That I may not lose my soul?
+    <l>My soul is not worth
+        <l rend=in4>such suffering!
+    <l>Then why must I live on
+        <l rend=in4>in the world,
+<pb id=pb116 n=116 facs="f:116">    <l>Drag these fetters
+        <l rend=in4>in my jail?
+    <l>Because, perchance,
+        <l rend=in4>my own Ukraine
+    <l>I shall see again.
+    <l>Again I shall pour out
+        <l rend=in4>my words of sorrow
+    <l>To the green groves
+        <l rend=in4>and rich meadows.
+    <l>No family have I of my own
+        <l rend=in4>in all Ukraine,
+    <l>Yet the people there
+        <l rend=in4>are different from these foreigners
+    <l>I would walk again
+        <l rend=in4>among the bright villages
+    <l>On the Dnieper&apos;s banks
+        <l rend=in4>and sing my thoughts
+            <l rend=in8>gentle and sad.
+    <l>Grant me,
+        <l rend=in4>Oh God of mercy
+    <l>That I may live
+        <l rend=in4>to see again
+    <l>Those green meadows,
+        <l rend=in4>those ancestral tombs.
+    <l>If Thou wilt not grant this,
+        <l rend=in4>Yet bear my tears
+    <l>To my Ukraine.
+        <l rend=in4>Because, God,
+    <l>I die for her.
+    <l>It may be that I shall lie
+        <l rend=in4>more lightly in foreign soil
+    <pb id=pb117 n=117 facs="f:117"><l>When sometimes in Ukraine
+        <l rend=in4>they speak of my memory.
+    <l>Carry my tears then
+        <l rend=in4>Oh God of loving kindness,
+    <l>Or at least
+        <l rend=in4>send hope into my soul.
+    <l>I can think no more
+        <l rend=in4>with my poor head,
+    <l>For coldness of death
+        <l rend=in4>comes on me
+    <l>When I think that they may
+        <l rend=in4>bury me in foreign soil
+    <l>And bury my thoughts with me
+        <l rend=in4>And none tell about me
+            <l rend=in8>in the Ukraine.
+</lg>
+
+<lg>
+    <l>And yet it may be
+        <l rend=in4>that gently through the years
+    <l>My tear-embroidered songs
+        <l rend=in4>shall fly sometime
+    <l>And fall
+        <l rend=in4>as dew upon the ground
+    <l>On the tender heart of youth,
+    <l>And youth shall nod assent.
+    <l>And weep for me
+    <l>Making mention of me in its prayers.
+    <l>Well, as it will be
+        <l rend=in4>so it will be.
+    <l>Perhaps &apos;twill swim
+        <l rend=in4>Perhaps &apos;twill wade
+    <l>Yet even if they crucify me for it
+    <l>I&apos;ll still write my verses.
+</lg></lg>
+
+
+
+<pb id=pb118 n=118 facs="f:118">
+<div1 id=siberian>
+<head rend="image(images/o067.png)">Siberian Exile</head>
+
+
+<p><hi>Now-a-days we have many discussions and searchings of heart over the question of prisons and the purpose of punishment. I doubt if the autocracy suffered many qualms of conscience in such matters. It was simply an affair of silencing a dangerous voice and disciplining an unruly subject.</hi>
+
+<p><hi>They were too humane to put him to death, they merely sought to crush his spirit. But the Slav spirit is hard to crush. It may brood and smoulder long, but sometime or other it will burst out in flames.</hi>
+
+<p><hi>In the case of Shevchenko another influence may be seen at work. In his ragged youth, when acting as assistant to a drunken church singer he gained at least one thing. That was a familiarity with the Psalter and the Hebrew prophets. The deep religious fire of the Hebrew seems fused with his own irrepressible native genius to form a spirit that could not be subdued.</hi>
+
+<p><hi>They tried to make a soldier of him but he could not or would not learn the tricks of the soldier&apos;s trade.</hi>
+
+<pb id=pb119 n=119 facs="f:119"><p><hi>They forbade him to write but he wrote verses secretly and concealed them.</hi>
+
+<p><hi>Occasionally a humane commander would relax the severity of the rules. One governor allowed him as a hidden favor the reading of the Bible and Shakespeare.</hi>
+
+<p><hi>At another time he was taken with a scientific expedition to the Sea of Aral, and employed in the congenial task of painting the wild scenery of that part.</hi>
+
+<p><hi>At other times again the severity would be redoubled and pen, ink and paper would be forbidden. Through it all his love and sorrow for his native land increased. Only the remembrance of Ukraine kept him alive.</hi>
+
+<p><hi>Ten years of Siberia changed the gay young artist of bright eyes and abundant locks to a gray-bearded, bald-headed old man on whom Death had set his seal.</hi>
+
+<p><hi>But his spirit was still unconquered. At the end of his imprisonment he wrote the &ldquo;Goddess of Fame&rdquo; and the &ldquo;Hymn of the Nuns&rdquo; to show it.</hi>
+
+
+<p><figure id=p119 rend="image(images/p067.png)">
+<figDesc>House with well.</figDesc>
+</figure>
+
+
+
+
+<pb id=pb120 n=120 facs="f:120">
+<div1 id=memories>
+<head>Memories of Freedom</head>
+
+
+<lg><lg>
+    <l>Memories of Freedom
+    <l>Bring sweet sadness to the exile&apos;s heart
+    <l>And so lost liberty of mine
+    <l>I dream of thee.
+    <l>Never hast thou seemed to me
+    <l>So fresh and young
+    <l>And so surpassing fair
+    <l>As now in this foreign land.
+    <l>Alas! Alas!
+    <l>Freedom that I sang away
+    <l>Look at me from o&apos;er the Dnieper,
+    <l>Smile at me from there.
+    <l>And thou my only love
+    <l>Risest o&apos;er the sea so far.
+    <l>In the mist thy face appears
+    <l>Like the evening star.
+    <l>With thee, my only one
+    <l>Thou bring&apos;st my youthful years.
+    <l>Before me like a sea&mdash;
+    <l>Hamlets fair in broad array,
+    <l>Cherry orchards, joyous crowds.
+    <l>This the village, This the people
+    <l>Who once as brothers
+    <l>Welcomed me.
+    <l>Mother! Dear old mother!
+    <l>Home of memories fond!
+    <l>Happy guests of days gone by!
+    <pb id=pb121 n=121 facs="f:121"><l>Who gathered there in days gone by
+    <l>Simply to dance in the good old way
+    <l>From evening light till dawn.
+    <l>Do sun-burned youth
+    <l>And happy maidenhood
+    <l>Still dance in the dear old home?
+    <l>And thou, sweetheart of mine,
+    <l>Thou heartsease of mine,
+    <l>My sacred, dark-eyed one!
+    <l>Still amongst them dost thou walk
+    <l>Silent and proud?
+    <l>And with those blue-black eyes
+    <l>Still dost bewitch
+        <l rend=in4>the peoples&apos; souls?
+    <l>Still as of old
+    <l>Do they admire in vain
+    <l>Thy supple form?
+    <l>Goddess mine! fate of mine!
+    <l>How wee maidens
+    <l>Gather round thee,
+    <l>Chirping and prattling
+    <l>In the good old way.
+</lg>
+
+<lg>
+    <l>Perchance, unwittingly,
+    <l>The children remember me,
+    <l>One makes a little jest of me.
+    <l>Smile, my heart!
+    <l>Just a little, little smile
+    <l>That no one sees.
+    <l>That&apos;s all. I, worse luck!
+    <l>Must pray to God in jail.
+</lg></lg>
+
+
+<pb id=pb122 n=122 facs="f:122"><p><figure id=p121>
+<head>A Scene from Siberia. Shevchenko&apos;s painting.</head>
+</figure>
+
+
+
+<pb id=pb123 n=123 facs="f:123">
+<div1 id=memories2>
+<head>Memories of an Exile</head>
+
+
+<lg>
+    <l>Memories of mine,
+        <l rend=in4>Memories of home,
+    <l>Sole wealth of mine,
+        <l rend=in4>Where&apos;er I roam.
+    <l>When sorrows lower
+    <l>In evil hour
+    <l>And griefs o&apos;ertake me
+    <l>You&apos;ll not forsake me
+        <l rend=in4>From the land of my early loves
+    <l>You will fly like grey-winged doves
+    <l>From broad Dnieper&apos;s shore
+    <l>O&apos;er the steppes to soar.
+    <l>Here the Kirghiz Tartars
+    <l>Dwell naked in poverty.
+    <l>They&apos;re wretched as martyrs
+    <l>Yet this is their liberty;
+    <l>To God they may pray
+    <l>And none say them nay.
+    <l>Will you but fly to meet me,
+    <l>With gentle words
+        <l rend=in4>I&apos;ll greet ye.
+    <l>Of my heart
+        <l rend=in4>ye children dear
+    <l>O&apos;er past loves
+        <l rend=in4>we&apos;ll shed a tear.
+</lg>
+
+
+
+
+<pb id=pb124 n=124 facs="f:124">
+<div1 id=death>
+<head>Death of the Soul</head>
+
+
+<lg><lg>
+    <l>As the nights pass, so pass the days,
+    <l>The year itself passes.
+    <l>Again I hear the rustling
+        <l rend=in4>of autumn leaves.
+    <l>The light of the eyes is fading,
+    <l>Memory is in the heart asleep.
+    <l>Everything sleeps,
+        <l rend=in4>and I know not
+    <l>If I live or am already dead.
+    <l>For so, aimless
+        <l rend=in4>I wander in the world
+    <l>No longer weep nor laugh.
+</lg>
+
+<lg>
+    <l>Fate, where art thou?
+        <l rend=in4>Fate, where art thou?
+    <l>There&apos;s none of any sort!
+    <l>Dost grudge me good fate,
+        <l rend=in4>Oh God,
+    <l>Then send it bad, as bad.
+    <l>Leave me not
+        <l rend=in4>to a walking sleep.
+    <l>With heart like bears&apos;
+        <l rend=in4>in wintry den,
+    <l>Nor yet like rotten log
+        <l rend=in4>on earth to lie;
+    <l>But give me to live,
+    <pb id=pb125 n=125 facs="f:125">    <l rend=in4>with the heart to live,
+    <l>And love the people.
+    <l>If you won&apos;t
+        <l rend=in4>Let me curse them
+    <l>and burn up the world.
+</lg>
+
+<lg>
+    <l>Terrible it is to fall
+        <l rend=in4>into dungeons
+    <l>Yet much worse&mdash;to sleep
+    <l>And sleep and sleep
+        <l rend=in4>in freedom;
+    <l>To slumber for an eternity
+    <l>And leave not a footprint behind.
+    <l>All alike&mdash;
+        <l rend=in4>whether one lives or dies.
+</lg>
+
+<lg>
+    <l>Fate where art thou?
+        <l rend=in4>Fate where art thou?
+    <l>There&apos;s none of any sort!
+    <l>Dost grudge me good fate, Oh God,
+    <l>Then give me bad, as bad.
+</lg></lg>
+
+
+<p><figure id=p125 rend="image(images/p125.png)">
+<figDesc>Ornament: stylished dove.</figDesc>
+</figure>
+
+
+
+
+<pb id=pb126 n=126 facs="f:126">
+<div1 id=hymn>
+<head>Hymn of Exile</head>
+
+
+<lg>
+    <l>The sun goes down beyond the hill,
+    <l>The shadows darken, birds are still;
+    <l>From fields no more come toiler&apos;s voices
+    <l>In blissful rest the world rejoices.
+    <l>With lifted heart I, gazing stand,
+    <l>Seek shady grove in Ukraine&apos;s land.
+    <l>Uplifted thus, &apos;mid memories fond
+    <l>My heart finds rest, o&apos;er the hills beyond.
+    <l>On fields and woods the darkness falls
+    <l>From heaven blue a bright star calls,
+    <l>The tears fall down. Oh, evening star!
+    <l>Hast thou appeared in Ukraine far?
+    <l>In that fair land do sweet eyes seek thee
+    <l>Dear eyes that once were wont to greet me?
+    <l>Have eyes forgotten their tryst to keep?
+    <l>Oh then, in slumber let them sleep
+    <l>No longer o&apos;er my fate to weep.
+</lg>
+
+
+
+<p><figure id=p126 rend="image(images/p076.png)">
+<figDesc>Farmer&apos;s house with well.</figDesc>
+</figure>
+
+
+
+
+<pb id=pb127 n=127 facs="f:127">
+<div1 id=returning>
+<head rend="image(images/o068-1.jpg)">Returning Home</head>
+
+
+<p><hi>After a while a new <corr sic=Ceasar>Caesar</corr> came to the throne, a man who was thought to have liberal tendencies.</hi>
+
+<p><hi>Shevchenko&apos;s friends at once busied themselves with efforts for his release. Finally amnesty was granted. Count Tolstoi, on receiving the news late at night, hastened to waken his household and there was a family jubilation.</hi>
+
+<p><hi>But the new autocrat, though somewhat benevolently inclined, was also a little bit suspicious. The banished poet was a pretty dangerous character. He had even disturbed the conscience of autocracy itself, hence he was only allowed to approach his home country by degrees. Finally he was allowed to reside in Petrograd and later even in Ukraine, welcomed everywhere by loving and pitying friends.</hi>
+
+<p><hi>His wish for his old age was to inhabit a little cottage on the Dnieper&apos;s banks. For this purpose he purchased a piece of land on one of those hills so often referred to in his poems.</hi>
+
+<pb id=pb128 n=128 facs="f:128"><p><hi>Death came too soon, however, but the property served as the site of his last resting place. He died at Petrograd but in the spring his remains were carried the long distance to his old home. A mourning people lined the way.</hi>
+
+<p><hi>Only a couple of days after the poet&apos;s death, appeared the ukase of the czar proclaiming the abolition of serfdom. To the common people it seemed that their peasant poet, by his songs and his sufferings, had been the prime cause of their new freedom.</hi>
+
+<p><hi>No speeches were allowed at the interment on the hill above the Dnieper but there were many people and many wreaths of flowers.</hi>
+
+<p><hi>One wreath, deposited by a lady, expressed more than anything else the common feeling. That wreath was a crown of thorns.</hi>
+
+
+
+<p><figure id=p127 rend="image(images/p066.png)">
+<figDesc>Person kneeling in near bullock cart.</figDesc>
+</figure>
+
+
+
+<pb id=pb129 n=129 facs="f:129">
+
+<p><figure id=p129>
+<figDesc>Taras Shevchenko.</figDesc>
+</figure>
+
+
+<pb id=pb130 n=130 facs="f:130">
+<div1 id=eleventh>
+<head>On the Eleventh Psalm</head>
+
+
+<lg><lg>
+    <l>Merciful God, how few
+    <l>Good folk remain on earth.
+    <l>Behold, each one in heart
+    <l>Is setting snares for another.
+    <l>But with fine words,
+    <l>And lips honey-sweet
+    <l>They kiss&mdash;and wait
+    <l>To see how soon
+    <l>Their brother to his grave
+    <l>Will find his way.
+</lg>
+
+<lg>
+    <l>But Thou who art Lord alone
+    <l>Shuttest up the evil lips,
+    <l>That great-speaking tongue
+    <l>That says:&mdash;
+        <l rend=in4>&ldquo;No trifling thing are we,
+    <l>How glorious shall we show
+    <l>In intellect and speech.
+    <l>Who is that Lord
+        <l rend=in4>that will forbid
+    <l>Our thoughts and words?&rdquo;
+</lg>
+
+<lg>
+    <l>Yea, the Lord shall say to Thee
+    <l>&ldquo;I shall arise, this day
+    <l>On their behalf&mdash;
+        <l rend=in4>People of mine in chains,
+<pb id=pb131 n=131 facs="f:131">    <l>The poor and humble ones
+        <l rend=in4>These will I glorify.
+    <l>Little, dumb and slaves are they,
+    <l>Yet on guard about them
+        <l rend=in4>Will I set my Word.&rdquo;
+</lg>
+
+<lg>
+    <l>Like trampled grass
+    <l>Shall perish your thoughts
+    <l>And words alike.
+</lg>
+
+<lg>
+    <l>Like silver, hammered, beaten,
+    <l>Seven times melted o&apos;er the fire,
+    <l>Are thy words, Oh Lord.
+    <l>Scatter these holy words of Thine,
+    <l>O&apos;er all the earth,
+    <l>That Thy children
+        <l rend=in4>little and poor
+    <l>May believe in miracles on earth.
+</lg></lg>
+
+
+
+<p><figure id=o131 rend="image(images/o131.png)">
+<figDesc>Ornament: dove with laurel.</figDesc>
+</figure>
+
+
+
+<pb id=pb132 n=132 facs="f:132">
+<div1 id=prayer1>
+<head>Prayer I.</head>
+
+<p><figure id=o132-1 rend="image(images/o081-2.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+<lg><lg>
+    <l>To Tsars and kings
+    <l>who tax the world,
+    <l>Send dollars and ducats,
+    <l>And fetters well-forged.
+</lg>
+
+<lg>
+    <l>To toiling heads and toiling hands,
+    <l>Laboring on these stolen lands
+    <l>Endurance and strength.
+</lg>
+
+<lg>
+    <l>To me, my God, on this sad earth,
+    <l>Give me but love,
+        <l rend=in4>the heart&apos;s paradise
+    <l>And nothing more.
+</lg></lg>
+
+
+<p><figure id=o132-2 rend="image(images/o132.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+
+
+<pb id=pb133 n=133 facs="f:133">
+<div1 id=prayer2>
+<head>Prayer II.</head>
+
+<p><figure id=o133-1 rend="image(images/o081-2.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+<lg><lg>
+    <l>My prayer for the Tsars,
+        <l rend=in4>These <corr sic=traffiickers>traffickers</corr> in blood,
+    <l>That Thou on them would&apos;st put
+        <l rend=in4>Fetters of iron, in dungeons deep.
+</lg>
+
+<lg>
+    <l>My prayer for the peoples
+          <l rend=in6>toiling long,
+    <l>Do Thou to them
+              <l rend=in10>on their ravaged lands,
+    <l>Send down Thy strength
+            <l rend=in8>most merciful One.
+    <l>And for the pure in heart
+        <l rend=in4>Grant angel guards beside them,
+    <l>To keep them pure.
+</lg>
+
+<lg>
+    <l>And for myself, Oh Lord,
+    <l>I ask nought else
+    <l>But truth on earth to love,
+    <l>And one true friend
+            <l rend=in8>to love me.
+</lg></lg>
+
+
+
+<p><figure id=o133-2 rend="image(images/o008.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+
+
+<pb id=pb134 n=134 facs="f:134">
+<div1 id=prayer3>
+<head>Prayer III.</head>
+
+<p><figure id=o134-1 rend="image(images/o081-2.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+<lg><lg>
+    <l>For those that have done wrong to me,
+    <l>No longer do I fetters ask,
+    <l>Nor dungeons deep.
+</lg>
+
+<lg>
+    <l>For hands that faithful toil for good
+    <l>Send Thy instructions&apos; gracious aid,
+    <l>And Holy strength.
+</lg>
+
+<lg>
+    <l>For tender ones,
+            <l rend=in8>the pure in heart
+    <l>Do Thou, Oh God,
+            <l rend=in8>their virtue save
+    <l>With angel&apos;s guard.
+</lg>
+
+<lg>
+    <l>For all Thy children on this earth
+    <l>May they Thy wisdom
+          <l rend=in6>know alike,
+    <l>In brother love.
+</lg></lg>
+
+
+<p><figure id=o134-2 rend="image(images/o134.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+
+
+<pb id=pb135 n=135 facs="f:135">
+<div1 id=prayer4>
+<head>Prayer IV.</head>
+
+<p><figure id=o135-1 rend="image(images/o081-2.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+<lg><lg>
+    <l>To those of the ever-greedy eyes,
+    <l>Gods of earth, <corr sic=The>the</corr> Tsars,
+    <l>Are the ploughs and the ships,
+    <l>And all good things of earth
+    <l>For these little gods.
+</lg>
+
+<lg>
+    <l>To toiling hands,
+    <l>To toiling brains
+    <l>Is given to plough the barren field,
+    <l>To think, to sow, and take no rest
+    <l>And reap the fields anon.
+    <l>Such the reward of toiling hands.
+</lg>
+
+<lg>
+    <l>For the true-hearted lowly ones,
+    <l>Peace-loving saints,
+    <l>Oh, Creator of heaven and earth,
+    <l>Give long life on earth,
+    <l>And paradise beyond.
+</lg>
+
+<lg>
+    <l>All good things of earth
+    <l>Are for these gods, the Tsars,
+    <l>Ploughs and ships,
+    <l>All wealth of earth
+    <l>For us&mdash;good <corr sic=lack>luck</corr>!
+    <l>Is left to love our brothers.
+</lg></lg>
+
+
+<p><figure id=o135-2 rend="image(images/o135.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+
+<pb id=pb136 n=136 facs="f:136">
+<div1 id=mighty>
+<head rend="image(images/o103.png)">Mighty Wind</head>
+
+<p><figure id=o136 rend="image(images/o081-2.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+<lg><lg>
+    <l>Mighty wind, mighty wind!
+      <l rend=in2>With the sea thou speakest;
+    <l>Waken it, play with it,
+      <l rend=in2>Question the blue sea.
+    <l>It knows where my lover is,
+      <l rend=in2>Far away it bore him.
+    <l>It will tell, the sea will tell,
+      <l rend=in2>What it has done with him.
+</lg>
+
+<lg>
+    <l>If it has drowned my darling,
+      <l rend=in2>Beat on the blue sea.
+    <l>I go to seek my loved one,
+      <l rend=in2>And to drown my woe.
+    <l>If I find him, I&apos;ll cling to him,
+      <l rend=in2>On his heart I&apos;ll faint.
+    <l>Then waves bear me with him
+      <l rend=in2>Where&apos;er the winds do blow.
+</lg>
+
+<lg>
+    <l>If my lover is beyond the sea,
+      <l rend=in2>Mighty wind, thou knowest
+    <l>Where he goes, what he does,
+      <l rend=in2>With him thou speakest.
+<pb id=pb137 n=137 facs="f:137">    <l>If he weeps, then I shall weep,
+      <l rend=in2>If not, I sing.
+    <l>If my dark-haired one has perished,
+      <l rend=in2>I shall perish, too.
+</lg>
+
+<lg>
+    <l>Then bear my soul away
+      <l rend=in2>Where my loved one is,
+    <l>Plant me as a red viburnum
+      <l rend=in2>On his tomb.
+    <l>Better that an orphan lie
+      <l rend=in2>In a stranger&apos;s field,
+    <l>Over him his sweetheart
+      <l rend=in2>Will bud and bloom.
+</lg>
+
+<lg>
+    <l>As a blossom of viburnum
+      <l rend=in2>Over him I&apos;ll bloom,
+    <l>That foreign sun may burn him not,
+      <l rend=in2>Nor strangers trample on his tomb.
+    <l>At even I&apos;ll grieve,
+      <l rend=in2>In the morning I&apos;ll weep.
+    <l>The sun comes up,
+      <l rend=in2>My tears I&apos;ll dry,
+    <l>And no one sees.
+</lg>
+
+<lg>
+    <l>Mighty wind, mighty wind!
+      <l rend=in2>With the sea thou speakest.
+    <l>Waken it, play on it,
+      <l rend=in2>Question the blue sea.
+</lg></lg>
+
+
+
+<p><figure id=o137 rend="image(images/o137.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+
+<pb id=pb138 n=138 facs="f:138">
+<div1 id=fairy>
+<head>The Water Fairy</head>
+
+<p><figure id=o138 rend="image(images/o081-2.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+<lg><lg>
+    <l>Me my mother bore
+      <l rend=in2>&apos;Mid lofty palace walls,
+    <l>Me at midnight hour
+      <l rend=in2>In Dnieper&apos;s flood she bathed;
+    <l>And bathing, she murmured
+      <l rend=in2>Over little me:
+</lg>
+
+<lg>
+        <l rend=in4>&ldquo;Swim, swim, little maid,
+        <l rend=in4>Adown the Dnieper water,
+        <l rend=in4>You&apos;ll swim out a fairy
+        <l rend=in4>Next midnight, my daughter.
+        <l rend=in4>I go to dance with him,
+        <l rend=in4>My faithless lover;
+        <l rend=in4>You&apos;ll come and lure him
+        <l rend=in4>Into the river.
+        <l rend=in4>No more shall he laugh at me,
+        <l rend=in4>At my tears out-flowing,
+        <l rend=in4>But o&apos;er him the Dnieper
+        <l rend=in4><corr sic="It&apos;s">Its</corr> blue water is rolling.
+        <l rend=in4>Swim out, my only one,
+        <l rend=in4>He will come to dance with thee.
+        <l rend=in4>Waves, waves, little waves,
+          <l rend=in6>Greet ye the water fairy.&rdquo;
+</lg>
+
+<lg>
+    <l>Sadly she cried and ran away,
+    <l>As I floated down the stream.
+    <pb id=pb139 n=139 facs="f:139"><l>But sister fairies met me,
+    <l>I grew as in a dream.
+    <l>A week, and I dance at midnight,
+    <l>And watch from the water pools.
+    <l>What does my sinful mother?
+    <l>Lives she still in shameful pleasure,
+    <l>With him, the faithless lord?
+    <l>Thus the fairy whispered,
+    <l>Then like diving bird she dropped
+    <l>Back in the stream,
+    <l>And the willows bowed above her.
+</lg>
+
+<lg>
+    <l>The mother comes to walk by the river side.
+    <l>&apos;Tis weary in the palace,
+    <l>And the lord is not at home.
+      <l rend=in2>She comes to the bank, thinks of her little one
+    <l>Whom she plunged in with muttered charms.
+      <l rend=in2>What matters it? She would go back to the palace,
+    <l>But no, <corr sic="her&apos;s">hers</corr> is another fate.
+      <l rend=in2>She noticed not how the river maidens hastened
+    <l>Till they caught her, and tickled her &apos;mid laughter.
+      <l rend=in2>Joyfully they caught her, and played and tickled her,
+    <l>And put her in a basket net
+      <l rend=in2>(Unto her death).
+    <l>And then they roared and laughed;
+    <l>But one little fairy did not laugh.
+</lg></lg>
+
+
+
+
+<pb id=pb140 n=140 facs="f:140">
+<div1 id=nuns>
+<head>Hymn of the Nuns</head>
+
+<p><figure id=o140 rend="image(images/o081-2.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+<p rend=small>Shevchenko had heard a story of nuns in a convent conveying <corr sic=messeges>messages</corr> to one another interspersed in the words of the religious service. The <corr sic=messeges>messages</corr> were to the effect that company was coming that night and there would be music and dancing. Hence this sardonically humorous poem.
+
+
+<lg><lg>
+    <l>Strike lightning above this house,
+    <l>This house of God where we are dying,
+    <l>Where we think lightly of Thee, God,
+    <l>And, thinking lightly, sing
+            <l rend=in8>Hallelujah.
+</lg>
+
+<lg>
+    <l>Were it not for Thee,
+            <l rend=in8>we had loved men;
+    <l>Had courted and married,
+    <l>Brought up children,
+    <l>Taught them and sung
+            <l rend=in8>Hallelujah.
+</lg>
+
+<lg>
+    <l>Thou hast cheated us,
+                <l rend=in12>poor wretches!
+    <l>And we, defrauded and unlucky,
+    <l>Ourselves have fooled Thee,
+    <l>And howled and sung: Hallelujah.
+</lg>
+
+<lg>
+    <l>With barber&apos;s shears hast put us in this nunnery,
+    <l>And we&mdash;young women still&mdash;
+    <l>We dance and sing,
+    <l>And singing say: Hallelujah.
+</lg></lg>
+
+
+
+
+<pb id=pb141 n=141 facs="f:141">
+<div1 id=goddess>
+<head>To the Goddess of Fame</head>
+
+<p><figure id=o141 rend="image(images/o081-2.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+<lg><lg>
+    <l>Hail, thou barmaid slovenly,
+    <l>Stagg&apos;ring like fish-wife drunkenly;
+    <l>Where the dickens dost thou stay,
+    <l>With thy stock of haloes, pray?
+    <l>Was it on credit thou gavest one
+    <l>To the thief of Versailles, that Corsican?
+    <l>Perhaps now thou&apos;rt whispering in some fellow&apos;s ear;
+    <l>And all because of boredom or beer.
+</lg>
+
+<lg>
+    <l>Come then awhile with me to lodge,
+    <l>Fondly, together, trouble we&apos;ll dodge.
+    <l>With a smack and a kiss
+                <l rend=in12>This dreary weather,
+    <l>Let&apos;s make a bargain
+                <l rend=in12>to live together.
+    <l>Thou&apos;rt a painted queen
+                <l rend=in12>with manners free,
+    <l>Yet in thy company
+                <l rend=in12>I&apos;d gladly be.
+</lg>
+
+<lg>
+    <l>What though thou holdest
+                <l rend=in12>thy nose in air,
+    <l>Dancest in barrooms
+                <l rend=in12>with kings at a fair;
+<pb id=pb142 n=142 facs="f:142">    <l>And most with that chap
+                <l rend=in12>they call the Tsar;
+    <l>Still that&apos;s no bother,
+                <l rend=in12>thy stock&apos;s still at par.
+</lg>
+
+<lg>
+    <l>Come, my dear, make haste to me,
+    <l>Let me have a look at thee;
+    <l>Bestow on me a little smile,
+    <l>&apos;Neath thy bright wings
+                <l rend=in12>I&apos;d rest a while.
+</lg></lg>
+
+
+
+<p><figure id=o142 rend="image(images/o142.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+
+<pb id=pb143 n=143 facs="f:143">
+<div1 id=iconoclasm>
+<head>Iconoclasm</head>
+
+
+<lg>
+    <l>Bright light, peaceful light,
+    <l>Free light, light unbound!
+    <l>What is this, brother light?
+    <l>In thy warm home thou&apos;rt found
+    <l>By censers smoked,
+    <l>By priests&apos; robes choked,
+    <l>Fettered and fooled
+    <l>And by <corr sic=Ikons>Icons</corr> ruled.
+    <l>Yield thee not in the fight,
+    <l>Waken up, brother light!
+    <l>Shed thy pure rays
+    <l>On mankind&apos;s ways.
+    <l>All priestly robes in rags we&apos;ll tear
+    <l>And light our pipes from censers rare,
+    <l>With <corr sic=Ikons>Icons</corr> now the flames will roar,
+    <l>With holy brooms we&apos;ll sweep the floor.
+</lg>
+
+
+<p><figure id=o143 rend="image(images/o143.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+<pb id=pb144 n=144 facs="f:144">
+<div1 id=testament>
+<head>My Testament</head>
+
+<p><figure id=o144 rend="image(images/o007-1.png)">
+<figDesc>Ornament.</figDesc>
+</figure>
+
+
+<lg><lg>
+    <l>When I die, remember, lay me
+      <l rend=in2>Lowly in the silent tomb,
+    <l>Where the prairie stretches free,
+      <l rend=in2>Sweet Ukraine, my cherished home.
+</lg>
+
+<lg>
+    <l>There, &apos;mid meadows&apos; grassy sward,
+      <l rend=in2>Dnieper&apos;s waters pouring
+    <l>May be seen and may be heard,
+      <l rend=in2>Mighty in their roaring.
+</lg>
+
+<lg>
+    <l>When from Ukraine waters bear
+      <l rend=in2>Rolling to the sea so far
+    <l>Foeman&apos;s blood, no longer there
+      <l rend=in2>Stay I where my ashes are.
+</lg>
+
+<lg>
+    <l>Grass and hills I&apos;ll leave and fly.
+      <l rend=in2>Unto throne of God I&apos;ll go,
+    <l>There in heaven to pray on high,
+      <l rend=in2>But, till then, no God I know.
+</lg>
+
+<lg>
+    <l>Standing then about my grave,
+      <l rend=in2>Make ye haste, your fetters tear!
+    <l>Sprinkled with the foeman&apos;s blood
+      <l rend=in2>Then shall rise your freedom fair.
+</lg>
+
+<lg>
+    <l>Then shall spring a kinship great,
+      <l rend=in2>This a family new and free.
+    <l>Sometimes in your glorious state,
+      <l rend=in2>Gently, kindly, speak of me.
+</lg></lg>
+
+
+
+
+<pb id=pb145 n=145 facs="f:145"><p><figure id=p145>
+<head>First Burial Mound of the Poet.</head>
+</figure>
+
+
+
+
+</body>
+<back id=backmatter>
+<div1 id=ad type=Advertisement>
+
+
+<lg>
+    <l>&bdquo;<UK>Movo rixdna, slovo rixdnie,</UK>
+    <l><UK>Khto vas zabuva&#x454;,</UK>
+    <l><UK>Toj u grudyakh nie sierdien'ko</UK>
+    <l><UK>A lish kamixn' ma&#x454;...</UK>&rdquo;
+</lg>
+
+
+<p><figure id=harvest rend="image(images/harvest.png)">
+<figDesc>Woman with rake and scythe dancing on field with flowers and grain.</figDesc>
+</figure>
+
+<p rend=center><UK>Pishixt' po nash Ixlyustrovanij Katal'o&#x491;.</UK>
+
+<p rend="center xxl">Ukrainska Knyharnia
+
+<p rend="center xl">Ukrainian Booksellers &amp; Publishers Ltd.
+
+<p rend=center><UK>Najstarsha ix Najbixl'shie Dovixriena Ukra&#x457;ns'ka Knigarnya v Kanadix.</UK>
+
+<p rend="center xl">656&ndash;660 MAIN STREET<corr>,</corr> WINNIPEG, MAN.
+
+
+
+<div1 id=backcover type=Cover>
+
+
+<p><figure id=back>
+<figDesc>Original Back Cover.</figDesc>
+</figure>
+
+
+</div1>
+
+
+<divGen type=Colophon>
+
+
+</back>
+</text>
+</TEI.2>
+
+<!--
+
+CHECKLIST (X = done; / = not applicable)
+
+Initial cleanup
+
+[ ] Check all pb-tags, and join lines
+[ ] Move all footnotes in-line
+[ ] Tag headers
+[X] Fix all [** Proofer comments]
+[ ] Start all paragraphs with the p-tag
+[ ] Change b, sc, g tags to hi tags with correct attributes.
+[ ] Change tb tags to milestone tags.
+[ ] Fix multiple spaces in a row
+[ ] Verify all paragraphs start with p-tag, also those starting with a tag.
+
+TEI header
+
+[ ] Add TEI header.
+[ ] Fill in details in TEI header
+[ ] Verify Author dates and add to TEI header.
+[ ] Document on-line scan sources.
+[ ] Fill in description in noteStmt.
+[ ] Fill in keywords / Subjects
+[ ] Add auto-generated colophon divGen tag.
+[ ] Fill in reference to LOC record (https://catalog.loc.gov/).
+[ ] Fill in reference to OpenLibrary record (https://openlibrary.org).
+[ ] Fill in reference to WorldCat record (source and work) (https://www.worldcat.org).
+[ ] Generate unique epub-id. (https://www.guidgenerator.com/)
+
+Verse
+
+[ ] Tag all verse.
+[ ] Apply proper indentation: rend=in2
+
+Lists
+
+[ ] Tag all lists.
+
+Tables
+
+[ ] Format tables
+[ ] Apply ditto-tags.
+
+Table of Contents
+
+[ ] Format table(s) of contents
+[ ] Link entries in table of contents
+[ ] Verify each link
+[ ] Compare with generated table of contents
+
+Images
+
+[ ] Include all illustrations
+[ ] Verify positioning of images makes sense.
+
+Spelling
+
+[ ] Verify generated wordlist
+[ ] Tag language usage
+
+Tools
+
+[ ] Verify Gutcheck
+[ ] Verify jeebees
+
+Miscellany
+
+[ ] Check for [Greek: ...] notation
+[ ] Curlify quotes
+[ ] Check for wrong quotes
+[ ] Disambiguate single quotes, apostrophes, and primes.
+[ ] Unwrap lines
+[ ] Check for lines not unwrapped
+[ ] Verify sequence of page-numbers
+[ ] Handle fractions, such as 1/2.
+[ ] Converted all fragments in uppercase to mixed case.
+
+Text Version
+
+[ ] Remove FIGURE notations
+[ ] Verify empty lines between chapter headings
+[ ] Verify empty lines around poetry and lists
+[ ] Center poetry
+[ ] Format title page
+[ ] Remove Ads
+[ ] Format Tables
+[ ] Verify Greek and other transliterations
+
+Additional Checks and Edits (Add as needed for a specific book)
+
+[ ] ....
+
+Posting
+
+[ ] Make sure dp-post@pgdp.net is cc-ed on upload
+
+Post-Posting
+
+[ ] Update status to 1.0 (i.e. Posted).
+[ ] Include PG number and posting date in metadata
+
+-->
